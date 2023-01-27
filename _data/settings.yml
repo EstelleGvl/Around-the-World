@@ -1,0 +1,36 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: 'UA-112060364-2'
+
+menu:
+- {name: 'Where I lived', url: 'whereilived'}
+- {name: 'America', url: 'america'}
+- {name: 'Africa', url: 'africa'}
+- {name: 'Asia', url: 'asia'}
+- {name: 'Europe', url: 'europe'}
+- {name: 'Middle East', url: 'middleeast'}
+- {name: 'Top Tips', url: 'toptips'}
+- {name: 'About Me', url: 'aboutme'}
+- {name: 'Contact', url: 'contact'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter', link:    'https://twitter.com/EstelleGvl'}
+- {icon: 'instagram', link:  'https://instagram.com/estelle_gvl'}
+- {icon: 'envelope', link:   'mailto:estelle.gueville@gmail.com'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Older'
+  previous_page: 'Newer'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'
