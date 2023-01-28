@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Millennial</title>
+		<description>Around the world</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>United States of America | 2022 - now</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;p&gt;xxxx&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/usa</link>
+				<guid isPermaLink="true">http://localhost:4000/usa</guid>
+			</item>
+		
+			<item>
+				<title>United Arab Emirates | 2016-2022</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;p&gt;XXX&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/uae</link>
+				<guid isPermaLink="true">http://localhost:4000/uae</guid>
+			</item>
+		
+			<item>
+				<title>Slovenia | 2021-2022</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;h2 id=&quot;facts&quot;&gt;FACTS&lt;/h2&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/slovenia</link>
+				<guid isPermaLink="true">http://localhost:4000/slovenia</guid>
+			</item>
+		
+			<item>
+				<title>Paris</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;p&gt;Paris&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/paris</link>
+				<guid isPermaLink="true">http://localhost:4000/paris</guid>
+			</item>
+		
+			<item>
+				<title>Hiking in France</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;p&gt;Paris&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/hikinginfrance</link>
+				<guid isPermaLink="true">http://localhost:4000/hikinginfrance</guid>
+			</item>
+		
+			<item>
+				<title>France | 1992-2013 | 2014-2016</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;p&gt;This is a test. I want to link this page to a subpage about &lt;a href=&quot;/paris&quot;&gt;Paris&lt;/a&gt; and another subpage about &lt;a href=&quot;/hikinginfrance&quot;&gt;Hiking in France&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/france</link>
+				<guid isPermaLink="true">http://localhost:4000/france</guid>
+			</item>
+		
+			<item>
+				<title>Cyprus | 2021</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;p&gt;XXX&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/cyprus</link>
+				<guid isPermaLink="true">http://localhost:4000/cyprus</guid>
+			</item>
+		
+			<item>
+				<title>Canada | 2013-2014</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;p&gt;xxxxx&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/canada</link>
+				<guid isPermaLink="true">http://localhost:4000/canada</guid>
+			</item>
+		
+			<item>
+				<title>Bulgaria | 2017</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;p&gt;XXX&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/bulgaria</link>
+				<guid isPermaLink="true">http://localhost:4000/bulgaria</guid>
+			</item>
+		
+			<item>
+				<title>Thailand | 2019</title>
+				
+					<dc:creator>Estelle Guéville</dc:creator>
+				
+				
+					<description>&lt;h2 id=&quot;xxx&quot;&gt;XXX&lt;/h2&gt;
+</description>
+				
+				<pubDate>Wed, 05 Jan 2022 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/thailand</link>
+				<guid isPermaLink="true">http://localhost:4000/thailand</guid>
+			</item>
+		
+	</channel>
+</rss>

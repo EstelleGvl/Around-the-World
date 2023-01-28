@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-27T22:03:12-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Millennial</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry><title type="html">United Arab Emirates | 2016-2022</title><link href="http://localhost:4000/uae" rel="alternate" type="text/html" title="United Arab Emirates | 2016-2022" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/uae</id><content type="html" xml:base="http://localhost:4000/uae"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="middleeast" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bulgaria | 2017</title><link href="http://localhost:4000/bulgaria" rel="alternate" type="text/html" title="Bulgaria | 2017" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/bulgaria</id><content type="html" xml:base="http://localhost:4000/bulgaria"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Canada | 2013-2014</title><link href="http://localhost:4000/canada" rel="alternate" type="text/html" title="Canada | 2013-2014" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/canada</id><content type="html" xml:base="http://localhost:4000/canada"><![CDATA[<p>xxxxx</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="america" /><summary type="html"><![CDATA[xxxxx]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cyprus | 2021</title><link href="http://localhost:4000/cyprus" rel="alternate" type="text/html" title="Cyprus | 2021" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/cyprus</id><content type="html" xml:base="http://localhost:4000/cyprus"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">France | 1992-2013 | 2014-2016</title><link href="http://localhost:4000/france" rel="alternate" type="text/html" title="France | 1992-2013 | 2014-2016" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/france</id><content type="html" xml:base="http://localhost:4000/france"><![CDATA[<p>This is a test. I want to link this page to a subpage about <a href="/paris">Paris</a> and another subpage about <a href="/hikinginfrance">Hiking in France</a>.</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="europe" /><summary type="html"><![CDATA[This is a test. I want to link this page to a subpage about Paris and another subpage about Hiking in France.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hiking in France</title><link href="http://localhost:4000/hikinginfrance" rel="alternate" type="text/html" title="Hiking in France" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/hikinginfrance</id><content type="html" xml:base="http://localhost:4000/hikinginfrance"><![CDATA[<p>Paris</p>]]></content><author><name>Estelle Guéville</name></author><summary type="html"><![CDATA[Paris]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Paris</title><link href="http://localhost:4000/paris" rel="alternate" type="text/html" title="Paris" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/paris</id><content type="html" xml:base="http://localhost:4000/paris"><![CDATA[<p>Paris</p>]]></content><author><name>Estelle Guéville</name></author><summary type="html"><![CDATA[Paris]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Slovenia | 2021-2022</title><link href="http://localhost:4000/slovenia" rel="alternate" type="text/html" title="Slovenia | 2021-2022" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/slovenia</id><content type="html" xml:base="http://localhost:4000/slovenia"><![CDATA[<h2 id="facts">FACTS</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><b>Country:</b> Slovenia</th>
+      <th style="text-align: center"><b>Year:</b> 2021-2022</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><b>Length:</b></td>
+      <td style="text-align: center"><b>Dates:</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h2 id="trip">TRIP</h2>
+<h3 id="preparatory">Preparatory</h3>
+
+<p><br /></p>
+
+<h3 id="adjusted">Adjusted</h3>
+
+<p><br /></p>
+
+<h3 id="off-the-beaten-track">Off the beaten track</h3>
+
+<p><br /></p>
+
+<h2 id="top-tips">TOP TIPS</h2>
+<h3 id="where-to-sleep">Where to sleep</h3>
+
+<p><br /></p>
+
+<h3 id="where-to-eat">Where to eat</h3>
+
+<p><br /></p>
+
+<h3 id="what-to-pack">What to pack</h3>
+
+<p><br /></p>
+
+<h3 id="who-to-contact">Who to contact</h3>
+
+<p><br /></p>
+
+<h2 id="traveling-alone-as-a-woman">TRAVELING ALONE AS A WOMAN</h2>
+<p><br /></p>
+
+<h2 id="my-take">MY TAKE</h2>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><summary type="html"><![CDATA[FACTS]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">United States of America | 2022 - now</title><link href="http://localhost:4000/usa" rel="alternate" type="text/html" title="United States of America | 2022 - now" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/usa</id><content type="html" xml:base="http://localhost:4000/usa"><![CDATA[<p>xxxx</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="america" /><summary type="html"><![CDATA[xxxx]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Qatar | June 2022</title><link href="http://localhost:4000/qatar" rel="alternate" type="text/html" title="Qatar | June 2022" /><published>2022-01-05T00:00:00-05:00</published><updated>2022-01-05T00:00:00-05:00</updated><id>http://localhost:4000/qatar</id><content type="html" xml:base="http://localhost:4000/qatar"><![CDATA[<p><strong>Table of Content</strong></p>
+
+<ol id="markdown-toc">
+  <li><a href="#qatar-an-overview" id="markdown-toc-qatar-an-overview">Qatar. An Overview</a></li>
+  <li><a href="#how-safe-is-it" id="markdown-toc-how-safe-is-it">How Safe Is It?</a>    <ol>
+      <li><a href="#general-observations" id="markdown-toc-general-observations">General Observations</a></li>
+      <li><a href="#traveling-as-a-woman-and-a-lesbian" id="markdown-toc-traveling-as-a-woman-and-a-lesbian">Traveling as a Woman and a Lesbian</a></li>
+    </ol>
+  </li>
+  <li><a href="#my-trip" id="markdown-toc-my-trip">My trip</a>    <ol>
+      <li><a href="#the-national-museum-of-qatar" id="markdown-toc-the-national-museum-of-qatar">The National Museum of Qatar</a></li>
+      <li><a href="#souqs" id="markdown-toc-souqs">Souqs</a></li>
+      <li><a href="#museums" id="markdown-toc-museums">Museums</a></li>
+    </ol>
+  </li>
+  <li><a href="#tips-and-recommendations" id="markdown-toc-tips-and-recommendations">Tips and Recommendations</a>    <ol>
+      <li><a href="#how-long-should-you-stay" id="markdown-toc-how-long-should-you-stay">How Long Should You Stay?</a></li>
+      <li><a href="#when-to-go" id="markdown-toc-when-to-go">When to Go?</a></li>
+      <li><a href="#where-to-stay" id="markdown-toc-where-to-stay">Where to Stay?</a></li>
+      <li><a href="#where-to-eat" id="markdown-toc-where-to-eat">Where to Eat?</a></li>
+      <li><a href="#how-to-move-around" id="markdown-toc-how-to-move-around">How to Move Around?</a></li>
+    </ol>
+  </li>
+</ol>
+
+<p><br /></p>
+
+<p>In June 2022, with more than 45°C (113°F), Doha has been my last trip from <a href="/abudhabi">Abu Dhabi</a>. After the <a href="/bahrain">Bahraini</a> surprise, I wanted to visit the Qatari capital and its museums before leaving the <a href="">UAE</a> for good to start a new life in the <a href="/usa">United States</a>. It has been a great discovery, full of amazingly sweet people, great food, culture and entertainment.</p>
+
+<p><img src="/assets/img/qatar/nmq/IMG_3028.jpg" style="zoom:100%" />
+<br /></p>
+
+<h1 id="qatar-an-overview">Qatar. An Overview</h1>
+<p>Qatar is a small country located in the Middle East, on the northeastern coast of the Arabian Peninsula. With a long history of foreign rule, by the Ottomans, and then as a British protectorate since 1916, Qatar declared its independence on September 3, 1971. It is now part of the GCC (Gulf Cooperation Council), an intergovernmental, political, and economic union established in May 1981, along with <a href="/bahrain">Bahrain</a>, Kuwait, <a href="/oman">Oman</a>, Saudi Arabia and the <a href="/uae">United Arab Emirates</a>.</p>
+
+<p>Qatar is, officially, a semi-constitutional and hereditary monarchy, ruled by the House of Thani since the late 19th century. The current Emir, the eighth, is Tamim bin Hamad Al Thani who has been ruling since 2013. A muslim country with only one border with the Kingdom of Saudi Arabia, it counts 2.6 million inhabitants, among which only about 12% are Qataris (slightly more than 300 000 people). The rest of the population is made of expatriates from all over the world. It is also one of the wealthiest countries in the world with the fourth GDP (gross domestic product) per capita in 2020.</p>
+
+<p>Qatar has recently been put under the light for hosting the 2022 FIFA World Cup, becoming the first Arab and Muslim-majority country to do so. The preparation of this event also highlighted a number of issues related to Human Rights as well as religious freedom and LGBTQ+ rights. Officially, as in the <a href="/uae">United Arab Emirates</a>, Qatar uses the Sharia law, making apostasy and homosexuality crimes punishable by the death penalty while blasphemy is punishable by up to 7 years in prison. However, in practice, the country enforces a mixture of Sharia law and Civil law and, and no capital sentence has been recorded so far for the crimes mentioned above.</p>
+
+<p><img src="/assets/img/qatar/nmq/IMG_3190.jpg" style="zoom:100%" /></p>
+
+<p><br /></p>
+
+<h1 id="how-safe-is-it">How Safe Is It?</h1>
+<h2 id="general-observations">General Observations</h2>
+
+<p>After this rather scary introduction, you must wonder if it is safe for you to travel to Qatar. <strong>The answer is yes!</strong></p>
+
+<p>Qatar, like most other countries in the GCC, is extremely safe. It is actually <strong>THE safest country</strong> in the world, just before the <a href="/uae">United Arab Emirates</a> according to <a href="https://www.numbeo.com/cost-of-living/">Numbeo</a>. Other rankings usually put the country in the top 20 of the safest countries in the world.</p>
+
+<p>You do not need to worry about being robbed, you can leave your waller on a table and go to the bathroom without fear of it being stolen, you can walk in the streets at night without fear of being mugged or attacked.</p>
+
+<p>But is it safe for everyone?</p>
+
+<p><br /></p>
+
+<h2 id="traveling-as-a-woman-and-a-lesbian">Traveling as a Woman and a Lesbian</h2>
+
+<p>As I mentioned earlier, Qatar is a muslim country enforcing the sharia law. Officially, being gay in Qatar is illegal and punishable. In practice,</p>
+
+<p><img src="/assets/img/qatar/nmq/IMG_3190.jpg" style="zoom:100%" /></p>
+
+<p><br /></p>
+
+<h1 id="my-trip">My trip</h1>
+<h2 class="no_toc" id="day-1">Day 1</h2>
+<h3 id="the-national-museum-of-qatar">The National Museum of Qatar</h3>
+<p>xxx</p>
+
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+<ul class="image-gallery"><li><a href="/assets/img/qatar/nmq/IMG_3024.JPG" title="IMG_3024"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3024.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3024" title="IMG_3024" /><span>IMG_3024</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3025.JPG" title="IMG_3025"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3025.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3025" title="IMG_3025" /><span>IMG_3025</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3026.JPG" title="IMG_3026"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3026.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3026" title="IMG_3026" /><span>IMG_3026</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3027.JPG" title="IMG_3027"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3027.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3027" title="IMG_3027" /><span>IMG_3027</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3028.JPG" title="IMG_3028"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3028.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3028" title="IMG_3028" /><span>IMG_3028</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3029.JPG" title="IMG_3029"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3029.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3029" title="IMG_3029" /><span>IMG_3029</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3030.JPG" title="IMG_3030"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3030.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3030" title="IMG_3030" /><span>IMG_3030</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3031.JPG" title="IMG_3031"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3031.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3031" title="IMG_3031" /><span>IMG_3031</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3032.JPG" title="IMG_3032"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3032.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3032" title="IMG_3032" /><span>IMG_3032</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3033.JPG" title="IMG_3033"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3033.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3033" title="IMG_3033" /><span>IMG_3033</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3034.JPG" title="IMG_3034"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3034.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3034" title="IMG_3034" /><span>IMG_3034</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3035.JPG" title="IMG_3035"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3035.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3035" title="IMG_3035" /><span>IMG_3035</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3036.JPG" title="IMG_3036"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3036.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3036" title="IMG_3036" /><span>IMG_3036</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3037.JPG" title="IMG_3037"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3037.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3037" title="IMG_3037" /><span>IMG_3037</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3038.JPG" title="IMG_3038"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3038.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3038" title="IMG_3038" /><span>IMG_3038</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3039.JPG" title="IMG_3039"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3039.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3039" title="IMG_3039" /><span>IMG_3039</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3040.JPG" title="IMG_3040"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3040.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3040" title="IMG_3040" /><span>IMG_3040</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3074.JPG" title="IMG_3074"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3074.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3074" title="IMG_3074" /><span>IMG_3074</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3075.JPG" title="IMG_3075"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3075.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3075" title="IMG_3075" /><span>IMG_3075</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3089.JPG" title="IMG_3089"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3089.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3089" title="IMG_3089" /><span>IMG_3089</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3107.JPG" title="IMG_3107"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3107.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3107" title="IMG_3107" /><span>IMG_3107</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3119.JPG" title="IMG_3119"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3119.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3119" title="IMG_3119" /><span>IMG_3119</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3157.JPG" title="IMG_3157"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3157.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3157" title="IMG_3157" /><span>IMG_3157</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3158.JPG" title="IMG_3158"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3158.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3158" title="IMG_3158" /><span>IMG_3158</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3159.JPG" title="IMG_3159"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3159.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3159" title="IMG_3159" /><span>IMG_3159</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3160.JPG" title="IMG_3160"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3160.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3160" title="IMG_3160" /><span>IMG_3160</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3161.JPG" title="IMG_3161"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3161.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3161" title="IMG_3161" /><span>IMG_3161</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3162.JPG" title="IMG_3162"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3162.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3162" title="IMG_3162" /><span>IMG_3162</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3163.JPG" title="IMG_3163"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3163.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3163" title="IMG_3163" /><span>IMG_3163</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3164.JPG" title="IMG_3164"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3164.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3164" title="IMG_3164" /><span>IMG_3164</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3165.JPG" title="IMG_3165"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3165.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3165" title="IMG_3165" /><span>IMG_3165</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3166.JPG" title="IMG_3166"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3166.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3166" title="IMG_3166" /><span>IMG_3166</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3167.JPG" title="IMG_3167"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3167.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3167" title="IMG_3167" /><span>IMG_3167</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3168.JPG" title="IMG_3168"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3168.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3168" title="IMG_3168" /><span>IMG_3168</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3169.JPG" title="IMG_3169"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3169.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3169" title="IMG_3169" /><span>IMG_3169</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3170.JPG" title="IMG_3170"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3170.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3170" title="IMG_3170" /><span>IMG_3170</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3171.JPG" title="IMG_3171"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3171.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3171" title="IMG_3171" /><span>IMG_3171</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3172.JPG" title="IMG_3172"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3172.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3172" title="IMG_3172" /><span>IMG_3172</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3173.JPG" title="IMG_3173"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3173.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3173" title="IMG_3173" /><span>IMG_3173</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3174.JPG" title="IMG_3174"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3174.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3174" title="IMG_3174" /><span>IMG_3174</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3175.JPG" title="IMG_3175"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3175.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3175" title="IMG_3175" /><span>IMG_3175</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3176.JPG" title="IMG_3176"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3176.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3176" title="IMG_3176" /><span>IMG_3176</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3177.JPG" title="IMG_3177"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3177.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3177" title="IMG_3177" /><span>IMG_3177</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3178.JPG" title="IMG_3178"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3178.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3178" title="IMG_3178" /><span>IMG_3178</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3184.JPG" title="IMG_3184"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3184.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3184" title="IMG_3184" /><span>IMG_3184</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3185.JPG" title="IMG_3185"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3185.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3185" title="IMG_3185" /><span>IMG_3185</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3187.JPG" title="IMG_3187"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3187.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3187" title="IMG_3187" /><span>IMG_3187</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3188.JPG" title="IMG_3188"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3188.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3188" title="IMG_3188" /><span>IMG_3188</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3189.JPG" title="IMG_3189"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3189.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3189" title="IMG_3189" /><span>IMG_3189</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3190.JPG" title="IMG_3190"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3190.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3190" title="IMG_3190" /><span>IMG_3190</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3191.JPG" title="IMG_3191"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3191.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3191" title="IMG_3191" /><span>IMG_3191</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3192.JPG" title="IMG_3192"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3192.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3192" title="IMG_3192" /><span>IMG_3192</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3193.JPG" title="IMG_3193"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3193.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3193" title="IMG_3193" /><span>IMG_3193</span></a></li></ul>
+
+<h3 class="no_toc" id="katara-cultural-village">Katara Cultural Village</h3>
+
+<h3 class="no_toc" id="the-pearl">The Pearl</h3>
+
+<p><br /></p>
+
+<h2 class="no_toc" id="day-2">Day 2</h2>
+<h3 id="souqs">Souqs</h3>
+<ul>
+  <li>Souq Waqif</li>
+  <li>Falcon Souq</li>
+</ul>
+
+<h3 class="no_toc" id="qatar-olympic-and-sports-museum">Qatar Olympic and Sports Museum</h3>
+
+<p><br /></p>
+
+<h2 class="no_toc" id="what-else">What Else?</h2>
+<h3 id="museums">Museums</h3>
+<ul>
+  <li>The museum of Islamic Art.</li>
+  <li>XXX</li>
+</ul>
+
+<h3 class="no_toc" id="outdoor-activities">Outdoor Activities</h3>
+<ul>
+  <li>The Desert</li>
+  <li>The Beach and Diving</li>
+</ul>
+
+<p><br /></p>
+
+<h1 id="tips-and-recommendations">Tips and Recommendations</h1>
+<h2 id="how-long-should-you-stay">How Long Should You Stay?</h2>
+
+<p>xxx</p>
+
+<p><br /></p>
+
+<h2 id="when-to-go">When to Go?</h2>
+
+<p>xxx</p>
+
+<p><br /></p>
+
+<h2 id="where-to-stay">Where to Stay?</h2>
+
+<ul>
+  <li>Al Najada Doha Hotel by Tivoli</li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="where-to-eat">Where to Eat?</h2>
+
+<p>xxx</p>
+
+<p><br /></p>
+
+<h2 id="how-to-move-around">How to Move Around?</h2>
+
+<p>xxx</p>
+
+<p><br /></p>
+
+<p><strong>Creation date:</strong></p>
+
+<p><strong>Last update:</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="middleeast" /><summary type="html"><![CDATA[Table of Content]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/qatar/IMG_3322.jpg" /><media:content medium="image" url="http://localhost:4000/qatar/IMG_3322.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
