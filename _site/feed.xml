@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-27T22:10:20-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Millennial</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry><title type="html">United Arab Emirates | 2016-2022</title><link href="http://localhost:4000/uae" rel="alternate" type="text/html" title="United Arab Emirates | 2016-2022" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/uae</id><content type="html" xml:base="http://localhost:4000/uae"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="middleeast" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bulgaria | 2017</title><link href="http://localhost:4000/bulgaria" rel="alternate" type="text/html" title="Bulgaria | 2017" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/bulgaria</id><content type="html" xml:base="http://localhost:4000/bulgaria"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Canada | 2013-2014</title><link href="http://localhost:4000/canada" rel="alternate" type="text/html" title="Canada | 2013-2014" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/canada</id><content type="html" xml:base="http://localhost:4000/canada"><![CDATA[<p>xxxxx</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="america" /><summary type="html"><![CDATA[xxxxx]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cyprus | 2021</title><link href="http://localhost:4000/cyprus" rel="alternate" type="text/html" title="Cyprus | 2021" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/cyprus</id><content type="html" xml:base="http://localhost:4000/cyprus"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">France | 1992-2013 | 2014-2016</title><link href="http://localhost:4000/france" rel="alternate" type="text/html" title="France | 1992-2013 | 2014-2016" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/france</id><content type="html" xml:base="http://localhost:4000/france"><![CDATA[<p>This is a test. I want to link this page to a subpage about <a href="/paris">Paris</a> and another subpage about <a href="/hikinginfrance">Hiking in France</a>.</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="europe" /><summary type="html"><![CDATA[This is a test. I want to link this page to a subpage about Paris and another subpage about Hiking in France.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hiking in France</title><link href="http://localhost:4000/hikinginfrance" rel="alternate" type="text/html" title="Hiking in France" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/hikinginfrance</id><content type="html" xml:base="http://localhost:4000/hikinginfrance"><![CDATA[<p>Paris</p>]]></content><author><name>Estelle Guéville</name></author><summary type="html"><![CDATA[Paris]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Paris</title><link href="http://localhost:4000/paris" rel="alternate" type="text/html" title="Paris" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/paris</id><content type="html" xml:base="http://localhost:4000/paris"><![CDATA[<p>Paris</p>]]></content><author><name>Estelle Guéville</name></author><summary type="html"><![CDATA[Paris]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Slovenia | 2021-2022</title><link href="http://localhost:4000/slovenia" rel="alternate" type="text/html" title="Slovenia | 2021-2022" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/slovenia</id><content type="html" xml:base="http://localhost:4000/slovenia"><![CDATA[<h2 id="facts">FACTS</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-29T21:06:00-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Millennial</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry><title type="html">United Arab Emirates | 2016-2022</title><link href="http://localhost:4000/uae" rel="alternate" type="text/html" title="United Arab Emirates | 2016-2022" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/uae</id><content type="html" xml:base="http://localhost:4000/uae"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="middleeast" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bulgaria | 2017</title><link href="http://localhost:4000/bulgaria" rel="alternate" type="text/html" title="Bulgaria | 2017" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/bulgaria</id><content type="html" xml:base="http://localhost:4000/bulgaria"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Canada | 2013-2014</title><link href="http://localhost:4000/canada" rel="alternate" type="text/html" title="Canada | 2013-2014" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/canada</id><content type="html" xml:base="http://localhost:4000/canada"><![CDATA[<p>xxxxx</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="america" /><summary type="html"><![CDATA[xxxxx]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cyprus | 2021</title><link href="http://localhost:4000/cyprus" rel="alternate" type="text/html" title="Cyprus | 2021" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/cyprus</id><content type="html" xml:base="http://localhost:4000/cyprus"><![CDATA[<p>XXX</p>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><summary type="html"><![CDATA[XXX]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">France | 1992-2013 | 2014-2016</title><link href="http://localhost:4000/france" rel="alternate" type="text/html" title="France | 1992-2013 | 2014-2016" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/france</id><content type="html" xml:base="http://localhost:4000/france"><![CDATA[<p>This is a test. I want to link this page to a subpage about <a href="/paris">Paris</a> and another subpage about <a href="/hikinginfrance">Hiking in France</a>.</p>]]></content><author><name>Estelle Guéville</name></author><category term="lived" /><category term="europe" /><summary type="html"><![CDATA[This is a test. I want to link this page to a subpage about Paris and another subpage about Hiking in France.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hiking in France</title><link href="http://localhost:4000/hikinginfrance" rel="alternate" type="text/html" title="Hiking in France" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/hikinginfrance</id><content type="html" xml:base="http://localhost:4000/hikinginfrance"><![CDATA[<p>Paris</p>]]></content><author><name>Estelle Guéville</name></author><summary type="html"><![CDATA[Paris]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Paris</title><link href="http://localhost:4000/paris" rel="alternate" type="text/html" title="Paris" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/paris</id><content type="html" xml:base="http://localhost:4000/paris"><![CDATA[<p>Paris</p>]]></content><author><name>Estelle Guéville</name></author><summary type="html"><![CDATA[Paris]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-2.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Slovenia | 2021-2022</title><link href="http://localhost:4000/slovenia" rel="alternate" type="text/html" title="Slovenia | 2021-2022" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/slovenia</id><content type="html" xml:base="http://localhost:4000/slovenia"><![CDATA[<h2 id="facts">FACTS</h2>
 
 <table>
   <thead>
@@ -60,12 +60,12 @@
     </ol>
   </li>
   <li><a href="#my-trip" id="markdown-toc-my-trip">My trip</a>    <ol>
-      <li><a href="#the-national-museum-of-qatar" id="markdown-toc-the-national-museum-of-qatar">The National Museum of Qatar</a></li>
-      <li><a href="#souqs" id="markdown-toc-souqs">Souqs</a></li>
-      <li><a href="#museums" id="markdown-toc-museums">Museums</a></li>
+      <li><a href="#day-1---exploring-qatars-cultural-heart" id="markdown-toc-day-1---exploring-qatars-cultural-heart">Day 1 - Exploring Qatar’s Cultural Heart</a></li>
+      <li><a href="#day-2---diving-into-qatars-history-and-sports" id="markdown-toc-day-2---diving-into-qatars-history-and-sports">Day 2 - Diving into Qatar’s History and Sports</a></li>
+      <li><a href="#what-else" id="markdown-toc-what-else">What Else?</a></li>
     </ol>
   </li>
-  <li><a href="#tips-and-recommendations" id="markdown-toc-tips-and-recommendations">Tips and Recommendations</a>    <ol>
+  <li><a href="#my-tips-and-recommendations" id="markdown-toc-my-tips-and-recommendations">My Tips and Recommendations</a>    <ol>
       <li><a href="#how-long-should-you-stay" id="markdown-toc-how-long-should-you-stay">How Long Should You Stay?</a></li>
       <li><a href="#when-to-go" id="markdown-toc-when-to-go">When to Go?</a></li>
       <li><a href="#where-to-stay" id="markdown-toc-where-to-stay">Where to Stay?</a></li>
@@ -115,9 +115,10 @@
 <p><br /></p>
 
 <h1 id="my-trip">My trip</h1>
-<h2 class="no_toc" id="day-1">Day 1</h2>
-<h3 id="the-national-museum-of-qatar">The National Museum of Qatar</h3>
-<p>xxx</p>
+<h2 id="day-1---exploring-qatars-cultural-heart">Day 1 - Exploring Qatar’s Cultural Heart</h2>
+
+<h3 class="no_toc" id="the-national-museum-of-qatar">The National Museum of Qatar</h3>
+<p>My first day in Qatar started with a visit to The National Museum of Qatar, which is a must-see for anyone interested in the country’s history and culture. The museum, which opened in 2019, is housed in a unique building that resembles the desert rose and showcases the history and culture of Qatar, from its ancient past to the present day.</p>
 
 <style>
     .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -130,47 +131,68 @@
 <ul class="image-gallery"><li><a href="/assets/img/qatar/nmq/IMG-20220611-WA0019.jpg" title="IMG-20220611-WA0019"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG-20220611-WA0019.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG-20220611-WA0019" title="IMG-20220611-WA0019" /><span>IMG-20220611-WA0019</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_20220611_101405.jpg" title="IMG_20220611_101405"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_20220611_101405.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_20220611_101405" title="IMG_20220611_101405" /><span>IMG_20220611_101405</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_20220611_101450.jpg" title="IMG_20220611_101450"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_20220611_101450.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_20220611_101450" title="IMG_20220611_101450" /><span>IMG_20220611_101450</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3024.JPG" title="IMG_3024"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3024.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3024" title="IMG_3024" /><span>IMG_3024</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3025.JPG" title="IMG_3025"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3025.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3025" title="IMG_3025" /><span>IMG_3025</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3028.JPG" title="IMG_3028"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3028.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3028" title="IMG_3028" /><span>IMG_3028</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3029.JPG" title="IMG_3029"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3029.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3029" title="IMG_3029" /><span>IMG_3029</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3030.JPG" title="IMG_3030"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3030.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3030" title="IMG_3030" /><span>IMG_3030</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3031.JPG" title="IMG_3031"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3031.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3031" title="IMG_3031" /><span>IMG_3031</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3160.JPG" title="IMG_3160"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3160.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3160" title="IMG_3160" /><span>IMG_3160</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3165.JPG" title="IMG_3165"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3165.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3165" title="IMG_3165" /><span>IMG_3165</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3167.JPG" title="IMG_3167"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3167.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3167" title="IMG_3167" /><span>IMG_3167</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3168.JPG" title="IMG_3168"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3168.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3168" title="IMG_3168" /><span>IMG_3168</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3170.JPG" title="IMG_3170"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3170.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3170" title="IMG_3170" /><span>IMG_3170</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3174.JPG" title="IMG_3174"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3174.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3174" title="IMG_3174" /><span>IMG_3174</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3176.JPG" title="IMG_3176"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3176.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3176" title="IMG_3176" /><span>IMG_3176</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3190.JPG" title="IMG_3190"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3190.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3190" title="IMG_3190" /><span>IMG_3190</span></a></li><li><a href="/assets/img/qatar/nmq/IMG_3193.JPG" title="IMG_3193"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/qatar/nmq/IMG_3193.JPG&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="IMG_3193" title="IMG_3193" /><span>IMG_3193</span></a></li></ul>
 
 <h3 class="no_toc" id="katara-cultural-village">Katara Cultural Village</h3>
+<p>Next, I headed to Katara Cultural Village, a beautiful cultural and artistic center that houses a number of galleries, theaters, and performance spaces. The village is also home to several restaurants, cafes, and shops, making it a great place to spend an afternoon exploring.</p>
 
 <h3 class="no_toc" id="the-pearl">The Pearl</h3>
+<p>Finally, I made my way to The Pearl, a man-made island that has been developed into a luxurious residential and shopping district. With its stunning waterfront, high-end shopping and dining, and beautiful marina, The Pearl is a must-see for anyone who loves luxury and sophistication.</p>
 
 <p><br /></p>
 
-<h2 class="no_toc" id="day-2">Day 2</h2>
-<h3 id="souqs">Souqs</h3>
+<h2 id="day-2---diving-into-qatars-history-and-sports">Day 2 - Diving into Qatar’s History and Sports</h2>
+
+<h3 class="no_toc" id="souqs">Souqs</h3>
 <ul>
-  <li>Souq Waqif</li>
-  <li>Falcon Souq</li>
+  <li>
+    <p>Souq Waqif
+My second day in Qatar started with a visit to Souq Waqif, an old-world market that has been a staple of Qatari life for centuries. Here, I had the chance to browse the stalls and haggle with vendors for traditional goods such as spices, textiles, and handcrafted items.</p>
+  </li>
+  <li>
+    <p>Falcon Souq
+Next, I headed to the Falcon Souq, where I was able to see the magnificent birds of prey up close and learn about their importance in Qatari culture.</p>
+  </li>
 </ul>
 
 <h3 class="no_toc" id="qatar-olympic-and-sports-museum">Qatar Olympic and Sports Museum</h3>
+<p>Finally, I ended my day with a visit to the Qatar Olympic and Sports Museum, which showcases the country’s rich sporting heritage and its commitment to promoting physical activity and wellness. The museum also features exhibits on the 2022 FIFA World Cup, which Qatar will host, and highlights the country’s preparations for this global event.</p>
 
 <p><br /></p>
 
-<h2 class="no_toc" id="what-else">What Else?</h2>
-<h3 id="museums">Museums</h3>
+<h2 id="what-else">What Else?</h2>
+
+<h3 class="no_toc" id="museums">Museums</h3>
 <ul>
   <li>The museum of Islamic Art.</li>
-  <li>XXX</li>
 </ul>
+
+<p>Aside from the sights I visited on Days 1 and 2, there were several other activities that I highly recommend during your trip to Qatar.</p>
+
+<p>The Museum of Islamic Art is a must-visit for anyone interested in Islamic art and architecture. The museum’s collection includes some of the most stunning examples of Islamic art from across the world, and is sure to leave you in awe.</p>
 
 <h3 class="no_toc" id="outdoor-activities">Outdoor Activities</h3>
 <ul>
   <li>The Desert</li>
+</ul>
+
+<p>The Desert is a unique and otherworldly landscape that is well worth exploring. Whether you prefer to go on a camel trek, dune bash in a 4x4, or simply enjoy a sunset from the comfort of a bedouin tent, the desert is an experience like no other.</p>
+
+<ul>
   <li>The Beach and Diving</li>
 </ul>
 
+<p>Finally, The Beach and Diving offer the perfect escape from the hustle and bustle of city life. With clear blue waters and an abundance of marine life, Qatar is a popular destination for snorkeling and diving enthusiasts, and the beaches are a great place to relax and soak up the sun.</p>
+
 <p><br /></p>
 
-<h1 id="tips-and-recommendations">Tips and Recommendations</h1>
+<h1 id="my-tips-and-recommendations">My Tips and Recommendations</h1>
 <h2 id="how-long-should-you-stay">How Long Should You Stay?</h2>
-
-<p>xxx</p>
+<p>It depends on your interests and travel goals, but typically a visit to Qatar can range from 3-5 days. This allows for enough time to explore the top cultural and historical sites, experience the unique desert landscape, and enjoy some relaxation on the beaches or at luxury shopping destinations. If you have a specific interest such as sports or Islamic art, you may want to extend your stay to fully immerse yourself in those experiences.</p>
 
 <p><br /></p>
 
 <h2 id="when-to-go">When to Go?</h2>
+<p>The best time to visit Qatar is from October to April, when the weather is pleasant and temperatures range from 15-25°C (59-77°F). During this period, the skies are usually clear and sunny, making it ideal for outdoor activities and sightseeing.</p>
 
-<p>xxx</p>
+<p>However, it’s important to note that even during the winter months, temperatures can still be quite warm and humidity can be high. So, if you’re sensitive to heat, it may be best to avoid visiting during the summer months, when temperatures can reach up to 50°C (122°F) and humidity is at its highest.</p>
 
 <p><br /></p>
 
@@ -189,11 +211,24 @@
 <p><br /></p>
 
 <h2 id="how-to-move-around">How to Move Around?</h2>
+<p>There are several ways to move around in Qatar, including:</p>
 
-<p>xxx</p>
+<ol>
+  <li>
+    <p>Car Rental: Renting a car is a convenient option in Qatar, as it allows you to explore the country at your own pace. The road network is well developed, and there are several international car rental companies operating in the country. However, keep in mind that traffic can be heavy in some areas, and it’s important to familiarize yourself with the local driving laws and customs.</p>
+  </li>
+  <li>
+    <p>Taxi: Taxis are widely available and provide a convenient way to get around the cities. Taxis in Qatar are metered, and it’s usually easy to hail one from the street or book one through a ride-hailing app.</p>
+  </li>
+  <li>
+    <p>Public Transportation: Qatar’s public transportation system is still developing, but it is possible to get around using buses and the metro. The metro is clean, efficient, and affordable, and operates in the greater Doha area. Buses are also available and serve a wider area, but they can be crowded and less convenient.</p>
+  </li>
+</ol>
+
+<p>In conclusion, renting a car is a convenient option, but taxis and public transportation are also available for those who prefer not to drive.</p>
 
 <p><br /></p>
 
-<p><strong>Creation date:</strong></p>
+<p><strong>Creation date: 29 January 2023</strong></p>
 
-<p><strong>Last update:</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="middleeast" /><summary type="html"><![CDATA[Table of Content]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/qatar/IMG_3322.jpg" /><media:content medium="image" url="http://localhost:4000/qatar/IMG_3322.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p><strong>Last update: 29 January 2023</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="middleeast" /><summary type="html"><![CDATA[Table of Content]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/qatar/IMG_3322.jpg" /><media:content medium="image" url="http://localhost:4000/qatar/IMG_3322.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
