@@ -1,49 +1,168 @@
 ---
 layout: post
-title: "Kyrgyzstan | 2018"
+title: "Kyrgyzstan | May 2021"
 author: "Estelle Guéville"
 categories: asia
 image: cuba-1.jpg
 ---
 
-## TRAVEL FACTS
+| Kyrgyzstan | 8 days (May 2021)
+| :--------------------:   | :----------------------:|
+| From the [UAE](https://estellegvl.github.io/Around-the-World/uae)       | Solo-trip           |
+
+
+XXX
 
 <br>
 
-## TRIP
-###  Preparatory
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
 
 <br>
 
-###  Adjusted
+<img src="/assets/img/qatar/nmq/IMG_3028.jpg" style="zoom:100%"/>
 
 <br>
 
-###  Off the beaten track
+# Kyrgyzstan. An Overview
+XXX
+
+<img src="/assets/img/qatar/nmq/XXX.jpg" style="zoom:100%"/>
+
+<br>
+
+# How Safe Is It?
+## General Observations
+
+XXX
+
+<br>
+
+## Traveling as a Woman and a Lesbian
+
+XXX
+
+<img src="/assets/img/slovenia/XXX.jpg" style="zoom:100%"/>
+
+<br>
+
+# My trip
+## Day 1 - XXX
+
+{:.no_toc}
+### XXX
+XXX
+{% include my-gallery.html folder="myfolder" %}
+
+
+
+{:.no_toc}
+### XXX
+XXX
+
+
+{:.no_toc}
+### XXX
+XXX
+
+
+{:.no_toc}
+### XXX
+XXX
+
+<br>
+
+## Day 2 - XXX 
+
+{:.no_toc}
+### XXX
+- XXX
+XXX
+
+- XXX
+XXX
+
+
+{:.no_toc}
+### XXX
+XXX
+
+<br>
+
+## What Else?  
+
+{:.no_toc}
+### XXX
+- XXX  
+
+XXX
+
+
+{:.no_toc}
+### XXX
+- XXX
+
+XXX
+
+- XXX 
+
+XXX
 
 
 <br>
 
-## TOP TIPS
-###  Where to sleep
+## My Budget
+XXX
 
 <br>
 
-###  Where to eat
+# My Tips and Recommendations
+## How Long Should You Stay?
+XXX
 
 <br>
 
-###  What to pack
+## When to Go?
+XXX
+<br>
+
+## Where to Stay?
+
+XXX
 
 <br>
 
-###  Who to contact
+## Where to Eat?
+
+{:.no_toc}
+### My Reccomendations
+- XXX  
+XXX
+
+
+- XXX
+XXX
+
+
+{:.no_toc}
+### Other places
+- XXX
 
 
 <br>
 
-## TRAVELING as a woman/with friends/with your partner
+## How to Move Around?
+XXX
+
 
 <br>
 
-## MY TAKE
+## What to Pack?
+
+
+
+<br>
+
+**Creation date: 23 May 2023**
+
+**Last update: 23 May 2023** 

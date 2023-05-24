@@ -21,3 +21,7 @@ author:              "Estelle Guéville"
 lang: en 
 languages: ["en", "fr"] 
 permalink: /:categories/:title/
+
+
+imagesurl: "/assets/img/"
+thumbsurl: "/assets/thumbs/"
