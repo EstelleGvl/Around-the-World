@@ -3,7 +3,7 @@ layout: post
 title: "Kyrgyzstan | May 2021"
 author: "Estelle Guéville"
 categories: asia
-image: cuba-1.jpg
+image: kyrgyzstan.jpg
 ---
 
 | Kyrgyzstan | 8 days (May 2021)

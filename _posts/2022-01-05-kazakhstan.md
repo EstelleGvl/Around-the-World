@@ -3,7 +3,7 @@ layout: post
 title: "Kazakhstan | April 2022"
 author: "Estelle Guéville"
 categories: asia
-image: /kazakhstan/1.jpg
+image: kazakhstan.jpg
 ---
 
 
@@ -25,7 +25,7 @@ XXX
 
 <br>
 
-# Slovenia. An Overview
+# Kazakhstan. An Overview
 XXX
 
 <img src="/assets/img/qatar/nmq/XXX.jpg" style="zoom:100%"/>
