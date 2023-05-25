@@ -3,6 +3,7 @@ layout: post
 title: "Singapore | 2019"
 author: "Estelle Guéville"
 categories: asia
+tags: [Asia, City-trip, Couple-trip]
 image: cuba-1.jpg
 ---
 
