@@ -39,7 +39,7 @@ XXX
 
 <br>
 
-## Traveling as a Woman and a Lesbian (with a female partner)
+## Traveling as a Lesbian Woman (with a female partner)
 
 XXX
 
