@@ -54,7 +54,6 @@ XXX
 {:.no_toc}
 ### XXX
 XXX
-{% include my-gallery.html folder="myfolder" %}
 
 
 
