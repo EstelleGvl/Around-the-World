@@ -160,21 +160,21 @@ Arba Winery
 ## What Else?  
 
 {:.no_toc}
-### XXX
+### Desert
 - XXX  
-
 XXX
 
 
 {:.no_toc}
-### XXX
+### Boszhira
 - XXX
-
 XXX
 
-- XXX 
+{:.no_toc}
+### Tamgaly
 
-XXX
+{:.no_toc}
+### etc.
 
 
 <br>
@@ -186,7 +186,7 @@ XXX
 
 # My Tips and Recommendations
 ## How Long Should You Stay?
-XXX
+Kazakhstan is a huge country, the world's ninth-largest country by land area and the world's largest landlocked country. However, it has only 19 million people and one of the lowest population densitites. You won't have the time to see all of the country. My advice would be to focus on a specific part of the country, like we did. The region of Almaty is usually one of the top choiches, along with Noursoultan (ex-Astana), the capital. From Almaty, you can travel around quite easily and visit many other places. I wouldn't recommend going for less than a week. If you have time, ten days to two weeks is probably what I would recommend to get a good overview of the country.
 
 <br>
 
@@ -195,8 +195,20 @@ XXX
 <br>
 
 ## Where to Stay?
-
-XXX
+"Almaty
+Grand Hotel Tien Shan"
+"Almaty
+Grand Hotel Tien Shan"
+"Saty
+Guesthouse"
+"Saty
+Guesthouse"
+"Turgen gorge
+Guesthouse"
+"Almaty
+Renion Park Hotel"
+"Almaty
+Renion Park Hotel"
 
 <br>
 
@@ -205,8 +217,16 @@ XXX
 {:.no_toc}
 ### My Reccomendations
 - XXX  
-XXX
 
+
+Dinner with Ilya and Julia (Victory's pub)"
+Pasta la Vista
+B&B
+B&B
+Diner in Cafe in Turgen
+"Bao Noodles Sushi Bar
+Pinta Bar"
+Mongol restaurant
 
 - XXX
 XXX
