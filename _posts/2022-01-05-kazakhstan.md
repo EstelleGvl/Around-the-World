@@ -7,7 +7,7 @@ image: kazakhstan.jpg
 ---
 
 
-| Kazakhstan | 8 days (April 2022)
+| Kazakhstan | 8 days (2-9 April 2022)
 | :--------------------:   | :----------------------:|
 | From the [UAE](https://estellegvl.github.io/Around-the-World/uae)       | Couple-trip           |
 
@@ -48,13 +48,18 @@ XXX
 <br>
 
 # My trip
-## Day 1 - XXX
+## Day 1 - Almaty
 
 {:.no_toc}
 ### XXX
-XXX
-{% include my-gallery.html folder="myfolder" %}
 
+"Check in at the hotel
+Cathédrale Zenkov
+Walk in the city center"
+"Thermal Sources
+Dinner with Ilya and Julia (Victory's pub)"
+
+{% include my-gallery.html folder="myfolder" %}
 
 
 {:.no_toc}
@@ -73,20 +78,82 @@ XXX
 
 <br>
 
-## Day 2 - XXX 
+## Day 2 - Medeu - Chimbulak 
+
+{:.no_toc}
+### Skiing in Chimbulak
+- XXX
+XXX
+
+## Day 3 - Canyons
+
+{:.no_toc}
+### Charyn canyon and Valley of Castles
+- XXX
+XXX
+
+{:.no_toc}
+### Temirlik canyon
+- XXX
+XXX
+
+{:.no_toc}
+### Uzunbulak canyon
+- XXX
+XXX
+
+## Day 4 - Kolsai Lakes
+
+{:.no_toc}
+### Lake 1
+- XXX
+XXX
+
+{:.no_toc}
+### Lake 2
+- XXX
+XXX
+
+
+## Day 5 - Kaindy Lake, Gorge Turgen and Plateau Asy
+
+{:.no_toc}
+### Kaindy Lake
+- XXX
+XXX
+
+{:.no_toc}
+### Gorge Turgen
+- XXX
+XXX
+
+{:.no_toc}
+### Medvegy Waterfall
+- XXX
+XXX
+
+## Day 6 - Waterfalls
+
+{:.no_toc}
+### Kairak Waterfall
+- XXX
+Kairak waterfall hike (16km)
+
+
+### Butkowski Waterfall
+- XXX
+Butkowski Waterfall (6km)
+
+## Day 7 - Almaty
 
 {:.no_toc}
 ### XXX
 - XXX
-XXX
+Central State Museum of Kazakhstan
+Kok Tobe
+Arba Winery
 
-- XXX
-XXX
-
-
-{:.no_toc}
-### XXX
-XXX
+## Day 8 - Departure (2pm)
 
 <br>
 
