@@ -59,8 +59,6 @@ Walk in the city center"
 "Thermal Sources
 Dinner with Ilya and Julia (Victory's pub)"
 
-{% include my-gallery.html folder="myfolder" %}
-
 
 {:.no_toc}
 ### XXX
