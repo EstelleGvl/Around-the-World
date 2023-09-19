@@ -3,6 +3,9 @@ layout: post
 title: "Kazakhstan | April 2022"
 author: "Estelle Guéville"
 categories: asia
+tags: [Asia, City trip, Nature, Couple]
+lang: en
+ref: kazakhstan
 image: kazakhstan.jpg
 ---
 
@@ -12,7 +15,7 @@ image: kazakhstan.jpg
 | From the [UAE](https://estellegvl.github.io/Around-the-World/uae)       | Couple-trip           |
 
 
-XXX
+In April 2022, I decided to go to Kazakhstan. If you have read my [Kyrgyzstan](https://estellegvl.github.io/Around-the-World/asia/kyrgyzstan) post
 
 <br>
 
@@ -21,14 +24,14 @@ XXX
 
 <br>
 
-<img src="/assets/img/qatar/nmq/IMG_3028.jpg" style="zoom:100%"/>
+![Overview Kazakhstan]()
+
 
 <br>
 
 # Kazakhstan. An Overview
 XXX
 
-<img src="/assets/img/qatar/nmq/XXX.jpg" style="zoom:100%"/>
 
 <br>
 
@@ -43,7 +46,6 @@ XXX
 
 XXX
 
-<img src="/assets/img/slovenia/XXX.jpg" style="zoom:100%"/>
 
 <br>
 
@@ -178,11 +180,19 @@ XXX
 <br>
 
 ## My Budget
-XXX
+
 
 <br>
 
 # My Tips and Recommendations
+## How to Move Around?
+There's one thing I must say: it is not the easiest thing in the world to move around on your own in Kazhakstan. Almaty is relatively well by public transit but as soon as you want to go out of the city, things are trickier.
+
+The language barrier can also make things harder. Kazakhstan is a country where the population speaks mainly Russian beside the national language, Kazakh, a Turkic language close to Nogai, Kyrgyz and Karakalpak. Unfortunately, none of us spole any of these languages and the local population did not speak English, French or any other language we spoke. Communication was somewhat hard. To add to this, there are many police roadblocks, access to the mountains or the natural sites can sometimes be blocked for no reason and there is absolutely no way of knowing this before you are stopped by the police.
+
+
+<br>
+
 ## How Long Should You Stay?
 Kazakhstan is a huge country, the world's ninth-largest country by land area and the world's largest landlocked country. However, it has only 19 million people and one of the lowest population densitites. You won't have the time to see all of the country. My advice would be to focus on a specific part of the country, like we did. The region of Almaty is usually one of the top choiches, along with Noursoultan (ex-Astana), the capital. From Almaty, you can travel around quite easily and visit many other places. I wouldn't recommend going for less than a week. If you have time, ten days to two weeks is probably what I would recommend to get a good overview of the country.
 
@@ -193,53 +203,22 @@ XXX
 <br>
 
 ## Where to Stay?
-"Almaty
-Grand Hotel Tien Shan"
-"Almaty
-Grand Hotel Tien Shan"
-"Saty
-Guesthouse"
-"Saty
-Guesthouse"
-"Turgen gorge
-Guesthouse"
-"Almaty
-Renion Park Hotel"
-"Almaty
-Renion Park Hotel"
+- Almaty, Grand Hotel Tien Shan
+- Almaty, Renion Park Hotel
+- Saty Guesthouse
+- Turgen gorge Guesthouse
+
 
 <br>
 
 ## Where to Eat?
 
-{:.no_toc}
-### My Reccomendations
-- XXX  
-
-
-Dinner with Ilya and Julia (Victory's pub)"
-Pasta la Vista
-B&B
-B&B
-Diner in Cafe in Turgen
-"Bao Noodles Sushi Bar
-Pinta Bar"
-Mongol restaurant
-
-- XXX
-XXX
-
-
-{:.no_toc}
-### Other places
-- XXX
-
-
-<br>
-
-## How to Move Around?
-XXX
-
+- Almaty, Dinner with Ilya and Julia (Victory's pub)
+- Pasta la Vista
+- Diner in Cafe in Turgen
+- "Bao Noodles Sushi Bar
+- Pinta Bar"
+- Mongol restaurant
 
 <br>
 
