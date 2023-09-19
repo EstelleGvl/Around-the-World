@@ -20,14 +20,13 @@ XXX
 
 <br>
 
-<img src="/assets/img/qatar/nmq/IMG_3028.jpg" style="zoom:100%"/>
+![Taxis](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/qatar/Waqif/IMG_3311.jpg?raw=true)
 
 <br>
 
 # Kyrgyzstan. An Overview
 XXX
 
-<img src="/assets/img/qatar/nmq/XXX.jpg" style="zoom:100%"/>
 
 <br>
 
