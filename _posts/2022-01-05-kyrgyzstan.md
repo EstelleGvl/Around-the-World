@@ -109,7 +109,21 @@ XXX
 <br>
 
 ## My Budget
-XXX
+My budget for this trip was relatively expensive, mainly because of the flight ticket and because I was traveling alone and therefore not sharing any cost (accomodations, car rental, etc.).
+- Flight: €
+- Accomodations:
+    - Duet Hostel & Hotel, 1 night: 6 $
+    - Smart Hotel Bishkek, 3 nights, breakfast included: 132.09 $
+- Activities:
+    - Diving: 
+    - Castle:
+- Food and drinks:
+- Transportation:
+    - Taxis:
+- Guide all-inclusive for X-days:  
+- Communication:
+
+**Total per person: $**
 
 <br>
 
@@ -125,7 +139,10 @@ XXX
 
 ## Where to Stay?
 
-XXX
+    - Duet Hostel & Hotel, 1 night: 6 $
+Breakfast included
+
+    - Smart Hotel Bishkek, 3 nights: 132.09 $
 
 <br>
 
