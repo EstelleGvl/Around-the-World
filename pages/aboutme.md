@@ -4,3 +4,17 @@ title: About Me
 permalink: /aboutme
 ---
 
+I am a French girl who started to travel as an adult. In 2013, I got my first passport to move to Canada to do my master's degree in Medieval History. I spent 9 months in Quebec City, and this is when I truly fell in love with travelling. I was 21. 
+
+Ten years later, I have lived in two more countries and visited more than 30 in total. I have travelled with friends or with a partner, but in 2018, I did my first solo-trip. This was a **game-changer**! I never thought I would be able to do so much on my own and it helped me learn more about other cultures but also about myself. I discovered who I am. Traveling alone to remote places, countries where I could barely communicate with anyone, diving, hiking or horse-riding in the middle of nowhere boosted by self-confidence. I knew I was capable of anything.
+
+Today, as I am pursuing my PhD at Yale University, I continue to plan trips and I want to share what I have learned with you. I want to encourage women to solo-travel, I want to show you that it is not only a great experience, but an easy one and fulfilling one.
+
+As a lesbian woman, I also want to provide answers to questions that some people in the LGBTQ+ community might have when it comes to traveling the world.
+
+I hope this blog will be helpful. Do not hesitate to (get in touch)[https://www.instagram.com/estelle_gvl/]!
+
+<br>
+
+Here is the list of the countries I have been to. I will keep it updated as the list grows.
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=641ad65925e14cc6bfba46edc2f93f09&extent=-180,-72.1911,180,79.6186&home=true&zoom=true&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="World-trip" src="//www.arcgis.com/apps/Embed/index.html?webmap=641ad65925e14cc6bfba46edc2f93f09&extent=-180,-72.1911,180,79.6186&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div>
