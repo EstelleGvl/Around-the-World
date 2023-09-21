@@ -53,7 +53,7 @@ However, some precautions should be taken, such as:
 
 <br>
 
-## Traveling as a Lesbian Woman (with a female partner)
+## ## Traveling as a Woman and a LGBTQ person
 
 In Kazakhstan, Islam is the predominant religion, with Sunni Islam being the most widely practiced, coexisting harmoniously with other faiths. Religious tolerance is a cornerstone of Kazakh society, with freedom of religion guaranteed by the constitution. Russian Orthodox Christianity, Protestantism, Judaism, and other religious groups are also represented in the country. Kazakhstan is a secular state, but religion plays a significant role in its cultural fabric, observed through various religious holidays and traditions. The nation promotes interfaith dialogue and values its diverse religious heritage, which has left an indelible mark on its art, music, and architecture. Visitors are encouraged to respect local customs and appreciate the rich tapestry of religious diversity that defines Kazakhstan.
 
@@ -197,7 +197,25 @@ Butkowski Waterfall (6km)
 <br>
 
 ## My Budget
+My budget for this trip .
+- Flight:
+- Tour guide all-inclusive: 482$ per person for 4 days. It includes;
+    - Guide-driver
+    - Car
+    - Gas and related fees
+    - Accomodation
+    - Meals (breakfast, lunch, dinner)
+    - Entrance fees to National Parks
 
+- Hotel:
+    - 
+    - 
+- Activities:
+    - National museum of Qatar: QAR 25 (7$) per person.
+    - Sports museum: QAR 25 (7$) per person.
+- Food and drinks: QAR 609 (170$) for 2 people (only restaurants and cafes).
+- Transportation (taxis/ubers): QAR 224.7 (60$) for 2 people.
+- Communication: QAR 35 per sim card.
 
 <br>
 
