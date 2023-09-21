@@ -17,7 +17,7 @@ Today, as I am pursuing my PhD at Yale University, I continue to plan trips and 
 
 As a lesbian woman, I also aim to address questions that members of the LGBTQ+ community may have when it comes to traveling the world.
 
-I hope this blog becomes a valuable resource. Please don't hesitate to (connect with me)[https://www.instagram.com/estelle_gvl/]!
+I hope this blog becomes a valuable resource. Please don't hesitate to [connect with me ](https://www.instagram.com/estelle_gvl/)!
 
 <br>
 
