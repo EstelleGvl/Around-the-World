@@ -65,105 +65,111 @@ The situation for LGBTQ+ individuals in Kazakhstan is complex. Homosexuality is 
 ## Day 1 - Almaty
 
 {:.no_toc}
-### XXX
+### Downtown Almaty
+- Zenkov Cathedral
+- Walk in the city center
 
-"Check in at the hotel
-Cathédrale Zenkov
-Walk in the city center"
-"Thermal Sources
-Dinner with Ilya and Julia (Victory's pub)"
+![Zenkov Cathedral]()
 
 
 {:.no_toc}
-### XXX
-XXX
+### Thermal Sources
 
-
-{:.no_toc}
-### XXX
-XXX
-
-
-{:.no_toc}
-### XXX
-XXX
+![Thermal Sources]()
 
 <br>
 
 ## Day 2 - Medeu - Chimbulak 
 
 {:.no_toc}
+### Medeu
+
+{:.no_toc}
 ### Skiing in Chimbulak
-- XXX
-XXX
+
+![Chimbulak]()
+
+<br>
 
 ## Day 3 - Canyons
 
 {:.no_toc}
 ### Charyn canyon and Valley of Castles
-- XXX
-XXX
+
+![Charyn]()
 
 {:.no_toc}
 ### Temirlik canyon
-- XXX
-XXX
+
+
+![Temirlik]()
 
 {:.no_toc}
 ### Uzunbulak canyon
-- XXX
-XXX
+
+
+![Uzunbulak]()
+
+<br>
 
 ## Day 4 - Kolsai Lakes
 
 {:.no_toc}
 ### Lake 1
-- XXX
-XXX
+
+![Kolsai 1]()
 
 {:.no_toc}
 ### Lake 2
-- XXX
-XXX
 
+![Kolsai 2]()
+
+<br>
 
 ## Day 5 - Kaindy Lake, Gorge Turgen and Plateau Asy
 
 {:.no_toc}
 ### Kaindy Lake
-- XXX
-XXX
+
+
+![Kaindy lake]()
 
 {:.no_toc}
 ### Gorge Turgen
-- XXX
-XXX
+
+![Gorge Turgen]()
 
 {:.no_toc}
 ### Medvegy Waterfall
-- XXX
-XXX
+
+![Medvegy Waterfall]()
+
+<br>
 
 ## Day 6 - Waterfalls
 
 {:.no_toc}
 ### Kairak Waterfall
-- XXX
 Kairak waterfall hike (16km)
 
+![Kairak Waterfall]()
 
 ### Butkowski Waterfall
-- XXX
 Butkowski Waterfall (6km)
+
+![Butkowski Waterfall]()
+
+<br>
 
 ## Day 7 - Almaty
 
 {:.no_toc}
 ### XXX
-- XXX
-Central State Museum of Kazakhstan
-Kok Tobe
-Arba Winery
+- Central State Museum of Kazakhstan
+- Kok Tobe
+- Arba Winery
+
+![Almaty]()
 
 ## Day 8 - Departure (2pm)
 
@@ -171,22 +177,21 @@ Arba Winery
 
 ## What Else?  
 
+
 {:.no_toc}
-### Desert
-- XXX  
-XXX
+### Cities
+- Astana
 
 
 {:.no_toc}
-### Boszhira
-- XXX
-XXX
+### Outdoor activities
+- Desert
+- Boszhira
+
 
 {:.no_toc}
-### Tamgaly
-
-{:.no_toc}
-### etc.
+### Cultural and Archaeological sites
+- Tamgaly
 
 
 <br>
