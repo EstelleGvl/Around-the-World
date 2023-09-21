@@ -4,15 +4,20 @@ title: About Me
 permalink: /aboutme
 ---
 
-I am a French girl who started to travel as an adult. In 2013, I got my first passport to move to Canada to do my master's degree in Medieval History. I spent 9 months in Quebec City, and this is when I truly fell in love with travelling. I was 21. 
+I am a French girl who embarked on her travel journey in adulthood. In 2013, I got my first passport to move to Canada to pursue a master's degree in Medieval History. I spent 9 months in Quebec City, and this is when I truly fell in love with travelling. 
 
-Ten years later, I have lived in two more countries and visited more than 30 in total. I have travelled with friends or with a partner, but in 2018, I did my first solo-trip. This was a **game-changer**! I never thought I would be able to do so much on my own and it helped me learn more about other cultures but also about myself. I discovered who I am. Traveling alone to remote places, countries where I could barely communicate with anyone, diving, hiking or horse-riding in the middle of nowhere boosted by self-confidence. I knew I was capable of anything.
+I was 21 years old. 
 
-Today, as I am pursuing my PhD at Yale University, I continue to plan trips and I want to share what I have learned with you. I want to encourage women to solo-travel, I want to show you that it is not only a great experience, but an easy one and fulfilling one.
+Fast forward a decade, and I've since called two more countries home while exploring over 30 others. Throughout my travels, I've had the pleasure of travelling with friends and partners, but in 2018, I took my very first solo trip, and it was nothing short of a transformative experience. This solo expedition was a **game-changer**! 
 
-As a lesbian woman, I also want to provide answers to questions that some people in the LGBTQ+ community might have when it comes to traveling the world.
+I had never imagined that I could accomplish so much on my own, and it not only enriched my understanding of different cultures but also led me on a path of self-discovery. Venturing solo into remote regions, countries where language was a barrier, engaging in activities like diving, hiking, or horse-riding in the middle of nowhere boosted my self-confidence. I realized that I was capable of anything.
 
-I hope this blog will be helpful. Do not hesitate to (get in touch)[https://www.instagram.com/estelle_gvl/]!
+Today, as I am pursuing my PhD at Yale University, I continue to plan trips and I am eager to share what I have learned with you. My goal is to inspire women to embrace solo travel. I want to show you that it is not just a fantastic experience but also an accessible and deeply fulfilling one.
+
+
+As a lesbian woman, I also aim to address questions that members of the LGBTQ+ community may have when it comes to traveling the world.
+
+I hope this blog becomes a valuable resource. Please don't hesitate to (connect with me)[https://www.instagram.com/estelle_gvl/]!
 
 <br>
 
