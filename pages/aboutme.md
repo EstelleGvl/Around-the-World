@@ -21,5 +21,5 @@ I hope this blog becomes a valuable resource. Please don't hesitate to [connect 
 
 <br>
 
-Here is the list of the countries I have been to. I will keep it updated as the list grows.
+Here is the list of the countries I have been to. I will keep it updated as it grows.
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=641ad65925e14cc6bfba46edc2f93f09&extent=-180,-72.1911,180,79.6186&home=true&zoom=true&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="World-trip" src="//www.arcgis.com/apps/Embed/index.html?webmap=641ad65925e14cc6bfba46edc2f93f09&extent=-180,-72.1911,180,79.6186&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div>
