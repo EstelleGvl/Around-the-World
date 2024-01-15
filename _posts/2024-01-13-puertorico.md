@@ -287,11 +287,11 @@ Our budget for this trip.
 - Flight: Frontier airlines from Hartford to San Juan: **xxx$**
 
 - Accomodations
-    - Utuado:
-    - Ponce:
-    - Vieques:
-    - Rio Abajo:
-    - San Juan:
+    - Utuado: 136.86$ for 2 nights
+    - Ponce: 145.34$ for 1 night
+    - Vieques: 174.08$ for 1 night
+    - Rio Abajo: 175.62$ for 2 nights
+    - San Juan: 247.08$ for 2 nights
 
 - Activities:
     - Camuy Caves: **18$ per person** + 4$ for parking. 40$ in total.
