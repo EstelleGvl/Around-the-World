@@ -124,7 +124,7 @@ If you rent a car or a golf cart (we recommend it), drive to this beach which wa
 ![esperanza]()
 
 {:.no_toc}
-### Coconut Beach
+### Coconut Beach ([El cocal beach](https://maps.app.goo.gl/m3Nj6vcsUHikhFe18))
 This beach is right in front of the Vieques Guesthouse. In the parking lot, follow the small path in the forest and after a short walk (3min) you will arrive at this lovely, hidden beach. It is a beautiful place to watch the sunset and we had a great time there.
 
 ![coconut]()
@@ -346,18 +346,23 @@ January is the best season to travel to
 <br>
 
 ## Where to Stay?
-We primarily used airbnb as hotels can be very expensive in Puerto Rico. We booked a guest house in Vieques because of the great reviews and fair price for the island. We highly recommend each - but one - of the places where we stayed, for several different reasons:
-- Utuado:
+We primarily used airbnb as hotels can be very expensive in Puerto Rico. We booked a guest house in Vieques because of the great reviews and fair price for the island. We highly recommend each - but one - of the places where we stayed, for several different reasons:  
 
-- Ponce:
-
-- Vieques: [The Vieques Guesthouse](https://www.theviequesguesthouse.com/)
-Beautiful location with exceptionally helpful hosts (Amanda is a wealth of information - she helped us make the most of our short trip to the island!). The guesthouse is very clean and the rooms are super comfortable. 
-
-Go up on the rooftop at night for a beautiful view of the stars. Walk through the path going out of the parking lot (~3 min) to [el cocal beach](https://maps.app.goo.gl/m3Nj6vcsUHikhFe18) to see the sunset. If you have a car or golf cart you can drive to la media luna beach which is gorgeous and empty ! We loved our stay there and will definitely book again !
+- Utuado:  
 
 
-- San Juan:
+- Ponce:  
+
+
+- Vieques: [The Vieques Guesthouse](https://www.theviequesguesthouse.com/)  
+
+Beautiful location with exceptionally helpful hosts (Amanda is a wealth of information - she helped us make the most of our short trip to the island!). The guesthouse is very clean and the rooms are super comfortable. It's quite expensive but everything is on this island. This is honestly a good deal for the area.
+
+Go up on the rooftop at night for a beautiful view of the stars. We loved our stay there and would definitely book again!
+
+
+- San Juan:  
+
 
 As for the one we do not particularly recommend, some of you might still find it interesting so we decided to post it here nonetheless:
 - Rio Abajo;
