@@ -81,6 +81,8 @@ We had a slow morning and got on the road at 11am. We made the mistake to not ca
 
 {:.no_toc}
 ### [Camuy caves](https://maps.app.goo.gl/L7rTRpkXZbDezGzy8)
+Camuy Caves, also known as Parque Nacional de las Cavernas del Río Camuy, are a marvel of nature, formed over millions of years by the Camuy River. These expansive caves reveal an intricate underground world with impressive stalactite and stalagmite formations.
+
 The visit is quite expensive (18$ per person) but worth it. This is a very interesting natural spot and the guides are very knowledgeable. You will walk downhill about 20+ minutes to the entrance of the cave. We had no issue with this tour, but some of the people with us struggled a lot. If you are in decent shape, you will be fine. Otherwise, they have golf carts that can help you go back up at the end of the tour.
 
 You can book on their website [here](). The park is opened Wednesday through Sunday from 8:00 a.m. through 3:00 p.m. AST. For more information, please contact the Department of Natural Resources by calling (787) 898-3100 / (787) 999-2200 ext. 3474 or emailing cavernasdecamuy@drna.pr.gov.
@@ -100,13 +102,15 @@ You can book on their website [here](). The park is opened Wednesday through Sun
 
 {:.no_toc}
 ### Tanama River Adventures
+Tanama River is renowned for its scenic beauty and cultural significance. Flowing through limestone canyons, the river has played a vital role in the island's history and offers opportunities for thrilling adventures. 
 
-[Tanama River Adventures]()
+[Tanama River Adventures](https://tanamariveradventures.com/) offers a number of tours
 
 ![tanama](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3670_ALTA3039056359705524600.JPG?raw=true)
 
 {:.no_toc}
 ### [Ponce]()
+Ponce, known as the "Pearl of the South," showcases a blend of colonial architecture and vibrant cultural heritage. Its historic town square, Plaza Las Delicias, is a testament to the city's development since its founding in the 17th century.
 
 ![ponce](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240108_214452424.jpg?raw=true)
 
@@ -128,9 +132,12 @@ We took the 1pm ferry. Booking for ferries open 1 month before the date you want
 
 {:.no_toc}
 ### [Media Luna Beach](https://maps.app.goo.gl/F4SFrz3tHc8P6uxL6)
-If you rent a car or a golf cart (we recommend it), drive to this beach which was recommended to us by Amanda at the Vieques Guesthouse. The road is quite bad and you'll need some driving skills here (especially with a golf cart, a car should be totally fine), but it is absolutely worth it! And this is a fun drive. Because the beach is difficult to reach, it is totally empty and absolutely stunning!
+If you rent a car or a golf cart (we recommend it), drive to this beach which was recommended to us by Amanda at the Vieques Guesthouse. The road is quite bad and you'll need some driving skills here (especially with a golf cart, a car should be totally fine), but it is absolutely worth it! And this is a fun drive. 
+
+Media Luna Beach is a hidden gem with golden sands and turquoise waters. And because the beach is difficult to reach, it is totally empty and absolutely stunning!
 
 ![medialuna]()
+
 
 {:.no_toc}
 ### [Esperanza Beach]()
@@ -144,10 +151,19 @@ This beach is right in front of the Vieques Guesthouse. In the parking lot, foll
 ![coconut]()
 
 {:.no_toc}
-### Biobay tour
+### Biobay tour in Mosquito Bay
 
-I loved the tour and the guides were very nice and knowledgeable. 
-clear bottom canoes.
+Mosquito Bay is known to be the brightest bioluminescent bay in the world, offering a surreal display of glowing waters. The bay is home to microorganisms called dinoflagellates, particularly the species Pyrodinium bahamense. These microscopic organisms emit a blue-green light when disturbed, creating a stunning display of bioluminescence in the water.
+
+The unique combination of factors makes Mosquito Bay one of the brightest bioluminescent bays in the world:
+- The bay's shallowness and its narrow entrance, limiting the renewal of water, which also makes it saltier.
+- The presence of mangrove trees along its shores
+- The lack of light pollution in the bay
+- Lack of pollution (boats are forbidden, humans can't swim in the water, etc.)
+
+The best time to witness the bioluminescence in Mosquito Bay is on moonless nights when the natural light pollution is minimal. Conservation efforts are in place to protect this delicate ecosystem, emphasizing the importance of sustainable tourism to preserve the beauty of Mosquito Bay for future generations.
+
+We went on a tour with JAK watersports since they were recommended by our guesthouse. They provide clear-bottom canoes and limit groups to 16 people/8 canoes. Because I had already experience this phenomenon in the Fjords of Musandam in Oman, I thought I would not be surprised or amazed. But this bay is a lot more luminescent than what I experienced and the clear-bottom canoe provided a new experience! Additionnally, the guides were very nice and knowledgeable and I learnt a lot! I definitely recommend a tour!
 
 [JAK Watersports]()
 
@@ -172,7 +188,7 @@ However, the logistics were not handled well, but this is partly my fault. I fir
 
 {:.no_toc}
 ### Natural Reserve of Las Cabezas de San Juan
-Closed
+The Natural Reserve of Las Cabezas de San Juan is a coastal treasure with diverse ecosystems, including mangroves and coral reefs. Unfortunately for us, it was closed the day we went. They are undergoing some conservation work at the moment. Check if it is open if you plan to go.
 
 {:.no_toc}
 ### Seven Seas Beach
@@ -196,7 +212,9 @@ If you book with them and are lucky enough to have good weather, please let me k
 
 {:.no_toc}
 ### Trail 1
-So, instead of diving and snorkeling, we spent the morning doing laundry before heading to el Yunque forest. I had planned to hike the El Yunque Peak Trail (8km) and the La Coca trail (6km) but, because
+So, instead of diving and snorkeling, we spent the morning doing laundry before heading to el Yunque forest. El Yunque Forest, the only tropical rainforest in the US, is a UNESCO World Biosphere Reserve, known for its biodiversity and scenic trails.
+
+I had planned to hike the El Yunque Peak Trail (8km) and the La Coca trail (6km) but, because
 5 miles
 
 ![Trail1](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_180421088.jpg?raw=true)
@@ -226,6 +244,7 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 
 {:.no_toc}
 ###  Reserva Natural Cueva del Indio
+Reserva Natural Cueva del Indio features ancient petroglyphs and stunning coastal views. 
 
 <video controls width="100%">
   <source src="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/PXL_20240112_181130183.TS.mp4" type="video/mp4" />
@@ -255,6 +274,7 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 
 {:.no_toc}
 ### Santurce and La Placita in San Juan
+Santurce and La Placita are vibrant urban neighborhoods, pulsating with art, music, and nightlife, reflecting modern Puerto Rican culture.
 
 ![placita](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_235833279.MP.jpg?raw=true)
 
@@ -277,6 +297,7 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 
 {:.no_toc}
 ###  Old San Juan
+Old San Juan is a historic district with colorful colonial buildings, narrow cobblestone streets, and historic sites. 
 
 ![oldsanjuan](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211024059.MP.jpg?raw=true)
 ![oldsanjuan](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211848353.MP.jpg?raw=true)
