@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 # - {name: 'Where I lived', url: 'whereilived'}
-# - {name: 'America', url: 'america'}
+- {name: 'America', url: 'america'}
 # - {name: 'Africa', url: 'africa'}
 - {name: 'Asia', url: 'asia'}
 - {name: 'Europe', url: 'europe'}
@@ -19,7 +19,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/EstelleGvl'}
+#- {icon: 'twitter', link:    'https://twitter.com/EstelleGvl'}
 - {icon: 'instagram', link:  'https://instagram.com/estelle_gvl'}
 - {icon: 'envelope', link:   'mailto:estelle.gueville@gmail.com'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
