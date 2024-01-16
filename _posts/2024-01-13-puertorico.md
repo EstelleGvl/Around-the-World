@@ -403,12 +403,10 @@ We primarily used airbnb as hotels can be very expensive in Puerto Rico. We book
 
 <div class="airbnb-embed-frame" data-id="27434620" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/27434620?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/27434620?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Guesthouse in Utuado · ★4.77 · 1 bedroom · 5 beds · 1 shared bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
 
-![utuado]()
 
+- Ponce: At Evelyn's
 
-- Ponce: [At Evelyn's](https://www.airbnb.com/rooms/43782671?guests=1&adults=1&s=67&unique_share_id=cc8e8983-8cdc-437c-9e28-d646ec3c07fb)
-
-![ponce]()
+<div class="airbnb-embed-frame" data-id="43782671" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/43782671?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/43782671?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Rental unit in Ponce · ★4.91 · Studio · 1 bed · 1 bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
 
 
 - Vieques: [The Vieques Guesthouse](https://www.theviequesguesthouse.com/)  
@@ -420,7 +418,9 @@ Go up on the rooftop at night for a beautiful view of the stars. We loved our st
 ![viequesgesthouse](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240110_122120071.jpg?raw=true)
 
 
-- San Juan:  
+- San Juan: At Osvaldo's
+
+<div class="airbnb-embed-frame" data-id="10588304" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/10588304?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/10588304?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Guest suite in San Juan · ★4.74 · 1 bedroom · 1 bed · 1 bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
 
 ![sanjuan](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_215353149.MP.jpg?raw=true)
 
@@ -428,7 +428,7 @@ Go up on the rooftop at night for a beautiful view of the stars. We loved our st
 As for the one we do not particularly recommend, some of you might still find it interesting so we decided to post it here nonetheless:
 - Rio Abajo;
 
-![]()
+<div class="airbnb-embed-frame" data-id="50116875" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/50116875?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/50116875?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Rental unit in Río Abajo · ★4.84 · 1 bedroom · 1 bed · 1 bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
 
 
 <br>
@@ -437,8 +437,9 @@ As for the one we do not particularly recommend, some of you might still find it
 
 {:.no_toc}
 ### In San Juan
-- Abracadabra in Santurce
-- Drunken Cookies
+- **Abracadabra** in Santurce
+- **Drunken Cookies**
+- **Bocarro**
 
 ![drunkencookies](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_213303935.MP.jpg?raw=true)
 
@@ -448,8 +449,12 @@ As for the one we do not particularly recommend, some of you might still find it
 
 {:.no_toc}
 ### In Utuado
-- Utuado bakery: very cheap and yummy sandwiches to pack for your daily excursions.
+- **Utuado bakery**: very cheap and yummy sandwiches to pack for your daily excursions.
 - 
+
+{:.no_toc}
+### In Ceiba
+
 
 {:.no_toc}
 ### In Ponce
