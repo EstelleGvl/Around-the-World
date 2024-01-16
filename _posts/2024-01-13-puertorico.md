@@ -399,12 +399,14 @@ January is the best season to travel to
 ## Where to Stay?
 We primarily used airbnb as hotels can be very expensive in Puerto Rico. We booked a guest house in Vieques because of the great reviews and fair price for the island. We highly recommend each - but one - of the places where we stayed, for several different reasons:  
 
-- Utuado:  
+- Utuado: At Adam's
+
+<div class="airbnb-embed-frame" data-id="27434620" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/27434620?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/27434620?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Guesthouse in Utuado · ★4.77 · 1 bedroom · 5 beds · 1 shared bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
 
 ![utuado]()
 
 
-- Ponce:  
+- Ponce: [At Evelyn's](https://www.airbnb.com/rooms/43782671?guests=1&adults=1&s=67&unique_share_id=cc8e8983-8cdc-437c-9e28-d646ec3c07fb)
 
 ![ponce]()
 
