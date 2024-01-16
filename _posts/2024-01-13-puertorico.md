@@ -185,9 +185,9 @@ Closed
 
 ## Day 6 - El Yunque
 
-This day was supposed to be our diving/snorkeling day in Culbera. Unfortunalty, because of the weather conditions, the trip was cancelled and we had to change the plan. This is my biggest deception of this trip - not diving and not seeing Culbera -  so if you have a chance, I would still recommend trying to spend a day diving/snorkeling on this island. 
+This day was supposed to be our diving/snorkeling day in Culbera. Unfortunately, because of the weather conditions, the trip was cancelled and we had to change the plan. This is my biggest deception of this trip - not diving and not seeing Culebra -  so if you have a chance, I would still recommend trying to spend a day diving/snorkeling on this island. 
 
-The company I booked with is **xxxx** and, although we did not spend the day as planned, I would book all over again with them. The booking process was very easy and they are the only ones I could find that allow snorkelers, experienced divers and discovery divers on the same boat for the same trip. This was amazing because my partner does not dive but I didn't want us to spend a day on two different boats doing different things in different places. They were also great handling communicationg about the weather and the problems (called, texted and emailed to make sure they reach me!) and proceeded with the refund instantly. 
+The company I booked with is **Sea Ventures Pro Dive Center** and, although we did not spend the day as planned, I would book all over again with them. The booking process was very easy and they are the only ones I could find that allow snorkelers, experienced divers and discovery divers on the same boat for the same trip. This was amazing because my partner does not dive but I didn't want us to spend a day on two different boats doing different things in different places. They were also great handling communicationg about the weather and the problems (called, texted and emailed to make sure they reach me!) and proceeded with the refund instantly. 
 
 If you book with them and are lucky enough to have good weather, please let me know in the comments how the tour was!
 
@@ -256,19 +256,23 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 {:.no_toc}
 ###  Fort San Felipe del Morro
 
-![SanFelipe]()
+![SanFelipe](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_202352086.MP.jpg?raw=true)
 
 
 {:.no_toc}
 ###  Parque de Los Gatos
 
-![gatos]()
+{:.no_toc}
+###  Old San Juan
+
+![oldsanjuan](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211024059.MP.jpg?raw=true)
+![oldsanjuan](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211848353.MP.jpg?raw=true)
 
 
 {:.no_toc}
 ###  Catedral Basilica Menor de San Juan Bautista, Plaza de Armas
 
-![catedral]()
+![catedral](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211508747.MP.jpg?raw=true)
 
 
 {:.no_toc}
@@ -418,6 +422,9 @@ As for the one we do not particularly recommend, some of you might still find it
 {:.no_toc}
 ### In San Juan
 - Abracadabra in Santurce
+- Drunken Cookies
+
+![drunkencookies](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_213303935.MP.jpg?raw=true)
 
 {:.no_toc}
 ### In Vieques
