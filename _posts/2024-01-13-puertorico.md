@@ -60,7 +60,7 @@ Our flight was slightly delayed and we arrived in San Juan in the late afternoon
 
 ![utuadoairbnb](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_145851832.jpg?raw=true)
 
-### Top tips:
+### Pro tips:
 If you arrive with an earlier flight, stop at the Cueva del Indio (see below) on the way to Utuado. We did it at the end of the trip and it was absolutely worth the visit! We wish we had done it in the beginning when we were in the region: that would have saved us a lot of time.
 
 <br>
@@ -81,9 +81,10 @@ The visit is quite expensive (18$ per person) but worth it. This is a very inter
 
 You can book on their website [here](). The park is opened Wednesday through Sunday from 8:00 a.m. through 3:00 p.m. AST. For more information, please contact the Department of Natural Resources by calling (787) 898-3100 / (787) 999-2200 ext. 3474 or emailing cavernasdecamuy@drna.pr.gov.
 
-![camuy](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_193407628.jpg?raw=true)
+![camuy](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_193407628.jpg?raw=true)  
 
-### Top tips:
+
+### Pro tips:
 - Call Camuy before driving (or better: book a tour online) and go to the waterfall either before or after Camuy. 
 - Wear closed shoes (we recommend hiking shoes).
 - If you are an early riser (and did not do it on day 1) you can also stop at the Cueva del Indio on the way.
@@ -106,9 +107,8 @@ You can book on their website [here](). The park is opened Wednesday through Sun
 ![ponce](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240108_214452424.jpg?raw=true)
 
 
-### Top tips:
-Skip Ponce and drive direclty to Ceiba after the river adventure (and maybe stop to a waterfall on the road, such as **XXX**). Book an accomodation in Ceiba and take an early morning ferry to Vieques instead of the 1pm one we took.
-
+### Pro tips:
+Skip Ponce and drive direclty to Ceiba after the river adventure (and maybe stop to waterfalls or natural places on the road, such as [Charco Azul](https://maps.app.goo.gl/SNWXcJTZ4Qo7zCqL7)). Book an accomodation in Ceiba and take an early morning ferry to Vieques instead of the 1pm one.
 
 
 
@@ -151,7 +151,7 @@ However, the logistics were not handled well, but this is partly my fault. I fir
 ![biobay]()
 
 
-### Top tips:
+### Pro tips:
 - Ferry: book in advance and take an early morning ferry - these are less crowded. It will also give you more time on the island.
 - Book a golf cart and explore the island and its many beaches.
 - Spend at least an entire day on the island. Take a morning ferry, stay overnight (for the biobay tour) and take a ferry the day after.
@@ -175,7 +175,7 @@ Closed
 ![sevenseas](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240110_192837473.jpg?raw=true)
 
 
-### Top tips:
+### Pro tips:
 - Check if the natural reserve reopened in advance.
 - The seven seas beach has a large parking (5$ a day) and is beautiful. Explore the many hiking paths to other beaches.
 
@@ -206,7 +206,7 @@ XXXXX
 
 ![trail2](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_210335260.jpg?raw=true)
 
-### Top tips:
+### Pro tips:
 Do not stop at the Visitors' center. They make you pay at the entrance but it is not worth it if you're like us and only want information about the trails. Instead, do this:
 - If you arrive early in the morning (between 8 and 9), you will most likely be able to enter the national park (for a fee) and do the El Yunque Peak trail and/or La Coca trail. They are indicated as challenging, but we noticed that most hiking trails' difficulty is overestimated. If you exercise regularly at home and have hiking shoes, you'll be fine.
 - If you arrive later and can't enter the park, do what we did as described above. The one we did is the other half of the Coca trail (but without the crowd and the fee to pay) and it was nice (albeit humid).
@@ -220,8 +220,13 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 
 ![cuevadelindio](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=true)
 ![cuevadelindio](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_181732154.jpg?raw=true)
+<video controls width="250">
+  <source src="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/PXL_20240112_181130183.TS.mp4" type="video/mp4" />
 
-
+  <a href="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/PXL_20240112_181130183.TS.mp4">WEBM</a>
+  <a href="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/PXL_20240112_181130183.TS.mp4">MP4</a>
+  video.
+</video>
 
 {:.no_toc}
 ###  
