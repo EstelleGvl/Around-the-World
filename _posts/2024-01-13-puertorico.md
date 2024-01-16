@@ -238,6 +238,8 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 
 <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_181732154.jpg?raw=true" alt=""
    width="49%" height="auto">
+   <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=true" alt=""
+   width="49%" height="auto">
 
 {:.no_toc}
 ###  
