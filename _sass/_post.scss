@@ -73,7 +73,7 @@
   position: absolute;
   left: 50%;
   top: 50%;
-  height: auto;
+  height: 400px;
   width: 600px;
   -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
@@ -87,6 +87,7 @@
 @media (max-width: $container-width) {
   .related-thumbnail{
     width: 60vw;
+    height: 40ww
   }
 }
 @media (max-width: $tablet-width) {
