@@ -58,7 +58,7 @@ Because we rented a car,
 
 Our flight was slightly delayed and we arrived in San Juan in the late afternoon. After getting our luggage, we went searching for the shuttle service from our rental car company. We found it quickly and were on our way to the car rental place. The rental process went rather quickly (see below) and we were able to leave even before sundown. We decided to stop and get some groceries right next to Charlie's, at **XXX**, before getting on the road. The road to Utuado (about 1.5 hour) was quite good (despite a fair number a potholes). We stopped for dinner at **XXX** before going to our airbnb. The last portion of the road was quite 
 
-![utuadoairbnb]()
+![utuadoairbnb](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_145851832.jpg?raw=true)
 
 ### Top tips:
 If you arrive with an earlier flight, stop at the Cueva del Indio (see below) on the way to Utuado. We did it at the end of the trip and it was absolutely worth the visit! We wish we had done it in the beginning when we were in the region: that would have saved us a lot of time.
@@ -68,7 +68,7 @@ If you arrive with an earlier flight, stop at the Cueva del Indio (see below) on
 ## Day 2 - Mountains and Caves
 
 {:.no_toc}
-### Primera Cascada de la Planta
+### [Primera Cascada de la Planta](https://maps.app.goo.gl/ZutDEYUhouWbYKUc9)
 We had a slow morning and got on the road at 11am. We made the mistake to not call Camuy Caves and when we arrived shortly after 12pm, they told us that the next tour was at 2pm. With nearly 2 hours to kill, we had to think about another activity. We looked at the map and decided to drive to the Planta waterfall, nearly 30min from there. This was ABSOLUTELY worth it! This waterfall is easily accessible (3 min walk from the parking lot) and is GORGEOUS. There was barely anyone else and we were able to enjoy it until it was time to go back to Camuy.
 
 ![waterfallPlanta](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_165503391.jpg?raw=true)
@@ -76,13 +76,18 @@ We had a slow morning and got on the road at 11am. We made the mistake to not ca
 
 
 {:.no_toc}
-### Camuy caves
-The visit is quite expensive (18$ per person) but worth it. This is a very interesting natural spot and the guides are very knowledgeable. 
+### [Camuy caves](https://maps.app.goo.gl/L7rTRpkXZbDezGzy8)
+The visit is quite expensive (18$ per person) but worth it. This is a very interesting natural spot and the guides are very knowledgeable. You will walk downhill about 20+ minutes to the entrance of the cave. We had no issue with this tour, but some of the people with us struggled a lot. If you are in decent shape, you will be fine. Otherwise, they have golf carts that can help you go back up at the end of the tour.
 
-![camuy]()
+You can book on their website [here](). The park is opened Wednesday through Sunday from 8:00 a.m. through 3:00 p.m. AST. For more information, please contact the Department of Natural Resources by calling (787) 898-3100 / (787) 999-2200 ext. 3474 or emailing cavernasdecamuy@drna.pr.gov.
+
+![camuy](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_193407628.jpg?raw=true)
 
 ### Top tips:
-Call Camuy before driving (or better: book a tour online) and go to the waterfall either before or after Camuy. If you are an early riser (and did not do it on day 1) you can also stop at the Cueva del Indio on the way.
+- Call Camuy before driving (or better: book a tour online) and go to the waterfall either before or after Camuy. 
+- Wear closed shoes (we recommend hiking shoes).
+- If you are an early riser (and did not do it on day 1) you can also stop at the Cueva del Indio on the way.
+- The Cueva Ventana, which we also wanted to visit is unfortunately permanently closed.
 
 <br>
 
@@ -91,21 +96,21 @@ Call Camuy before driving (or better: book a tour online) and go to the waterfal
 {:.no_toc}
 ### Tanama River Adventures
 
+[Tanama River Adventures]()
 
-
-![tanama](https://github.com/EstelleGvl/Around-the-World/blob/71b804daa7c9cdd52257c6293c08b9b91a0fa947/assets/img/puertorico/GOPR3670_ALTA3039056359705524600.JPG)
+![tanama](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3670_ALTA3039056359705524600.JPG?raw=true)
 
 {:.no_toc}
-### Ponce
+### [Ponce]()
 
-
+![ponce](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240108_214452424.jpg?raw=true)
 
 
 ### Top tips:
 Skip Ponce and drive direclty to Ceiba after the river adventure (and maybe stop to a waterfall on the road, such as **XXX**). Book an accomodation in Ceiba and take an early morning ferry to Vieques instead of the 1pm one we took.
 
 
-![ponce]()
+
 
 <br>
 
@@ -117,13 +122,13 @@ We took the 1pm ferry. Booking for ferries open 1 month before the date you want
 
 
 {:.no_toc}
-### Media Luna Beach
+### [Media Luna Beach](https://maps.app.goo.gl/F4SFrz3tHc8P6uxL6)
 If you rent a car or a golf cart (we recommend it), drive to this beach which was recommended to us by Amanda at the Vieques Guesthouse. The road is quite bad and you'll need some driving skills here (especially with a golf cart, a car should be totally fine), but it is absolutely worth it! And this is a fun drive. Because the beach is difficult to reach, it is totally empty and absolutely stunning!
 
 ![medialuna]()
 
 {:.no_toc}
-### Esperanza Beach
+### [Esperanza Beach]()
 
 ![esperanza]()
 
@@ -138,6 +143,8 @@ This beach is right in front of the Vieques Guesthouse. In the parking lot, foll
 
 I loved the tour and the guides were very nice and knowledgeable. 
 clear bottom canoes.
+
+[JAK Watersports]()
 
 However, the logistics were not handled well, but this is partly my fault. I first emailed to get information. They answered, telling me there was availability the day I wanted at 7.45pm but I needed to call. I then called to book the tour. I gave all my information, including my email address, my phone number and my credit card details. They confirmed the tour for 2 was booked at 7.45. Fast forward to the day of the tour, I start to be anxious because I realise they never sent any confirmation by email or anything. We call and they confirm our booking (and actually send me an email this time), but at 6.30pm (but they don't say it has changed). I had planned the entire day for a tour at 7.45 so I needed to adjust things and we ended up having less time to explore the island as I wanted and expected.
 
@@ -165,8 +172,7 @@ Closed
 {:.no_toc}
 ### Seven Seas Beach
 
-
-![sevenseas]()
+![sevenseas](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240110_192837473.jpg?raw=true)
 
 
 ### Top tips:
@@ -188,12 +194,17 @@ If you book with them and are lucky enough to have good weather, please let me k
 So, instead of diving and snorkeling, we spent the morning doing laundry before heading to el Yunque forest. I had planned to hike the El Yunque Peak Trail (8km) and the La Coca trail (6km) but, because
 5 miles
 
-![Trail]()
+![Trail1](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_180421088.jpg?raw=true)
+
+
+XXXXX
+
+![Trail1](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_185730472.jpg?raw=true)
 
 ### Trail 2
 1.2km
 
-![Butkowski Waterfall]()
+![trail2](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_210335260.jpg?raw=true)
 
 ### Top tips:
 Do not stop at the Visitors' center. They make you pay at the entrance but it is not worth it if you're like us and only want information about the trails. Instead, do this:
@@ -207,12 +218,15 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 {:.no_toc}
 ###  Reserva Natural Cueva del Indio
 
-![cuevadelindio]()
+![cuevadelindio](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=true)
+![cuevadelindio](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_181732154.jpg?raw=true)
+
+
 
 {:.no_toc}
 ###  
 
-![]()
+![](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_194028162.jpg?raw=true)
 
 
 {:.no_toc}
@@ -354,8 +368,7 @@ We primarily used airbnb as hotels can be very expensive in Puerto Rico. We book
 
 - Utuado:  
 
-![utuado](https://github.com/EstelleGvl/Around-the-World/blob/71b804daa7c9cdd52257c6293c08b9b91a0fa947/assets/img/puertorico/PXL_20240107_145851832.jpg
-)
+![utuado]()
 
 
 - Ponce:  
@@ -369,7 +382,7 @@ Beautiful location with exceptionally helpful hosts (Amanda is a wealth of infor
 
 Go up on the rooftop at night for a beautiful view of the stars. We loved our stay there and would definitely book again!
 
-![abracadabra]()
+![viequesgesthouse](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240110_122120071.jpg?raw=true)
 
 
 - San Juan:  
