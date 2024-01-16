@@ -224,10 +224,7 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 {:.no_toc}
 ###  Reserva Natural Cueva del Indio
 
-![cuevadelindio](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=true)
-![cuevadelindio](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_181732154.jpg?raw=true)
-
-<video controls width="500">
+<video controls width="100%">
   <source src="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/PXL_20240112_181130183.TS.mp4" type="video/mp4" />
 
   <a href="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/PXL_20240112_181130183.TS.mp4">WEBM</a>
@@ -238,7 +235,7 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 
 <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_181732154.jpg?raw=true" alt=""
    width="49%" height="auto">
-   <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=true" alt=""
+<img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=true" alt=""
    width="49%" height="auto">
 
 {:.no_toc}
