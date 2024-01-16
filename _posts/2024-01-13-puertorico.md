@@ -53,6 +53,9 @@ Because we rented a car,
 
 <br>
 
+# Main challenges
+
+
 # My trip
 ## Day 1 - Flying into San Juan and getting to Utuado
 
@@ -429,6 +432,7 @@ As for the one we do not particularly recommend, some of you might still find it
 <br>
 
 ## Where to Eat?
+
 {:.no_toc}
 ### In San Juan
 - Abracadabra in Santurce
