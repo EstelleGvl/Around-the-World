@@ -233,10 +233,16 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 </video>
 
 
-<img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_181732154.jpg?raw=true" alt=""
-   width="49%" height="auto">
-<img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=true" alt=""
-   width="49%" height="auto">
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_181732154.jpg?raw=true" alt="cave" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=tru" alt="Forest" style="width:100%">
+  </div>
+</div>
+
+
 
 {:.no_toc}
 ###  
