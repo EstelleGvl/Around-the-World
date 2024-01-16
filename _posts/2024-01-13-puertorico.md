@@ -71,7 +71,8 @@ If you arrive with an earlier flight, stop at the Cueva del Indio (see below) on
 ### Primera Cascada de la Planta
 We had a slow morning and got on the road at 11am. We made the mistake to not call Camuy Caves and when we arrived shortly after 12pm, they told us that the next tour was at 2pm. With nearly 2 hours to kill, we had to think about another activity. We looked at the map and decided to drive to the Planta waterfall, nearly 30min from there. This was ABSOLUTELY worth it! This waterfall is easily accessible (3 min walk from the parking lot) and is GORGEOUS. There was barely anyone else and we were able to enjoy it until it was time to go back to Camuy.
 
-![waterfallPlanta](https://github.com/EstelleGvl/Around-the-World/blob/71b804daa7c9cdd52257c6293c08b9b91a0fa947/assets/img/puertorico/PXL_20240107_165503391.jpg)
+![waterfallPlanta](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_165503391.jpg?raw=true)
+
 
 
 {:.no_toc}
