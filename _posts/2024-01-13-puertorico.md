@@ -237,14 +237,14 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 {:.no_toc}
 ### Santurce and La Placita in San Juan
 
-![placita]()
+![placita](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_235833279.MP.jpg?raw=true)
 
 ## Day 8 - Old San Juan
 
 {:.no_toc}
 ###  Castillo San Cristobal
 
-![sancristobal]()
+![sancristobal](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_192555921.MP.jpg?raw=true)
 
 
 {:.no_toc}
@@ -378,7 +378,7 @@ We primarily used airbnb as hotels can be very expensive in Puerto Rico. We book
 
 - Ponce:  
 
-![abracadabra]()
+![ponce]()
 
 
 - Vieques: [The Vieques Guesthouse](https://www.theviequesguesthouse.com/)  
@@ -392,13 +392,13 @@ Go up on the rooftop at night for a beautiful view of the stars. We loved our st
 
 - San Juan:  
 
-![abracadabra]()
+![sanjuan](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_215353149.MP.jpg?raw=true)
 
 
 As for the one we do not particularly recommend, some of you might still find it interesting so we decided to post it here nonetheless:
 - Rio Abajo;
 
-![abracadabra]()
+![]()
 
 
 <br>
