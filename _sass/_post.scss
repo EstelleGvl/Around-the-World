@@ -73,7 +73,7 @@
   position: absolute;
   left: 50%;
   top: 50%;
-  height: 400px;
+  height: auto;
   width: 600px;
   -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
@@ -87,7 +87,6 @@
 @media (max-width: $container-width) {
   .related-thumbnail{
     width: 60vw;
-    height: 40ww
   }
 }
 @media (max-width: $tablet-width) {
@@ -99,7 +98,7 @@
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 49%;
+  width: 33.33%;
   padding: 5px;
 }
 
