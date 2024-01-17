@@ -18,7 +18,7 @@ image: puertorico.jpg
 | [Price category]()      |     4      |
 
 
-xxxx
+
 
 <br>
 
@@ -291,6 +291,9 @@ Reserva Natural Cueva del Indio features ancient petroglyphs and stunning coasta
   </div>
   <div class="column">
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=tru" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://lh3.google.com/pw/ABLVV85_G3gB57jsN6jeJjluarRjcTWg2cYfE5tWGLygdBGzP7i_UqLuM5_3YWUKfKuboQWqDsIpfy-c_Z3xBt9EtLTW3YSpChM=w2130-h1598-s-no-gm?authuser=1" alt="Forest" style="width:100%">
   </div>
 </div>
 
