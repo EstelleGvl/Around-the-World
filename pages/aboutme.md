@@ -4,16 +4,18 @@ title: About Me
 permalink: /aboutme
 ---
 
-I am a French girl who embarked on her travel journey in adulthood. In 2013, I got my first passport to move to Canada to pursue a master's degree in Medieval History. I spent 9 months in Quebec City, and this is when I truly fell in love with travelling. 
+I am a French woman who embarked on her travel journey in adulthood. In 2013, I got my first passport to move to Canada to pursue a master's degree in Medieval History. I spent 9 months in Quebec City, and this is when I truly fell in love with travelling. 
 
 I was 21 years old. 
 
-Fast forward a decade, and I've since called two more countries home while exploring over 30 others. Throughout my travels, I've had the pleasure of travelling with friends and partners, but in 2018, I took my very first solo trip, and it was nothing short of a transformative experience. This solo expedition was a **game-changer**! 
+Fast forward a decade, and I've since called two more countries home while exploring over 30 others. Throughout my travels, I've had the pleasure of travelling with friends and partners, but in 2018, I took my very first solo trip, and it was nothing short of a transformative experience. This solo expedition to [Georgia]() was a **game-changer**! 
 
 I had never imagined that I could accomplish so much on my own, and it not only enriched my understanding of different cultures but also led me on a path of self-discovery. Venturing solo into remote regions, countries where language was a barrier, engaging in activities like diving, hiking, or horse-riding in the middle of nowhere boosted my self-confidence. I realized that I was capable of anything.
 
-Today, as I am pursuing my PhD at Yale University, I continue to plan trips and I am eager to share what I have learned with you. My goal is to inspire women to embrace solo travel. I want to show you that it is not just a fantastic experience but also an accessible and deeply fulfilling one.
+![Estelle](https://lh3.google.com/pw/ABLVV85hOBrElSUCb9x7Se1-Ap8moC0ag3J70iitEkl6rO66wfOnOIGDO6h0uEaHdBzcOXekrWUV6CSVDcdYQad7ygMjgY_LREo=w1600-h1200-s-no-gm?authuser=1)
 
+
+Today, as I am pursuing my PhD at Yale University, I continue to plan trips and I am eager to share what I have learnt with you. My goal is to inspire women to embrace solo travel and to show you that it is not just a fantastic experience but also an accessible and deeply fulfilling one. Not all my trips are solo-trips and I will also share with you how travelling, alone or not, is amazing.
 
 As a lesbian woman, I also aim to address questions that members of the LGBTQ+ community may have when it comes to traveling the world.
 

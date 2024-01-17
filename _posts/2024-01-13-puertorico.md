@@ -118,7 +118,27 @@ Tanama River is renowned for its scenic beauty and cultural significance. Flowin
 
 [Tanama River Adventures](https://tanamariveradventures.com/) offers a number of tours
 
-![tanama](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3670_ALTA3039056359705524600.JPG?raw=true)
+
+<video controls width="100%">
+  <source src="" type="video/mp4" />
+
+  <a href="">WEBM</a>
+  <a href="">MP4</a>
+</video>
+
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3670_ALTA3039056359705524600.JPG?raw=true" alt="cave" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3607_ALTA3039056359705524600.JPG?raw=true" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3605_ALTA3039056359705524600.JPG?raw=true" alt="Forest" style="width:100%">
+  </div>
+</div>
+
 
 {:.no_toc}
 ### [Ponce]()
