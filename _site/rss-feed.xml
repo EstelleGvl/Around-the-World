@@ -1,41 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Millennial</title>
+		<title>Beyond Borders</title>
 		<description>Around the world</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>United States of America | 2022 - now</title>
-				
-					<dc:creator>Estelle Guéville</dc:creator>
-				
-				
-					<description>&lt;p&gt;xxxx&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/lived/america/usa/</link>
-				<guid isPermaLink="true">http://localhost:4000/lived/america/usa/</guid>
-			</item>
-		
-			<item>
-				<title>United Arab Emirates | 2016-2022</title>
-				
-					<dc:creator>Estelle Guéville</dc:creator>
-				
-				
-					<description>&lt;p&gt;XXX&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/lived/middleeast/uae/</link>
-				<guid isPermaLink="true">http://localhost:4000/lived/middleeast/uae/</guid>
-			</item>
-		
-			<item>
-				<title>Slovenia | 2021-2022</title>
+				<title>Puerto Rico | January 2024</title>
 				
 					<dc:creator>Estelle Guéville</dc:creator>
 				
@@ -43,68 +15,65 @@
 					<description>&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Slovenia&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;8 days (26 December 2021-02 January 2022)&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Puerto Rico&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;9 days (6-14 January 2024)&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;From the &lt;a href=&quot;https://estellegvl.github.io/Around-the-World/uae&quot;&gt;UAE&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Solo-trip&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;From the &lt;a href=&quot;https://estellegvl.github.io/Around-the-World/us&quot;&gt;US&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Couple-trip&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Currency&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Dollar $&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;&quot;&gt;Price category&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
 				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/europe/slovenia/</link>
-				<guid isPermaLink="true">http://localhost:4000/europe/slovenia/</guid>
+				<pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/america/puertorico/</link>
+				<guid isPermaLink="true">http://localhost:4000/america/puertorico/</guid>
 			</item>
 		
 			<item>
-				<title>Paris</title>
+				<title>Kazakhstan | April 2022</title>
 				
 					<dc:creator>Estelle Guéville</dc:creator>
 				
 				
-					<description>&lt;p&gt;Paris&lt;/p&gt;
+					<description>&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Kazakhstan&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;8 days (2-9 April 2022)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;From the &lt;a href=&quot;https://estellegvl.github.io/Around-the-World/uae&quot;&gt;UAE&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Couple-trip&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </description>
 				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/paris/</link>
-				<guid isPermaLink="true">http://localhost:4000/paris/</guid>
+				<pubDate>Wed, 20 Sep 2023 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/asia/kazakhstan/</link>
+				<guid isPermaLink="true">http://localhost:4000/asia/kazakhstan/</guid>
 			</item>
 		
 			<item>
-				<title>Hiking in France</title>
-				
-					<dc:creator>Estelle Guéville</dc:creator>
-				
-				
-					<description>&lt;p&gt;Paris&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/hikinginfrance/</link>
-				<guid isPermaLink="true">http://localhost:4000/hikinginfrance/</guid>
-			</item>
-		
-			<item>
-				<title>France | 1992-2013 | 2014-2016</title>
-				
-					<dc:creator>Estelle Guéville</dc:creator>
-				
-				
-					<description>&lt;p&gt;This is a test. I want to link this page to a subpage about &lt;a href=&quot;/paris&quot;&gt;Paris&lt;/a&gt; and another subpage about &lt;a href=&quot;/hikinginfrance&quot;&gt;Hiking in France&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/lived/europe/france/</link>
-				<guid isPermaLink="true">http://localhost:4000/lived/europe/france/</guid>
-			</item>
-		
-			<item>
-				<title>Cyprus | 2021</title>
+				<title>Cyprus | October 2021</title>
 				
 					<dc:creator>Estelle Guéville</dc:creator>
 				
@@ -113,7 +82,7 @@
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;Cyprus&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;8 days (XXX October 2021)&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;8 days (15-22 October 2021)&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -125,27 +94,13 @@
 &lt;/table&gt;
 </description>
 				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<pubDate>Wed, 20 Sep 2023 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/europe/cyprus/</link>
 				<guid isPermaLink="true">http://localhost:4000/europe/cyprus/</guid>
 			</item>
 		
 			<item>
-				<title>Canada | 2013-2014</title>
-				
-					<dc:creator>Estelle Guéville</dc:creator>
-				
-				
-					<description>&lt;p&gt;xxxxx&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/lived/america/canada/</link>
-				<guid isPermaLink="true">http://localhost:4000/lived/america/canada/</guid>
-			</item>
-		
-			<item>
-				<title>Bulgaria | 2017</title>
+				<title>Qatar | June 2022</title>
 				
 					<dc:creator>Estelle Guéville</dc:creator>
 				
@@ -153,49 +108,22 @@
 					<description>&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulgaria&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;8 days (2017)&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Qatar&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;2 days (11-12 June 2022)&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;From the &lt;a href=&quot;https://estellegvl.github.io/Around-the-World/uae&quot;&gt;UAE&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Friend trip (2 couples)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;From the &lt;a href=&quot;https://estellegvl.github.io/Around-the-World/lived/middleeast/uae&quot;&gt;UAE&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Trip with a friend&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
 				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/europe/bulgaria/</link>
-				<guid isPermaLink="true">http://localhost:4000/europe/bulgaria/</guid>
-			</item>
-		
-			<item>
-				<title>Thailand | 2019</title>
-				
-					<dc:creator>Estelle Guéville</dc:creator>
-				
-				
-					<description>&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Thailand&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;4 days (2019)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;From &lt;a href=&quot;https://estellegvl.github.io/Around-the-World/singapore&quot;&gt;Singapore&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Couple trip&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-				
-				<pubDate>Wed, 05 Jan 2022 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/asia/thailand/</link>
-				<guid isPermaLink="true">http://localhost:4000/asia/thailand/</guid>
+				<pubDate>Tue, 19 Sep 2023 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/middleeast/qatar/</link>
+				<guid isPermaLink="true">http://localhost:4000/middleeast/qatar/</guid>
 			</item>
 		
 	</channel>

@@ -132,9 +132,6 @@ Tanama River is renowned for its scenic beauty and cultural significance. Flowin
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3670_ALTA3039056359705524600.JPG?raw=true" alt="cave" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3607_ALTA3039056359705524600.JPG?raw=true" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/GOPR3605_ALTA3039056359705524600.JPG?raw=true" alt="Forest" style="width:100%">
   </div>
 </div>
@@ -292,9 +289,6 @@ Reserva Natural Cueva del Indio features ancient petroglyphs and stunning coasta
   <div class="column">
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_175528016.jpg?raw=tru" alt="Forest" style="width:100%">
   </div>
-  <div class="column">
-    <img src="https://lh3.google.com/pw/ABLVV85_G3gB57jsN6jeJjluarRjcTWg2cYfE5tWGLygdBGzP7i_UqLuM5_3YWUKfKuboQWqDsIpfy-c_Z3xBt9EtLTW3YSpChM=w2130-h1598-s-no-gm?authuser=1" alt="Forest" style="width:100%">
-  </div>
 </div>
 
 
@@ -332,8 +326,14 @@ Santurce and La Placita are vibrant urban neighborhoods, pulsating with art, mus
 ###  Old San Juan
 Old San Juan is a historic district with colorful colonial buildings, narrow cobblestone streets, and historic sites. 
 
-![oldsanjuan](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211024059.MP.jpg?raw=true)
-![oldsanjuan](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211848353.MP.jpg?raw=true)
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211024059.MP.jpg?raw=true" alt="oldsanjuan" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211848353.MP.jpg?raw=true" alt="oldsanjuan" style="width:100%">
+  </div>
+</div>
 
 
 {:.no_toc}
