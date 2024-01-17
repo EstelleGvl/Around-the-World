@@ -12,6 +12,10 @@ image: puertorico.jpg
 | Puerto Rico | 9 days (6-14 January 2024)
 | :--------------------:   | :----------------------:|
 | From the [US](https://estellegvl.github.io/Around-the-World/us)       | Couple-trip           |
+| :--------------------:   | :----------------------:|
+| Currency | Dollar $
+| :--------------------:   | :----------------------:|
+| [Price category]()      |     4      |
 
 
 xxxx
@@ -29,10 +33,18 @@ xxxx
 <br>
 
 # Puerto Rico. An Overview
-history
-politics
-economy
-culture
+Puerto Rico is an archipelago located in the northeastern Caribbean, southeast of Florida. As a territory of the United States, Puerto Rico is an unincorporated territory with a unique political status that has implications for its history, politics, economy, and culture.
+
+The indigenous Taíno people inhabited Puerto Rico before the arrival of Christopher Columbus in 1493. Spanish colonization began in the early 16th century, and the island became a strategic outpost in the Spanish Empire. Puerto Rico remained under Spanish rule for centuries. The island's culture is deeply influenced by its Spanish heritage, seen in its language, religion, and architecture. Following the Spanish-American War in 1898, Puerto Rico was ceded to the United States under the Treaty of Paris. The Foraker Act of 1900 established a civilian government, and the Jones–Shafroth Act of 1917 granted U.S. citizenship to Puerto Ricans. In 1952, Puerto Rico adopted a Commonwealth status, establishing a local constitution. However, Puerto Rico remains an unincorporated territory, and its political status remains a complex and debated issue.
+
+Puerto Rico has a locally elected government with its own constitution. The Governor of Puerto Rico leads the executive branch, and the Legislative Assembly comprises a Senate and House of Representatives. Although Puerto Ricans are U.S. citizens, they cannot vote in U.S. presidential elections. The island's political status has been a subject of ongoing debate, with discussions about statehood, independence, or maintaining the current territorial status.
+
+The economy of Puerto Rico has undergone various shifts. Historically, agriculture played a significant role, particularly in sugarcane and coffee production. In recent decades, the economy has diversified, with a focus on manufacturing, pharmaceuticals, services and tourism.
+Puerto Rico has faced economic challenges, including a high debt burden and fiscal crises as well as natural disasters such as hurricane Maria in 2017.
+
+Puerto Rican culture is a vibrant blend of Spanish, Taíno, African, and U.S. influences. The island is known for its music, dance, and festivals, including salsa, merengue, and bomba. Most people speak Spanish and Catholicism is the predominant religion. The arts, literature, and cuisine reflect the island's rich cultural tapestry.
+
+
 
 
 <br>
