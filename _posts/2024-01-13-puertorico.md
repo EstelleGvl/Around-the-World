@@ -27,7 +27,7 @@ XXX
 
 <br>
 
-![Overvie Puerto Rico](https://lh3.google.com/pw/ABLVV87J9jv_IJqZy-NQTgP-y5aTGjsKn2pATEOF1A2yPlvBfWMH1OaU9zIHzoGU88R71gwE-uk_sbmi72gIGYDuKf54Y6JuZWs=w1600-h1200-s-no-gm?authuser=1)
+![Overview Puerto Rico](https://lh3.google.com/pw/ABLVV87J9jv_IJqZy-NQTgP-y5aTGjsKn2pATEOF1A2yPlvBfWMH1OaU9zIHzoGU88R71gwE-uk_sbmi72gIGYDuKf54Y6JuZWs=w1600-h1200-s-no-gm?authuser=1)
 
 
 <br>
@@ -45,6 +45,7 @@ Puerto Rico has faced economic challenges, including a high debt burden and fisc
 Puerto Rican culture is a vibrant blend of Spanish, Taíno, African, and U.S. influences. The island is known for its music, dance, and festivals, including salsa, merengue, and bomba. Most people speak Spanish and Catholicism is the predominant religion. The arts, literature, and cuisine reflect the island's rich cultural tapestry.
 
 
+![Beach](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0025.jpg?raw=true)
 
 
 <br>
@@ -68,16 +69,18 @@ Because we rented a car,
 # Main challenges
 
 
+<br>
+
 # My trip
 ## Day 1 - Flying into San Juan and getting to Utuado
 
-Our flight was slightly delayed and we arrived in San Juan in the late afternoon. After getting our luggage, we went searching for the shuttle service from our rental car company. We found it quickly and were on our way to the car rental place. The rental process went rather quickly (see below) and we were able to leave even before sundown. We decided to stop and get some groceries right next to Charlie's, at **XXX**, before getting on the road. The road to Utuado (about 1.5 hour) was quite good (despite a fair number a potholes). We stopped for dinner at **XXX** before going to our airbnb. The last portion of the road was quite 
+Our flight was slightly delayed and we arrived in San Juan in the late afternoon. After getting our luggage, we went searching for the shuttle service from our rental car company. We found it quickly and were on our way to the car rental place. The rental process went rather quickly (see below) and we were able to leave even before sundown. We decided to stop and get some groceries right next to Charlie's, at [Supermercado Pueblo](https://maps.app.goo.gl/U3RKuBET2DcVm2F87), before getting on the road. The road to Utuado (about 1.5 hour) was quite good (despite a fair number a potholes). We stopped for dinner in Utuado at [Tavos Pizza](https://maps.app.goo.gl/GJsHqbUrxAKsBTH97) before going to our airbnb. The last portion of the road was quite 
 
 ![utuadoairbnb](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_145851832.jpg?raw=true)
 
 {:.no_toc}
 ### Pro tips:
-If you arrive with an earlier flight, stop at the Cueva del Indio (see below) on the way to Utuado. We did it at the end of the trip and it was absolutely worth the visit! We wish we had done it in the beginning when we were in the region: that would have saved us a lot of time.
+If you arrive with an earlier flight, stop at the [Cueva del Indio](https://maps.app.goo.gl/kQbuj5HaX3bq5NDx5) (see below) on the way to Utuado. We did it at the end of the trip and it was absolutely worth the visit! We wish we had done it in the beginning when we were in the region: that would have saved us a lot of time.
 
 <br>
 
@@ -88,7 +91,6 @@ If you arrive with an earlier flight, stop at the Cueva del Indio (see below) on
 We had a slow morning and got on the road at 11am. We made the mistake to not call Camuy Caves and when we arrived shortly after 12pm, they told us that the next tour was at 2pm. With nearly 2 hours to kill, we had to think about another activity. We looked at the map and decided to drive to the Planta waterfall, nearly 30min from there. This was ABSOLUTELY worth it! This waterfall is easily accessible (3 min walk from the parking lot) and is GORGEOUS. There was barely anyone else and we were able to enjoy it until it was time to go back to Camuy.
 
 ![waterfallPlanta](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_165503391.jpg?raw=true)
-
 
 
 {:.no_toc}
@@ -113,7 +115,7 @@ You can book on their website [here](). The park is opened Wednesday through Sun
 ## Day 3 - River Adventures and City Exploration
 
 {:.no_toc}
-### Tanama River Adventures
+### [Tanama River Adventures](https://tanamariveradventures.com/)
 Tanama River is renowned for its scenic beauty and cultural significance. Flowing through limestone canyons, the river has played a vital role in the island's history and offers opportunities for thrilling adventures. 
 
 [Tanama River Adventures](https://tanamariveradventures.com/) offers a number of tours
@@ -138,8 +140,8 @@ Tanama River is renowned for its scenic beauty and cultural significance. Flowin
 
 
 {:.no_toc}
-### [Ponce]()
-Ponce, known as the "Pearl of the South," showcases a blend of colonial architecture and vibrant cultural heritage. Its historic town square, Plaza Las Delicias, is a testament to the city's development since its founding in the 17th century.
+### [Ponce](https://maps.app.goo.gl/87tgazNk4g4rC2oh8)
+Ponce, known as the "Pearl of the South," showcases a blend of colonial architecture and vibrant cultural heritage. Its historic town square, [Plaza Las Delicias](https://maps.app.goo.gl/wnY5Q5YJzL3NBHPN7), is a testament to the city's development since its founding in the 17th century.
 
 ![ponce](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240108_214452424.jpg?raw=true)
 
@@ -152,7 +154,7 @@ Skip Ponce and drive direclty to Ceiba after the river adventure (and maybe stop
 
 <br>
 
-## Day 4 - Vieques
+## Day 4 - [Vieques](https://maps.app.goo.gl/YnWDzJpv4ZD3MoF7A)
 
 {:.no_toc}
 ### The Ferry
@@ -160,27 +162,35 @@ We took the 1pm ferry. Booking for ferries open 1 month before the date you want
 
 
 {:.no_toc}
-### [Media Luna Beach](https://maps.app.goo.gl/F4SFrz3tHc8P6uxL6)
+### [Media Luna Beach](https://maps.app.goo.gl/FE9w4Dav5XLPV1Uo7)
 If you rent a car or a golf cart (we recommend it), drive to this beach which was recommended to us by Amanda at the Vieques Guesthouse. The road is quite bad and you'll need some driving skills here (especially with a golf cart, a car should be totally fine), but it is absolutely worth it! And this is a fun drive. 
 
 Media Luna Beach is a hidden gem with golden sands and turquoise waters. And because the beach is difficult to reach, it is totally empty and absolutely stunning!
 
 ![medialuna]()
+<div class="row">
+  <div class="column">
+    <img src="" alt="medialuna" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0017.jpg?raw=true" alt="medialuna" style="width:100%">
+  </div>
+</div>
 
 
 {:.no_toc}
-### [Esperanza Beach]()
+### [Sun Bay Beach](https://maps.app.goo.gl/BTQ2K1uf5AhsWXtM8)
 
-![esperanza]()
+![Sun Bay](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0031.jpg?raw=true)
 
 {:.no_toc}
 ### Coconut Beach ([El cocal beach](https://maps.app.goo.gl/m3Nj6vcsUHikhFe18))
 This beach is right in front of the Vieques Guesthouse. In the parking lot, follow the small path in the forest and after a short walk (3min) you will arrive at this lovely, hidden beach. It is a beautiful place to watch the sunset and we had a great time there.
 
-![coconut]()
+![coconut](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0004.jpg?raw=true)
 
 {:.no_toc}
-### Biobay tour in Mosquito Bay
+### Biobay tour in [Mosquito Bay](https://maps.app.goo.gl/jZqfZe9AemDDYejD7)
 
 Mosquito Bay is known to be the brightest bioluminescent bay in the world, offering a surreal display of glowing waters. The bay is home to microorganisms called dinoflagellates, particularly the species Pyrodinium bahamense. These microscopic organisms emit a blue-green light when disturbed, creating a stunning display of bioluminescence in the water.
 
@@ -196,7 +206,6 @@ We went on a tour with [JAK Watersports](https://jakwatersports.com/) since they
 
 However, the logistics were not handled well, but this is partly my fault. I first emailed to get information. They answered, telling me there was availability the day I wanted at 7.45pm but I needed to call. I then called to book the tour. I gave all my information, including my email address, my phone number and my credit card details. They confirmed the tour for 2 was booked at 7.45. Fast forward to the day of the tour, I start to be anxious because I realise they never sent any confirmation by email or anything. We call and they confirm our booking (and actually send me an email this time), but at 6.30pm (but they don't say it has changed). I had planned the entire day for a tour at 7.45 so I needed to adjust things and we ended up having less time to explore the island as I wanted and expected.
 
-![biobay]()
 
 {:.no_toc}
 ### Pro tips:
@@ -214,11 +223,11 @@ However, the logistics were not handled well, but this is partly my fault. I fir
 
 
 {:.no_toc}
-### Natural Reserve of Las Cabezas de San Juan
+### [Natural Reserve of Las Cabezas de San Juan](https://maps.app.goo.gl/Qxc8R55hq53ydAE57)
 The Natural Reserve of Las Cabezas de San Juan is a coastal treasure with diverse ecosystems, including mangroves and coral reefs. Unfortunately for us, it was closed the day we went. They are undergoing some conservation work at the moment. Check if it is open if you plan to go.
 
 {:.no_toc}
-### Seven Seas Beach
+### [Seven Seas Beach](https://maps.app.goo.gl/MPhdB2mz6Dit5rxh6)
 
 ![sevenseas](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240110_192837473.jpg?raw=true)
 
@@ -229,7 +238,7 @@ The Natural Reserve of Las Cabezas de San Juan is a coastal treasure with divers
 
 <br>
 
-## Day 6 - El Yunque
+## Day 6 - [El Yunque Forest](https://maps.app.goo.gl/muFY85uB5e6mZXSi6)
 
 This day was supposed to be our diving/snorkeling day in Culbera. Unfortunately, because of the weather conditions, the trip was cancelled and we had to change the plan. This is my biggest deception of this trip - not diving and not seeing Culebra -  so if you have a chance, I would still recommend trying to spend a day diving/snorkeling on this island. 
 
@@ -238,7 +247,7 @@ The company I booked with is **Sea Ventures Pro Dive Center** and, although we d
 If you book with them and are lucky enough to have good weather, please let me know in the comments how the tour was!
 
 {:.no_toc}
-### Trail 1
+### Trail Vereda Bisley
 So, instead of diving and snorkeling, we spent the morning doing laundry before heading to el Yunque forest. El Yunque Forest, the only tropical rainforest in the US, is a UNESCO World Biosphere Reserve, known for its biodiversity and scenic trails.
 
 I had planned to hike the El Yunque Peak Trail (8km) and the La Coca trail (6km) but, because
@@ -255,7 +264,7 @@ I had planned to hike the El Yunque Peak Trail (8km) and the La Coca trail (6km)
 </div>
 
 {:.no_toc}
-### Trail 2
+### [Angelito Trail Head](https://maps.app.goo.gl/BJbaK5hQidHBgZYD7)
 1.2km
 
 ![trail2](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_210335260.jpg?raw=true)
