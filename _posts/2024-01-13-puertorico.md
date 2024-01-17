@@ -167,13 +167,13 @@ If you rent a car or a golf cart (we recommend it), drive to this beach which wa
 
 Media Luna Beach is a hidden gem with golden sands and turquoise waters. And because the beach is difficult to reach, it is totally empty and absolutely stunning!
 
-![medialuna]()
+![medialuna](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240109_204411082.jpg?raw=true)
 <div class="row">
   <div class="column">
-    <img src="" alt="medialuna" style="width:100%">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0078.jpg?raw=true" alt="medialuna" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0017.jpg?raw=true" alt="medialuna" style="width:100%">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0085.jpg?raw=true" alt="medialuna" style="width:100%">
   </div>
 </div>
 
@@ -259,7 +259,7 @@ I had planned to hike the [El Yunque Peak Trail](https://maps.app.goo.gl/QuHGY3K
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_180421088.jpg?raw=true" alt="caution" style="width:100%">
   </div>
   <div class="column">
-    <img src="" alt="trail" style="width:100%">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_191627519.jpg?raw=true" alt="trail" style="width:100%">
   </div>
 </div>
 

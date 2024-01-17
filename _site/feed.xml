@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-17T17:07:42-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-17T17:18:54-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<table>
   <thead>
     <tr>
       <th style="text-align: center">Puerto Rico</th>
@@ -184,13 +184,13 @@ Puerto Rico has faced economic challenges, including a high debt burden and fisc
 
 <p>Media Luna Beach is a hidden gem with golden sands and turquoise waters. And because the beach is difficult to reach, it is totally empty and absolutely stunning!</p>
 
-<p><img src="" alt="medialuna" /></p>
+<p><img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240109_204411082.jpg?raw=true" alt="medialuna" /></p>
 <div class="row">
   <div class="column">
-    <img src="" alt="medialuna" style="width:100%" />
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0078.jpg?raw=true" alt="medialuna" style="width:100%" />
   </div>
   <div class="column">
-    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0017.jpg?raw=true" alt="medialuna" style="width:100%" />
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0085.jpg?raw=true" alt="medialuna" style="width:100%" />
   </div>
 </div>
 
@@ -270,7 +270,7 @@ Puerto Rico has faced economic challenges, including a high debt burden and fisc
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_180421088.jpg?raw=true" alt="caution" style="width:100%" />
   </div>
   <div class="column">
-    <img src="" alt="trail" style="width:100%" />
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_191627519.jpg?raw=true" alt="trail" style="width:100%" />
   </div>
 </div>
 
