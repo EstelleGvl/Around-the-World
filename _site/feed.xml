@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-17T13:35:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-17T13:50:11-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<table>
   <thead>
     <tr>
       <th style="text-align: center">Puerto Rico</th>
@@ -254,11 +254,15 @@ Puerto Rico has faced economic challenges, including a high debt burden and fisc
 <p>I had planned to hike the El Yunque Peak Trail (8km) and the La Coca trail (6km) but, because
 5 miles</p>
 
-<p><img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_180421088.jpg?raw=true" alt="Trail1" /></p>
-
-<p>XXXXX</p>
-
 <p><img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_185730472.jpg?raw=true" alt="Trail1" /></p>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_180421088.jpg?raw=true" alt="caution" style="width:100%" />
+  </div>
+  <div class="column">
+    <img src="" alt="trail" style="width:100%" />
+  </div>
+</div>
 
 <h3 class="no_toc" id="trail-2">Trail 2</h3>
 <p>1.2km</p>
@@ -313,7 +317,14 @@ Puerto Rico has faced economic challenges, including a high debt burden and fisc
 
 <h3 class="no_toc" id="fort-san-felipe-del-morro">Fort San Felipe del Morro</h3>
 
-<p><img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_202352086.MP.jpg?raw=true" alt="SanFelipe" /></p>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_202352086.MP.jpg?raw=true" alt="san Felipe" style="width:100%" />
+  </div>
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_195229619.MP.jpg?raw=true" alt="san Felipe" style="width:100%" />
+  </div>
+</div>
 
 <h3 class="no_toc" id="parque-de-los-gatos">Parque de Los Gatos</h3>
 

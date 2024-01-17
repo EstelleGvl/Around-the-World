@@ -244,13 +244,15 @@ So, instead of diving and snorkeling, we spent the morning doing laundry before 
 I had planned to hike the El Yunque Peak Trail (8km) and the La Coca trail (6km) but, because
 5 miles
 
-![Trail1](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_180421088.jpg?raw=true)
-
-
-XXXXX
-
 ![Trail1](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_185730472.jpg?raw=true)
-
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_180421088.jpg?raw=true" alt="caution" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="" alt="trail" style="width:100%">
+  </div>
+</div>
 
 {:.no_toc}
 ### Trail 2
@@ -316,8 +318,15 @@ Santurce and La Placita are vibrant urban neighborhoods, pulsating with art, mus
 {:.no_toc}
 ###  Fort San Felipe del Morro
 
-![SanFelipe](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_202352086.MP.jpg?raw=true)
 
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_202352086.MP.jpg?raw=true" alt="san Felipe" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_195229619.MP.jpg?raw=true" alt="san Felipe" style="width:100%">
+  </div>
+</div>
 
 {:.no_toc}
 ###  Parque de Los Gatos
