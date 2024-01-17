@@ -18,7 +18,7 @@ image: puertorico.jpg
 | [Price category]()      |     4      |
 
 
-
+XXX
 
 <br>
 
@@ -27,7 +27,7 @@ image: puertorico.jpg
 
 <br>
 
-![Overview Kazakhstan]()
+![Overvie Puerto Rico](https://lh3.google.com/pw/ABLVV87J9jv_IJqZy-NQTgP-y5aTGjsKn2pATEOF1A2yPlvBfWMH1OaU9zIHzoGU88R71gwE-uk_sbmi72gIGYDuKf54Y6JuZWs=w1600-h1200-s-no-gm?authuser=1)
 
 
 <br>
