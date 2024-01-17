@@ -27,7 +27,7 @@ XXX
 
 <br>
 
-![Overview Puerto Rico](https://lh3.google.com/pw/ABLVV87J9jv_IJqZy-NQTgP-y5aTGjsKn2pATEOF1A2yPlvBfWMH1OaU9zIHzoGU88R71gwE-uk_sbmi72gIGYDuKf54Y6JuZWs=w1600-h1200-s-no-gm?authuser=1)
+![Overview Puerto Rico](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0005.jpg?raw=true)
 
 
 <br>
@@ -61,7 +61,7 @@ There was barely any language barrier: almost everyone speaks English and our me
 <br>
 
 ## Traveling as a Woman and a LGBTQ person
-Because we rented a car, 
+In Puerto Rico, homosexuality is legal and San Juan even has a quite lively gay scene with many gay bars and clubs, such as [LA SOMBRILLA ROSA](https://maps.app.goo.gl/ni6HidNCkHvm86C3A) in Old San Juan.
 
 
 <br>
@@ -305,7 +305,7 @@ Reserva Natural Cueva del Indio features ancient petroglyphs and stunning coasta
 
 
 {:.no_toc}
-###  
+###  [Manantial Tortuguero Spring](https://maps.app.goo.gl/bQi5mm7XKopsdfZo7)
 
 ![](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_194028162.jpg?raw=true)
 
@@ -391,7 +391,8 @@ Old San Juan is a historic district with colorful colonial buildings, narrow cob
 
 {:.no_toc}
 ### Islands
-- Ca
+- Culebra
+- Isla Caja de Muertos - Coffin Island
 - 
 
 
@@ -467,7 +468,8 @@ January is the best season to travel to
 <br>
 
 ## Where to Stay?
-We primarily used airbnb as hotels can be very expensive in Puerto Rico. We booked a guest house in Vieques because of the great reviews and fair price for the island. We highly recommend each - but one - of the places where we stayed, for several different reasons:  
+We primarily used airbnb as hotels can be very expensive in Puerto Rico. Howevever, if you have the budget, Puerto Rico has a number of great hotels.
+We booked a guest house in Vieques because of the great reviews and fair price for the island. We highly recommend each - but one - of the places where we stayed, for several different reasons:  
 
 - Utuado: At Adam's
 
@@ -511,25 +513,33 @@ As for the one we do not particularly recommend, some of you might still find it
 - [Café Comunión](https://maps.app.goo.gl/jXbqzPY5FnNMUyKs6) in Santurce for breakfast
 - [Drunken Cookies]() in Old San Juan
 - [Bacaro](https://maps.app.goo.gl/ix6u2DRzpoNRvkmV8) in Old San Juan for dinner (Italian)
+- [LA SOMBRILLA ROSA](https://maps.app.goo.gl/ni6HidNCkHvm86C3A) in Old San Juan for cheap drinks in a gay-friendly (and cute) bar.
 
 ![drunkencookies](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_213303935.MP.jpg?raw=true)
 
 {:.no_toc}
 ### In Vieques
-- 
+We do not really have good recommendations in Vieques. We stayed only one night and our meal was not the greatest ([Lazy Jacks](https://maps.app.goo.gl/k92osaaFdY5MzhxA6)) because there was only one place serving food after the biobay tour. Try to get a later biobay tour and eat dinner before.
+
+Our host recommended these places but we did not have the chance to try them:
+- [Rancho Choli](https://maps.app.goo.gl/rRKGWPB4eAuK15QR9)
+- [Lizzy’s Lunchbox](https://maps.app.goo.gl/Z3qL422UzpFkpupN8)
+
 
 {:.no_toc}
 ### In Utuado
 - [Utuado bakery](https://maps.app.goo.gl/Tox1tWQ1VdQYMdMy6): very cheap and yummy sandwiches to pack for your daily excursions.
 - [Bier Garten](https://maps.app.goo.gl/iBCTAZ6aCLWVXzEWA) for lunch or an early dinner
+- [Tavo's Pizza](https://maps.app.goo.gl/X65xKzJj7zyu6cZD9) for good and cheap pizzas, to dine-in or take-away.
 
 {:.no_toc}
-### In Ceiba
-
+### In Ceiba and Fajardo
+- [Broadway Gastro Bar](https://maps.app.goo.gl/SBBR1hJ55zMQiXMt7) for dinner in Ceiba. Good food (including Puerto Rican specialties) and drinks in a very cool atmosphere.
+- [Rustica](https://maps.app.goo.gl/EiQBG3S3MJ7gugpm8): for italian food in Fajardo.
 
 {:.no_toc}
 ### In Ponce
-- 
+We do not really have good recommendations in Ponce. We stayed only one night and our meal was not the greatest.
 
 <br>
 
