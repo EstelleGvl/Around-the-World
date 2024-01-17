@@ -247,10 +247,10 @@ The company I booked with is **Sea Ventures Pro Dive Center** and, although we d
 If you book with them and are lucky enough to have good weather, please let me know in the comments how the tour was!
 
 {:.no_toc}
-### Trail Vereda Bisley
+### [Trail Vereda Bisley](https://maps.app.goo.gl/MCrtBs8TMcxHbhaC8)
 So, instead of diving and snorkeling, we spent the morning doing laundry before heading to el Yunque forest. El Yunque Forest, the only tropical rainforest in the US, is a UNESCO World Biosphere Reserve, known for its biodiversity and scenic trails.
 
-I had planned to hike the El Yunque Peak Trail (8km) and the La Coca trail (6km) but, because
+I had planned to hike the [El Yunque Peak Trail](https://maps.app.goo.gl/QuHGY3KaG6zDLBdb8) (8km) and the [La Coca trail](https://maps.app.goo.gl/3LoXB89D4in3JCHeA) (6km) but, because
 5 miles
 
 ![Trail1](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_185730472.jpg?raw=true)
@@ -371,8 +371,6 @@ Old San Juan is a historic district with colorful colonial buildings, narrow cob
 {:.no_toc}
 ###  Brunch at Abracadabra
 
-
-![abracadabra]()
 
 
 <br>
@@ -509,9 +507,10 @@ As for the one we do not particularly recommend, some of you might still find it
 
 {:.no_toc}
 ### In San Juan
-- **Abracadabra** in Santurce
-- **Drunken Cookies**
-- **Bocarro**
+- [Abracadabra](https://maps.app.goo.gl/AkHEDnqQg2dPgVCx8) in Santurce for brunch
+- [Café Comunión](https://maps.app.goo.gl/jXbqzPY5FnNMUyKs6) in Santurce for breakfast
+- [Drunken Cookies]() in Old San Juan
+- [Bacaro](https://maps.app.goo.gl/ix6u2DRzpoNRvkmV8) in Old San Juan for dinner (Italian)
 
 ![drunkencookies](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_213303935.MP.jpg?raw=true)
 
@@ -521,8 +520,8 @@ As for the one we do not particularly recommend, some of you might still find it
 
 {:.no_toc}
 ### In Utuado
-- **Utuado bakery**: very cheap and yummy sandwiches to pack for your daily excursions.
-- 
+- [Utuado bakery](https://maps.app.goo.gl/Tox1tWQ1VdQYMdMy6): very cheap and yummy sandwiches to pack for your daily excursions.
+- [Bier Garten](https://maps.app.goo.gl/iBCTAZ6aCLWVXzEWA) for lunch or an early dinner
 
 {:.no_toc}
 ### In Ceiba
