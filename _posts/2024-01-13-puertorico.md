@@ -9,6 +9,8 @@ ref: puertorico
 image: puertorico.jpg
 ---
 
+<base target="_blank">
+
 | Puerto Rico | 9 days (6-14 January 2024)
 | :--------------------:   | :----------------------:|
 | From the [US](https://estellegvl.github.io/Around-the-World/us)       | Couple-trip           |
@@ -61,8 +63,9 @@ There was barely any language barrier: almost everyone speaks English and our me
 <br>
 
 ## Traveling as a Woman and a LGBTQ person
-In Puerto Rico, homosexuality is legal and San Juan even has a quite lively gay scene with many gay bars and clubs, such as [LA SOMBRILLA ROSA](https://maps.app.goo.gl/ni6HidNCkHvm86C3A) in Old San Juan.
+In Puerto Rico, homosexuality is legal and San Juan even has a quite lively gay scene with many gay bars and clubs, such as [La Sombrilla Rosa](https://maps.app.goo.gl/ni6HidNCkHvm86C3A) in Old San Juan.
 
+It's a touristy country and we felt safe as LGTBQ people. People are very friendly and helpful and we definitely liked that! This is definitely a gay-destination.
 
 <br>
 
@@ -116,16 +119,26 @@ You can book on their website [here](). The park is opened Wednesday through Sun
 
 {:.no_toc}
 ### [Tanama River Adventures](https://tanamariveradventures.com/)
-Tanama River is renowned for its scenic beauty and cultural significance. Flowing through limestone canyons, the river has played a vital role in the island's history and offers opportunities for thrilling adventures. 
+Flowing through limestone canyons, the river offers opportunities for thrilling adventures. [Tanama River Adventures](https://tanamariveradventures.com/) offers a number of tours including some with rappelling. We chose the [Mukaro Cave Eco Tour](https://tanamariveradventures.com/tours) and it was amazing! The guides were very knowledgeable, kind and passionate about what they do.  
 
-[Tanama River Adventures](https://tanamariveradventures.com/) offers a number of tours
+The tour starts at 8.30am and we were back shortly after 12pm. The tour involved some hiking, visiting caves and learning about the bats that inhabit them, some easy rock climbing (and going up and down a small waterfall), walking and swimming in the river and some canyoning. We also got some free time to swim, jump, epxlore and take pictures, etc. at different spots.  
+
+This is definitely one of our best memories of this trip and we absolutely recommend it!  
+
+
+**Pro Tips:**
+- You need to be in decent physical condition as there is some hiking that is uphill, but it is not that bad. If you were able to do Camuy, you will have no issues here. 
+- Take water shoes or hiking boots. 
+- Wear athletic clothes (no denim shorts -- or skirt! -- like one woman who did the tour with us) that would get wet because you will be fully immersed in the water a couple of times. 
+- Bring your phone if you have a waterproof case/bag, otherwise, it's risky. We only brought a gopro and left our phones at their office.
+- Listen to the guides about wher you can and can't go: some of the caves are not safe in all areas and you don't want to take a risk.
 
 
 <video controls width="100%">
-  <source src="" type="video/mp4" />
+  <source src="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/InShot_20240109_225149337.mp4" type="video/mp4" />
 
-  <a href="">WEBM</a>
-  <a href="">MP4</a>
+  <a href="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/InShot_20240109_225149337.mp4">WEBM</a>
+  <a href="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/InShot_20240109_225149337.mp4">MP4</a>
 </video>
 
 
@@ -143,12 +156,17 @@ Tanama River is renowned for its scenic beauty and cultural significance. Flowin
 ### [Ponce](https://maps.app.goo.gl/87tgazNk4g4rC2oh8)
 Ponce, known as the "Pearl of the South," showcases a blend of colonial architecture and vibrant cultural heritage. Its historic town square, [Plaza Las Delicias](https://maps.app.goo.gl/wnY5Q5YJzL3NBHPN7), is a testament to the city's development since its founding in the 17th century.
 
+It's a small town and we felt like there was not much to do. Most shops, restaurants and bars were closed and streets were empty but we might have gone at a wrong time (a Monday). The historic town square is (very) small but charming. We also spent some time at [La Guancha](https://maps.app.goo.gl/HuKJQHdPjx8AjMAw8) and its beach which was a nice change from the mountains and jungle. If you like to collect shells, you'll definitely find some cute ones there.
+
+Overall, we do not particularly recommend staying in Ponce, but if you do, try to book a tour to [Isla Caja de Muertos - Coffin Island](https://maps.app.goo.gl/h4pXTBPfP2frTGkw7). It is apparently worth it.
+
 ![ponce](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240108_214452424.jpg?raw=true)
 
 
 {:.no_toc}
 ### Pro tips:
-Skip Ponce and drive direclty to Ceiba after the river adventure (and maybe stop to waterfalls or natural places on the road, such as [Charco Azul](https://maps.app.goo.gl/SNWXcJTZ4Qo7zCqL7)). Book an accomodation in Ceiba and take an early morning ferry to Vieques instead of the 1pm one.
+- Skip Ponce and drive direclty to Ceiba after the river adventure (and maybe stop to waterfalls or natural places on the road, such as [Charco Azul](https://maps.app.goo.gl/SNWXcJTZ4Qo7zCqL7)). 
+- Book an accomodation in Ceiba and take an early morning ferry to Vieques instead of the 1pm one.
 
 
 
@@ -157,8 +175,12 @@ Skip Ponce and drive direclty to Ceiba after the river adventure (and maybe stop
 ## Day 4 - [Vieques](https://maps.app.goo.gl/YnWDzJpv4ZD3MoF7A)
 
 {:.no_toc}
-### The Ferry
-We took the 1pm ferry. Booking for ferries open 1 month before the date you want and they only sell 20% of the tickets/
+### The Ferry and the Golf Cart
+There is a [parking](https://maps.app.goo.gl/edQc44FVyb8Y8v1f9) close to the [Ferry terminal](https://maps.app.goo.gl/WFrUFncHbLdBDzed6) in Ceiba qt q decent price (price per day) and they have shuttles to bring you to the terminal. 
+
+The ride in itself lasts about an hour, but it takes a bit more time as you need to board and disembark with MANY other people. We took the 1pm ferry and it was extremely crowded (and very turbulent). Booking for ferries open 1 month before the date you want and they only sell 20% of the tickets so try to book as early as you can. If you want to buy a ticket on the same day you want to travel, come at least 1 to 2 hours before the scheduled departure time. It takes time!
+
+Once we arrived in Vieques, we went looking for the shuttle from [UTV rental](https://www.utvrentalpr.com/), the company I booked a golf cart with. They were easy to find BUT, they only drive the "main driver" to their office. You have to leave any other person at the Vieques terminal and come pick them up later with the golf cart. It is not written anywhere and I had not read any feedback anywhere, so imagine our suprise! Because we were already late on schedule (and only 2 people), we pretended we did not understand/hear what they said and both got in the cart (I know, it's bad!). That saved us precious time. On the next morning though, we booked a taxi from their office to the [Vieques ferry terminal](https://maps.app.goo.gl/RtS42q1z1oud58VC6) so we did not have to rely on their shuttle (or wake up insanely early to drop Sarah at the Terminal, drive back to their office and take the shuttle).
 
 
 {:.no_toc}
@@ -181,16 +203,18 @@ Media Luna Beach is a hidden gem with golden sands and turquoise waters. And bec
 {:.no_toc}
 ### [Sun Bay Beach](https://maps.app.goo.gl/BTQ2K1uf5AhsWXtM8)
 
+Beautiful beach but many more people (more easily accessible). It's also bigger. Definitely worth going if you don't have a car/golf cart. You can also stop there on the way back from Media Luna.
+
 ![Sun Bay](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0031.jpg?raw=true)
 
 {:.no_toc}
 ### Coconut Beach ([El cocal beach](https://maps.app.goo.gl/m3Nj6vcsUHikhFe18))
-This beach is right in front of the Vieques Guesthouse. In the parking lot, follow the small path in the forest and after a short walk (3min) you will arrive at this lovely, hidden beach. It is a beautiful place to watch the sunset and we had a great time there.
+This beach is right in front of the [Vieques Guesthouse](https://www.theviequesguesthouse.com/). In the parking lot, follow the small path in the forest and after a short walk (3min) you will arrive at this lovely, hidden beach. It is a beautiful place to watch the sunset and we had a great time there.
 
 ![coconut](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0004.jpg?raw=true)
 
 {:.no_toc}
-### Biobay tour in [Mosquito Bay](https://maps.app.goo.gl/jZqfZe9AemDDYejD7)
+### Biobay tour in [Mosquito Bay](https://maps.app.goo.gl/jZqfZe9AemDDYejD7) at night
 
 Mosquito Bay is known to be the brightest bioluminescent bay in the world, offering a surreal display of glowing waters. The bay is home to microorganisms called dinoflagellates, particularly the species Pyrodinium bahamense. These microscopic organisms emit a blue-green light when disturbed, creating a stunning display of bioluminescence in the water.
 
@@ -202,7 +226,7 @@ The unique combination of factors makes Mosquito Bay one of the brightest biolum
 
 The best time to witness the bioluminescence in Mosquito Bay is on moonless nights when the natural light pollution is minimal. Conservation efforts are in place to protect this delicate ecosystem, emphasizing the importance of sustainable tourism to preserve the beauty of Mosquito Bay for future generations.
 
-We went on a tour with [JAK Watersports](https://jakwatersports.com/) since they were recommended by our guesthouse. They provide clear-bottom canoes and limit groups to 16 people/8 canoes. Because I had already experience this phenomenon in the Fjords of Musandam in Oman, I thought I would not be surprised or amazed. But this bay is a lot more luminescent than what I experienced and the clear-bottom canoe provided a new experience! Additionnally, the guides were very nice and knowledgeable and I learnt a lot! I definitely recommend a tour!
+We went on a tour with [JAK Watersports](https://jakwatersports.com/) since they were recommended by our guesthouse. They provide clear-bottom canoes and limit groups to 16 people/8 canoes. Because I had already experience this phenomenon in the Fjords of Musandam in Oman, I thought I would not be surprised or amazed. But this bay is a lot more luminescent than what I experienced and the clear-bottom canoe provided a new really cool experience! Additionnally, the guides were very nice and knowledgeable and I learnt a lot! I definitely recommend their tour!
 
 However, the logistics were not handled well, but this is partly my fault. I first emailed to get information. They answered, telling me there was availability the day I wanted at 7.45pm but I needed to call. I then called to book the tour. I gave all my information, including my email address, my phone number and my credit card details. They confirmed the tour for 2 was booked at 7.45. Fast forward to the day of the tour, I start to be anxious because I realise they never sent any confirmation by email or anything. We call and they confirm our booking (and actually send me an email this time), but at 6.30pm (but they don't say it has changed). I had planned the entire day for a tour at 7.45 so I needed to adjust things and we ended up having less time to explore the island as I wanted and expected.
 
@@ -210,6 +234,7 @@ However, the logistics were not handled well, but this is partly my fault. I fir
 {:.no_toc}
 ### Pro tips:
 - Ferry: book in advance and take an early morning ferry - these are less crowded. It will also give you more time on the island.
+- Ferry : Arrive at least 30 minutes in advance.
 - Book a golf cart and explore the island and its many beaches.
 - Spend at least an entire day on the island. Take a morning ferry, stay overnight (for the biobay tour) and take a ferry the day after.
 - Book the Biobay tour with JAK and pay cash to save 5$ per person. Additionally, when you call them to book, if you don't receive a confirmation email, call them again or email them to avoid what happened to us.
@@ -220,31 +245,36 @@ However, the logistics were not handled well, but this is partly my fault. I fir
 
 {:.no_toc}
 ### The Ferry back to Ceiba
-
+We took the 10am Ferry and this was fairly uneventful. The ride was faster and there was less people. The only thing is that I wish we had spent more time in Vieques.
 
 {:.no_toc}
 ### [Natural Reserve of Las Cabezas de San Juan](https://maps.app.goo.gl/Qxc8R55hq53ydAE57)
-The Natural Reserve of Las Cabezas de San Juan is a coastal treasure with diverse ecosystems, including mangroves and coral reefs. Unfortunately for us, it was closed the day we went. They are undergoing some conservation work at the moment. Check if it is open if you plan to go.
+The plan was to spend the rest of the day in Fajardo and to go visit the [Natural Reserve of Las Cabezas de San Juan](https://reservaciones.paralanaturaleza.org/index.jsf). It is a coastal treasure with diverse ecosystems, including mangroves and coral reefs. Unfortunately for us, the guard at the entrance said it was closed because they are undergoing some conservation work at the moment. However, some comments on google indicate that it's a reccurent thing but people can access the park from the beach: "One local couple explained that the gate always say no entry but we can access the paved road at various points and walk around the reserve." I wish I had read the reviews that day...
 
 {:.no_toc}
 ### [Seven Seas Beach](https://maps.app.goo.gl/MPhdB2mz6Dit5rxh6)
+Because we thought we could not access the Reserve, we ended spending the afternoon at the Seven Seas Beach. There's a large parking (5$ a day - only cards, no cash) and then you have access to the Seven Seas beach plus a number of others that are linked to it via some short hiking trails: [Colora Beach](https://maps.app.goo.gl/94vgauxfcQ6qtjtG8) and [Escondita Beach](https://maps.app.goo.gl/7W4v6pvFgLcxW34t8). All are very nice and worth a visit. Although you can't really swim at Colora beach because of the rocks and waves, walking there is worth it for the views! The path is not very long and doable with flip-flops or water shoes.
 
 ![sevenseas](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240110_192837473.jpg?raw=true)
 
 {:.no_toc}
 ### Pro tips:
-- Check if the natural reserve reopened in advance.
-- The seven seas beach has a large parking (5$ a day) and is beautiful. Explore the many hiking paths to other beaches.
+- The seven seas beach has a large parking (5$ a day). 
+- There are toilets and showers (free), which is definitely a plus.
+- Explore the hiking paths to other beaches.
 
 <br>
 
 ## Day 6 - [El Yunque Forest](https://maps.app.goo.gl/muFY85uB5e6mZXSi6)
 
-This day was supposed to be our diving/snorkeling day in Culbera. Unfortunately, because of the weather conditions, the trip was cancelled and we had to change the plan. This is my biggest deception of this trip - not diving and not seeing Culebra -  so if you have a chance, I would still recommend trying to spend a day diving/snorkeling on this island. 
+This day was supposed to be our diving/snorkeling day in Culebra. Unfortunately, because of the weather conditions, the trip was cancelled and we had to change the plan. This is my biggest deception of this trip - not diving and not seeing Culebra -  so if you have a chance, I would still recommend trying to spend a day diving/snorkeling on this island. 
 
 The company I booked with is **Sea Ventures Pro Dive Center** and, although we did not spend the day as planned, I would book all over again with them. The booking process was very easy and they are the only ones I could find that allow snorkelers, experienced divers and discovery divers on the same boat for the same trip. This was amazing because my partner does not dive but I didn't want us to spend a day on two different boats doing different things in different places. They were also great handling communicationg about the weather and the problems (called, texted and emailed to make sure they reach me!) and proceeded with the refund instantly. 
 
 If you book with them and are lucky enough to have good weather, please let me know in the comments how the tour was!
+
+![maps](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_172847091.jpg?raw=true)
+
 
 {:.no_toc}
 ### [Trail Vereda Bisley](https://maps.app.goo.gl/MCrtBs8TMcxHbhaC8)
@@ -312,7 +342,7 @@ Reserva Natural Cueva del Indio features ancient petroglyphs and stunning coasta
 
 {:.no_toc}
 ### Santurce and La Placita in San Juan
-Santurce and La Placita are vibrant urban neighborhoods, pulsating with art, music, and nightlife, reflecting modern Puerto Rican culture.
+Santurce is a vibrant urban neighborhood, pulsating with art, music, and nightlife in the well-known "La Placita".
 
 ![placita](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_235833279.MP.jpg?raw=true)
 
@@ -511,6 +541,7 @@ As for the one we do not particularly recommend, some of you might still find it
 ### In San Juan
 - [Abracadabra](https://maps.app.goo.gl/AkHEDnqQg2dPgVCx8) in Santurce for brunch
 - [Café Comunión](https://maps.app.goo.gl/jXbqzPY5FnNMUyKs6) in Santurce for breakfast
+- [Sea Señor La Placita](https://maps.app.goo.gl/yW37QqW5wVG4Cj25A)in Santurce (La Placita)
 - [Drunken Cookies]() in Old San Juan
 - [Bacaro](https://maps.app.goo.gl/ix6u2DRzpoNRvkmV8) in Old San Juan for dinner (Italian)
 - [LA SOMBRILLA ROSA](https://maps.app.goo.gl/ni6HidNCkHvm86C3A) in Old San Juan for cheap drinks in a gay-friendly (and cute) bar.
