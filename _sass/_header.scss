@@ -93,30 +93,21 @@
   }
 }
 
-/* Existing styles */
-
-.menu-item {
-  display: none;
-}
-
-#toggle {
-  display: none;
-}
-
-label {
-  font-size: 24px;
-  cursor: pointer;
-}
-
-.menu-item:hover .dropdown-content {
-  display: block;
-}
-
+/* Ensure that the dropdown is initially hidden */
 #toggle:checked + .dropdown-content {
   display: block;
 }
 
-/* Adjust styling as needed */
+/* Dropdown Styles */
+.menu-item {
+  position: relative;
+  display: none;
+}
+
+#toggle:checked + .menu-item {
+  display: block;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -135,20 +126,4 @@ label {
 
 .dropdown-content a:hover {
   background-color: #f1f1f1;
-}
-
-/* Additional styles to override conflicting styles */
-.menu-list {
-  display: flex !important;
-  justify-content: space-between !important;
-  align-items: center !important;
-}
-
-.menu-link {
-  padding: 5px 10px !important;
-}
-
-/* Ensure that the dropdown is initially visible on small screens */
-#toggle:checked + .dropdown-content {
-  display: block !important;
 }
