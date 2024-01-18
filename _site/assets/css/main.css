@@ -358,7 +358,7 @@ pre code {
     background-color: #f1f1f1;
   }
 }
-/* Your existing styles */
+/* Existing styles */
 .menu-item {
   display: none;
 }
@@ -399,6 +399,22 @@ label {
 
 .dropdown-content a:hover {
   background-color: #f1f1f1;
+}
+
+/* Additional styles to override conflicting styles */
+.menu-list {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+.menu-link {
+  padding: 5px 10px !important;
+}
+
+/* Ensure that the dropdown is initially visible on small screens */
+#toggle:checked + .dropdown-content {
+  display: block !important;
 }
 
 .featured-post {
