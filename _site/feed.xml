@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-17T21:43:42-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<base target="_blank" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-18T10:04:32-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<base target="_blank" />
 
 <table>
   <thead>
@@ -21,7 +21,7 @@
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: center"><a href="">Price category</a></td>
+      <td style="text-align: center"><a href="https://estellegvl.github.io/Around-the-World/price">Price category</a></td>
       <td style="text-align: center">4</td>
     </tr>
   </tbody>
@@ -610,6 +610,18 @@ You are now warned!</p>
       <td style="text-align: center">Solo-trip</td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Currency</td>
+      <td style="text-align: center">Euro €</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="">Price category</a></td>
+      <td style="text-align: center">3</td>
+    </tr>
+  </tbody>
 </table>
 
 <p>Cyprus was never a top country on my list of places I wanted to go to. However, when I needed a last-minute trip, relatively close to the UAE at the end of October 2021, my choice happened to be Cyprus. To this date, I have mixed feelings about this trip. Although I loved diving and hiking there, Cyprus remains a VERY tourist destination.</p>
@@ -988,7 +1000,7 @@ You are now warned!</p>
 
 <p><strong>Creation date: 20 September 2023</strong></p>
 
-<p><strong>Last update: 20 September 2023</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><category term="Europe" /><category term="Solo-trip" /><summary type="html"><![CDATA[Cyprus 8 days (15-22 October 2021) From the UAE Solo-trip]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cyprus.jpg" /><media:content medium="image" url="http://localhost:4000/cyprus.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Kazakhstan | April 2022</title><link href="http://localhost:4000/asia/kazakhstan/" rel="alternate" type="text/html" title="Kazakhstan | April 2022" /><published>2023-09-20T00:00:00-04:00</published><updated>2023-09-20T00:00:00-04:00</updated><id>http://localhost:4000/asia/kazakhstan</id><content type="html" xml:base="http://localhost:4000/asia/kazakhstan/"><![CDATA[<table>
+<p><strong>Last update: 20 September 2023</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="europe" /><category term="Europe" /><category term="Solo-trip" /><summary type="html"><![CDATA[Cyprus 8 days (15-22 October 2021) From the UAE Solo-trip Currency Euro € Price category 3]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cyprus.jpg" /><media:content medium="image" url="http://localhost:4000/cyprus.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Kazakhstan | April 2022</title><link href="http://localhost:4000/asia/kazakhstan/" rel="alternate" type="text/html" title="Kazakhstan | April 2022" /><published>2023-09-20T00:00:00-04:00</published><updated>2023-09-20T00:00:00-04:00</updated><id>http://localhost:4000/asia/kazakhstan</id><content type="html" xml:base="http://localhost:4000/asia/kazakhstan/"><![CDATA[<table>
   <thead>
     <tr>
       <th style="text-align: center">Kazakhstan</th>
@@ -1001,6 +1013,18 @@ You are now warned!</p>
       <td style="text-align: center">Couple-trip</td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Currency</td>
+      <td style="text-align: center">Kazakhstani Tenge ₸</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="">Price category</a></td>
+      <td style="text-align: center">2</td>
+    </tr>
+  </tbody>
 </table>
 
 <p>In April 2022, I decided to go to Kazakhstan. If you have read my <a href="https://estellegvl.github.io/Around-the-World/asia/kyrgyzstan">Kyrgyzstan</a> post, you know that I was lucky to meet some Kazakhs who basically saved my life when I was hiking in Jeti Oguz in May 2021. I stayed in contact with them and I promised them that I would come and visit one day. That day came in April 2022. I knew my time in the UAE was limited and that I would not really get a chance to go to Kazakhstan after I moved to the US. This was the right time and I sent a text to my friends. In a few days, the trip was planned, the tickets booked, and here I was, flying once again to central Asia, but not alone this time.</p>
@@ -1011,9 +1035,10 @@ You are now warned!</p>
   <li><a href="#kazakhstan-an-overview" id="markdown-toc-kazakhstan-an-overview">Kazakhstan. An Overview</a></li>
   <li><a href="#how-safe-is-it" id="markdown-toc-how-safe-is-it">How Safe Is It?</a>    <ol>
       <li><a href="#general-observations" id="markdown-toc-general-observations">General Observations</a></li>
-      <li><a href="#-traveling-as-a-woman-and-a-lgbtq-person" id="markdown-toc--traveling-as-a-woman-and-a-lgbtq-person">## Traveling as a Woman and a LGBTQ person</a></li>
+      <li><a href="#traveling-as-a-woman-and-a-lgbtq-person" id="markdown-toc-traveling-as-a-woman-and-a-lgbtq-person">Traveling as a Woman and a LGBTQ person</a></li>
     </ol>
   </li>
+  <li><a href="#main-challenges" id="markdown-toc-main-challenges">Main challenges</a></li>
   <li><a href="#my-trip" id="markdown-toc-my-trip">My trip</a>    <ol>
       <li><a href="#day-1---almaty" id="markdown-toc-day-1---almaty">Day 1 - Almaty</a></li>
       <li><a href="#day-2---medeu---chimbulak" id="markdown-toc-day-2---medeu---chimbulak">Day 2 - Medeu - Chimbulak</a></li>
@@ -1072,11 +1097,15 @@ You are now warned!</p>
 
 <p><br /></p>
 
-<h2 id="-traveling-as-a-woman-and-a-lgbtq-person">## Traveling as a Woman and a LGBTQ person</h2>
+<h2 id="traveling-as-a-woman-and-a-lgbtq-person">Traveling as a Woman and a LGBTQ person</h2>
 
 <p>In Kazakhstan, Islam is the predominant religion, with Sunni Islam being the most widely practiced, coexisting harmoniously with other faiths. Religious tolerance is a cornerstone of Kazakh society, with freedom of religion guaranteed by the constitution. Russian Orthodox Christianity, Protestantism, Judaism, and other religious groups are also represented in the country. Kazakhstan is a secular state, but religion plays a significant role in its cultural fabric, observed through various religious holidays and traditions. The nation promotes interfaith dialogue and values its diverse religious heritage, which has left an indelible mark on its art, music, and architecture. Visitors are encouraged to respect local customs and appreciate the rich tapestry of religious diversity that defines Kazakhstan.</p>
 
 <p>The situation for LGBTQ+ individuals in Kazakhstan is complex. Homosexuality is legal, but there are no specific anti-discrimination laws protecting LGBTQ+ rights. Social attitudes can be conservative in some areas, leading to discrimination and prejudice, while urban centers generally exhibit more tolerance. LGBTQ+ individuals may choose to keep their sexual orientation or gender identity private due to potential challenges. Pride events have faced opposition, and support organizations often operate discreetly. LGBTQ+ travelers should exercise caution, respect local customs and laws, and stay informed about the evolving situation, as acceptance and attitudes may vary across regions in Kazakhstan.</p>
+
+<p><br /></p>
+
+<h1 id="main-challenges">Main challenges</h1>
 
 <p><br /></p>
 
@@ -1284,7 +1313,7 @@ You are now warned!</p>
 
 <p><strong>Creation date: 23 May 2023</strong></p>
 
-<p><strong>Last update: 23 May 2023</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="asia" /><category term="Asia" /><category term="City trip" /><category term="Nature" /><category term="Hiking" /><summary type="html"><![CDATA[Kazakhstan 8 days (2-9 April 2022) From the UAE Couple-trip]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/kazakhstan.jpg" /><media:content medium="image" url="http://localhost:4000/kazakhstan.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Qatar | June 2022</title><link href="http://localhost:4000/middleeast/qatar/" rel="alternate" type="text/html" title="Qatar | June 2022" /><published>2023-09-19T00:00:00-04:00</published><updated>2023-09-19T00:00:00-04:00</updated><id>http://localhost:4000/middleeast/qatar</id><content type="html" xml:base="http://localhost:4000/middleeast/qatar/"><![CDATA[<table>
+<p><strong>Last update: 23 May 2023</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="asia" /><category term="Asia" /><category term="City trip" /><category term="Nature" /><category term="Hiking" /><summary type="html"><![CDATA[Kazakhstan 8 days (2-9 April 2022) From the UAE Couple-trip Currency Kazakhstani Tenge ₸ Price category 2]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/kazakhstan.jpg" /><media:content medium="image" url="http://localhost:4000/kazakhstan.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Qatar | June 2022</title><link href="http://localhost:4000/middleeast/qatar/" rel="alternate" type="text/html" title="Qatar | June 2022" /><published>2023-09-19T00:00:00-04:00</published><updated>2023-09-19T00:00:00-04:00</updated><id>http://localhost:4000/middleeast/qatar</id><content type="html" xml:base="http://localhost:4000/middleeast/qatar/"><![CDATA[<table>
   <thead>
     <tr>
       <th style="text-align: center">Qatar</th>

@@ -17,7 +17,7 @@ image: puertorico.jpg
 | :--------------------:   | :----------------------:|
 | Currency | Dollar $
 | :--------------------:   | :----------------------:|
-| [Price category]()      |     4      |
+| [Price category](https://estellegvl.github.io/Around-the-World/price)      |     4      |
 
 
 XXX

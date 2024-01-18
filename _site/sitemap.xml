@@ -41,6 +41,9 @@
 <loc>http://localhost:4000/middleeast</loc>
 </url>
 <url>
+<loc>http://localhost:4000/price</loc>
+</url>
+<url>
 <loc>http://localhost:4000/toptips</loc>
 </url>
 <url>

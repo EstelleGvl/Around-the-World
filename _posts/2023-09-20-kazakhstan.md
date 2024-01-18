@@ -12,6 +12,10 @@ image: kazakhstan.jpg
 | Kazakhstan | 8 days (2-9 April 2022)
 | :--------------------:   | :----------------------:|
 | From the [UAE](https://estellegvl.github.io/Around-the-World/uae)       | Couple-trip           |
+| :--------------------:   | :----------------------:|
+| Currency | Kazakhstani Tenge ₸
+| :--------------------:   | :----------------------:|
+| [Price category]()      |     2      |
 
 
 In April 2022, I decided to go to Kazakhstan. If you have read my [Kyrgyzstan](https://estellegvl.github.io/Around-the-World/asia/kyrgyzstan) post, you know that I was lucky to meet some Kazakhs who basically saved my life when I was hiking in Jeti Oguz in May 2021. I stayed in contact with them and I promised them that I would come and visit one day. That day came in April 2022. I knew my time in the UAE was limited and that I would not really get a chance to go to Kazakhstan after I moved to the US. This was the right time and I sent a text to my friends. In a few days, the trip was planned, the tickets booked, and here I was, flying once again to central Asia, but not alone this time.
@@ -53,11 +57,15 @@ However, some precautions should be taken, such as:
 
 <br>
 
-## ## Traveling as a Woman and a LGBTQ person
+## Traveling as a Woman and a LGBTQ person
 
 In Kazakhstan, Islam is the predominant religion, with Sunni Islam being the most widely practiced, coexisting harmoniously with other faiths. Religious tolerance is a cornerstone of Kazakh society, with freedom of religion guaranteed by the constitution. Russian Orthodox Christianity, Protestantism, Judaism, and other religious groups are also represented in the country. Kazakhstan is a secular state, but religion plays a significant role in its cultural fabric, observed through various religious holidays and traditions. The nation promotes interfaith dialogue and values its diverse religious heritage, which has left an indelible mark on its art, music, and architecture. Visitors are encouraged to respect local customs and appreciate the rich tapestry of religious diversity that defines Kazakhstan.
 
 The situation for LGBTQ+ individuals in Kazakhstan is complex. Homosexuality is legal, but there are no specific anti-discrimination laws protecting LGBTQ+ rights. Social attitudes can be conservative in some areas, leading to discrimination and prejudice, while urban centers generally exhibit more tolerance. LGBTQ+ individuals may choose to keep their sexual orientation or gender identity private due to potential challenges. Pride events have faced opposition, and support organizations often operate discreetly. LGBTQ+ travelers should exercise caution, respect local customs and laws, and stay informed about the evolving situation, as acceptance and attitudes may vary across regions in Kazakhstan.
+
+<br>
+
+# Main challenges
 
 <br>
 
