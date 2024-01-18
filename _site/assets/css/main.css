@@ -359,17 +359,11 @@ pre code {
   }
 }
 /* Dropdown Styles */
-.menu-list {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .menu-item {
   position: relative;
 }
 
-.dropdown-content {
+.dropdown-content.dropdown-aboutme {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -378,18 +372,18 @@ pre code {
   z-index: 1;
 }
 
-.dropdown-content a {
+.dropdown-content.dropdown-aboutme a {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {
+.dropdown-content.dropdown-aboutme a:hover {
   background-color: #f1f1f1;
 }
 
-.menu-item:hover .dropdown-content {
+.menu-item:hover .dropdown-content.dropdown-aboutme {
   display: block;
 }
 
