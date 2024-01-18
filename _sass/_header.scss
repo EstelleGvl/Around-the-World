@@ -94,9 +94,8 @@
 }
 
 
+/* Your existing styles */
 
-
-/* Dropdown Styles */
 .menu-item {
   display: none;
 }
@@ -118,6 +117,7 @@ label {
   display: block;
 }
 
+/* Adjust styling as needed */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -137,4 +137,3 @@ label {
 .dropdown-content a:hover {
   background-color: #f1f1f1;
 }
-

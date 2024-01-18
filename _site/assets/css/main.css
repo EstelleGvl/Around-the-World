@@ -358,7 +358,7 @@ pre code {
     background-color: #f1f1f1;
   }
 }
-/* Dropdown Styles */
+/* Your existing styles */
 .menu-item {
   display: none;
 }
@@ -380,6 +380,7 @@ label {
   display: block;
 }
 
+/* Adjust styling as needed */
 .dropdown-content {
   display: none;
   position: absolute;

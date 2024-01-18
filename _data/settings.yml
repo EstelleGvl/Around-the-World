@@ -7,19 +7,28 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+  - name: 'America'
+    url: 'america'
+  - name: 'Asia'
+    url: 'asia'
+  - name: 'Europe'
+    url: 'europe'
+  - name: 'Middle East'
+    url: 'middleeast'
+  - name: 'About Me'
+    url: 'aboutme'
+    dropdown:
+      - name: 'Price Categories'
+        url: 'price'
+      - name: 'Other Page'
+        url: 'otherpage'
+
 # - {name: 'Where I lived', url: 'whereilived'}
-- {name: 'America', url: 'america'}
 # - {name: 'Africa', url: 'africa'}
-- {name: 'Asia', url: 'asia'}
-- {name: 'Europe', url: 'europe'}
-- {name: 'Middle East', url: 'middleeast'}
 # - {name: 'Top Tips', url: 'toptips'}
-- name: 'About Me'
-  url: 'aboutme'
-  dropdown:
-    - name: 'Price Categories'
-      url: 'price'
 # - {name: 'Contact', url: 'contact'}
+
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
