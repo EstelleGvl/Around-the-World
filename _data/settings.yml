@@ -6,6 +6,7 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
 
+
 menu:
   - name: 'America'
     url: 'america'
@@ -16,13 +17,12 @@ menu:
   - name: 'Middle East'
     url: 'middleeast'
   - name: 'Information'
-  dropdown:
+    dropdown:
       - name: 'About Me'
         url: 'aboutme'
       - name: 'Price Categories'
         url: 'price'
       
-
 # - {name: 'Where I lived', url: 'whereilived'}
 # - {name: 'Africa', url: 'africa'}
 # - {name: 'Top Tips', url: 'toptips'}
