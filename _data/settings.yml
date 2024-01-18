@@ -15,13 +15,13 @@ menu:
     url: 'europe'
   - name: 'Middle East'
     url: 'middleeast'
-  - name: 'About Me'
-    url: 'aboutme'
-    dropdown:
+  - name: 'Information'
+  dropdown:
+      - name: 'About Me'
+        url: 'aboutme'
       - name: 'Price Categories'
         url: 'price'
-      - name: 'Other Page'
-        url: 'otherpage'
+      
 
 # - {name: 'Where I lived', url: 'whereilived'}
 # - {name: 'Africa', url: 'africa'}
