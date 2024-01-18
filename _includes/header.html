@@ -1,32 +1,51 @@
-<header class="site-header">
-  <h3 class="site-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
-  </h3>
-  <nav class="menu-list">
-    {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
-    {% endfor %}
-    {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-    {% endfor %}
-  </nav>
-  <div class="menu-item">
-    <label for="toggle">&#9776;</label>
-    <input type="checkbox" id="toggle">
-    <div class="dropdown-content">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en" }}">
+
+<head>
+  <!-- Your existing head content here -->
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.getElementById('toggle').addEventListener('click', function() {
+        var dropdown = document.querySelector('.dropdown-content');
+        dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <!-- Your existing body content here -->
+
+  <header class="site-header">
+    <h3 class="site-title">
+      <a href="{{ site.github.url }}/">{{ site.title }}</a>
+    </h3>
+    <nav class="menu-list">
       {% for item in site.data.settings.menu %}
-        {% if item.dropdown %}
-          <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
-          {% for subitem in item.dropdown %}
-            <a href="{{ site.github.url }}/{{ subitem.url }}" class="menu-link">{{ subitem.name }}</a>
-          {% endfor %}
-        {% else %}
-          <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
-        {% endif %}
+        <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
       {% endfor %}
       {% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
       {% endfor %}
+    </nav>
+    <div class="menu-item">
+      <button id="toggle">&#9776;</button>
+      <div class="dropdown-content">
+        {% for item in site.data.settings.menu %}
+          <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
+          {% if item.dropdown %}
+            {% for subitem in item.dropdown %}
+              <a href="{{ site.github.url }}/{{ subitem.url }}" class="menu-link">{{ subitem.name }}</a>
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+        {% for item in site.data.settings.social %}
+          <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+        {% endfor %}
+      </div>
     </div>
-  </div>
-</header>
+  </header>
+</body>
+
+</html>
