@@ -13,9 +13,9 @@ image: kazakhstan.jpg
 | :--------------------:   | :----------------------:|
 | From the [UAE](https://estellegvl.github.io/Around-the-World/uae)       | Couple-trip           |
 | :--------------------:   | :----------------------:|
-| Currency | Kazakhstani Tenge ₸
+| Currency | Kazakhstani Tenge ₸ (1₸ = 0.0022$ in 2024)
 | :--------------------:   | :----------------------:|
-| [Price category]()      |     2      |
+| [Price category](https://estellegvl.github.io/Around-the-World/price)      |     Between 1 and 2      |
 
 
 In April 2022, I decided to go to Kazakhstan. If you have read my [Kyrgyzstan](https://estellegvl.github.io/Around-the-World/asia/kyrgyzstan) post, you know that I was lucky to meet some Kazakhs who basically saved my life when I was hiking in Jeti Oguz in May 2021. I stayed in contact with them and I promised them that I would come and visit one day. That day came in April 2022. I knew my time in the UAE was limited and that I would not really get a chance to go to Kazakhstan after I moved to the US. This was the right time and I sent a text to my friends. In a few days, the trip was planned, the tickets booked, and here I was, flying once again to central Asia, but not alone this time.

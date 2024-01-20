@@ -8,6 +8,8 @@ google-ID: 'UA-112060364-2'
 
 
 menu:
+  - name: 'Where I lived'
+    url: 'whereilived'
   - name: 'America'
     url: 'america'
   - name: 'Asia'
@@ -16,14 +18,10 @@ menu:
     url: 'europe'
   - name: 'Middle East'
     url: 'middleeast'
-  - name: 'Information'
-    dropdown:
-      - name: 'About Me'
-        url: 'aboutme'
-      - name: 'Price Categories'
-        url: 'price'
+  - name: 'About Me'
+    url: 'aboutme'
       
-# - {name: 'Where I lived', url: 'whereilived'}
+
 # - {name: 'Africa', url: 'africa'}
 # - {name: 'Top Tips', url: 'toptips'}
 # - {name: 'Contact', url: 'contact'}
