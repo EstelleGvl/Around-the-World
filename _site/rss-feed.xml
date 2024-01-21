@@ -42,14 +42,8 @@
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Currency&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Kazakhstani Tenge ₸ (1₸ = 0.0022$ in 2024)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://estellegvl.github.io/Around-the-World/price&quot;&gt;Price category&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Between 1 and 2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Currency: Kazakhstani Tenge ₸ (1₸ = 0.0022$ in 2024)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://estellegvl.github.io/Around-the-World/price&quot;&gt;Price category&lt;/a&gt;: Between 1 and 2&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -81,17 +75,12 @@
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Currency&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Euro € (1 € = 1.09 in 2024)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://estellegvl.github.io/Around-the-World/price&quot;&gt;Price category&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Currency: Euro € (1 € = 1.09 in 2024)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://estellegvl.github.io/Around-the-World/price&quot;&gt;Price category&lt;/a&gt;: 3&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
 </description>
 				
 				<pubDate>Wed, 20 Sep 2023 00:00:00 -0400</pubDate>
@@ -144,7 +133,8 @@
 					<dc:creator>Estelle Guéville</dc:creator>
 				
 				
-					<description>&lt;p&gt;xxxx&lt;/p&gt;
+					<description>&lt;base target=&quot;_blank&quot; /&gt;
+
 </description>
 				
 				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
@@ -172,7 +162,8 @@
 					<dc:creator>Estelle Guéville</dc:creator>
 				
 				
-					<description>&lt;p&gt;This is a test. I want to link this page to a subpage about &lt;a href=&quot;/paris&quot;&gt;Paris&lt;/a&gt; and another subpage about &lt;a href=&quot;/hikinginfrance&quot;&gt;Hiking in France&lt;/a&gt;.&lt;/p&gt;
+					<description>&lt;base target=&quot;_blank&quot; /&gt;
+
 </description>
 				
 				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
@@ -186,7 +177,8 @@
 					<dc:creator>Estelle Guéville</dc:creator>
 				
 				
-					<description>&lt;p&gt;xxxxx&lt;/p&gt;
+					<description>&lt;base target=&quot;_blank&quot; /&gt;
+
 </description>
 				
 				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>

@@ -15,9 +15,7 @@ image: puertorico.jpg
 | :--------------------:   | :----------------------:|
 | From the [US](https://estellegvl.github.io/Around-the-World/us)       | Couple-trip           |
 | :--------------------:   | :----------------------:|
-| Currency | Dollar $
-| :--------------------:   | :----------------------:|
-| [Price category](https://estellegvl.github.io/Around-the-World/price)      |     4      |
+| Currency: Dollar $ | [Price category](https://estellegvl.github.io/Around-the-World/price): 4 |
 
 
 XXX
