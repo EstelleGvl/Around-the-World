@@ -1,6 +1,6 @@
 ---
 layout: category
-title: America
+title:
 category: america
 permalink: /america
 ---
