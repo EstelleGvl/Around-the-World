@@ -19,3 +19,100 @@ I tend to travel as an average person, neither extremely luxuous in 5-star hotel
 
 I did not include the price of flights in these estimations as it can vary tremendeously based on where you are flying from. I have lived in four different countries, and traveling from Abu Dhabi to Kazakhstan will be a lot cheaper than from the US for example. 
 
+Here is a rough estimate of each level:
+<table style="undefined;table-layout: fixed; width: 232px">
+<colgroup>
+<col style="width: 25px">
+<col style="width: 120px">
+<col style="width: 87px">
+</colgroup>
+<tbody>
+  <tr>
+    <td rowspan="4">1</td>
+    <td>Accommodations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Food &amp; Beverage</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Activities</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Transportation</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4">2</td>
+    <td>Accommodations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Food &amp; Beverage</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Activities</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Transportation</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4">3</td>
+    <td>Accommodations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Food &amp; Beverage</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Activities</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Transportation</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4">4</td>
+    <td>Accommodations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Food &amp; Beverage</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Activities</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Transportation</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4">5</td>
+    <td>Accommodations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Food &amp; Beverage</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Activities</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Transportation</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
