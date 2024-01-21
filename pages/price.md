@@ -16,10 +16,13 @@ The levels include prices of, based on my own experience:
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/Other/PXL_20230309_221937973.jpg?raw=true" alt="Your Image" width="250">
 </div>
 
-
-I tend to travel as an average person, neither extremely luxuous in 5-star hotels and eating in the best restaurants nor extremely cheap staying in hostels and eating street-food all the time. This means that you can of course choose to do either of those things and spend a lot more or a lot less money, but hopefully this website will give you an idea of how expesnive, on average, travelling to each country can be.
+I tend to travel as an average person, neither extremely luxuous in 5-star hotels and eating in the best restaurants nor extremely cheap staying in hostels and eating street-food all the time. This means that you can of course choose to do either of those things and spend a lot more or a lot less money, but hopefully this website will give you an idea of how expensive, on average, travelling to each country can be.
 
 I did not include the price of flights in these estimations as it can vary tremendeously based on where you are flying from. I have lived in four different countries, and traveling from Abu Dhabi to Kazakhstan will be a lot cheaper than from the US for example. 
+
+<br>
+<br>
+<br>
 
 Here is a rough estimate of each level:
 <style type="text/css">
