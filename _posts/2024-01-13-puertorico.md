@@ -39,13 +39,14 @@ The indigenous Taíno people inhabited Puerto Rico before the arrival of Christo
 
 Puerto Rico has a locally elected government with its own constitution. The Governor of Puerto Rico leads the executive branch, and the Legislative Assembly comprises a Senate and House of Representatives. Although Puerto Ricans are U.S. citizens, they cannot vote in U.S. presidential elections. The island's political status has been a subject of ongoing debate, with discussions about statehood, independence, or maintaining the current territorial status.
 
+<div style="float: left; margin-right: 20px;">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0025.jpg?raw=true" alt="Your Image" width="450">
+</div>
+
 The economy of Puerto Rico has undergone various shifts. Historically, agriculture played a significant role, particularly in sugarcane and coffee production. In recent decades, the economy has diversified, with a focus on manufacturing, pharmaceuticals, services and tourism.
 Puerto Rico has faced economic challenges, including a high debt burden and fiscal crises as well as natural disasters such as hurricane Maria in 2017.
 
 Puerto Rican culture is a vibrant blend of Spanish, Taíno, African, and U.S. influences. The island is known for its music, dance, and festivals, including salsa, merengue, and bomba. Most people speak Spanish and Catholicism is the predominant religion. The arts, literature, and cuisine reflect the island's rich cultural tapestry.
-
-
-![Beach](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0025.jpg?raw=true)
 
 
 <br>
@@ -75,9 +76,11 @@ It's a touristy country and we felt safe as LGTBQ people. People are very friend
 # My trip
 ## Day 1 - Flying into San Juan and getting to Utuado
 
-Our flight was slightly delayed and we arrived in San Juan in the late afternoon. After getting our luggage, we went searching for the shuttle service from our rental car company. We found it quickly and were on our way to the car rental place. The rental process went rather quickly (see below) and we were able to leave even before sundown. We decided to stop and get some groceries right next to Charlie's, at [Supermercado Pueblo](https://maps.app.goo.gl/U3RKuBET2DcVm2F87), before getting on the road. The road to Utuado (about 1.5 hour) was quite good (despite a fair number a potholes). We stopped for dinner in Utuado at [Tavos Pizza](https://maps.app.goo.gl/GJsHqbUrxAKsBTH97) before going to our airbnb. The last portion of the road was quite 
+<div style="float: right; margin-left: 20px;">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_145851832.jpg?raw=true" alt="utuadoairbnb" width="450">
+</div>
 
-![utuadoairbnb](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_145851832.jpg?raw=true)
+Our flight was slightly delayed and we arrived in San Juan in the late afternoon. After getting our luggage, we went searching for the shuttle service from our rental car company. We found it quickly and were on our way to the car rental place. The rental process went rather quickly (see below) and we were able to leave even before sundown. We decided to stop and get some groceries right next to Charlie's, at [Supermercado Pueblo](https://maps.app.goo.gl/U3RKuBET2DcVm2F87), before getting on the road. The road to Utuado (about 1.5 hour) was quite good (despite a fair number a potholes). We stopped for dinner in Utuado at [Tavos Pizza](https://maps.app.goo.gl/GJsHqbUrxAKsBTH97) before going to our airbnb. The last portion of the road was quite tricky but locals know how to avoid you. Drive slowly and you will be fine.
 
 {:.no_toc}
 ### Pro tips:
@@ -152,14 +155,18 @@ This is definitely one of our best memories of this trip and we absolutely recom
 
 {:.no_toc}
 ### [Ponce](https://maps.app.goo.gl/87tgazNk4g4rC2oh8)
+
+<div style="float: left; margin-right: 20px;">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240108_214452424.jpg?raw=true" alt="ponce" width="450">
+</div>
+
 Ponce, known as the "Pearl of the South," showcases a blend of colonial architecture and vibrant cultural heritage. Its historic town square, [Plaza Las Delicias](https://maps.app.goo.gl/wnY5Q5YJzL3NBHPN7), is a testament to the city's development since its founding in the 17th century.
 
 It's a small town and we felt like there was not much to do. Most shops, restaurants and bars were closed and streets were empty but we might have gone at a wrong time (a Monday). The historic town square is (very) small but charming. We also spent some time at [La Guancha](https://maps.app.goo.gl/HuKJQHdPjx8AjMAw8) and its beach which was a nice change from the mountains and jungle. If you like to collect shells, you'll definitely find some cute ones there.
 
 Overall, we do not particularly recommend staying in Ponce, but if you do, try to book a tour to [Isla Caja de Muertos - Coffin Island](https://maps.app.goo.gl/h4pXTBPfP2frTGkw7). It is apparently worth it.
 
-![ponce](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240108_214452424.jpg?raw=true)
-
+<br>
 
 {:.no_toc}
 ### Pro tips:
@@ -385,7 +392,27 @@ Old San Juan is a historic district with colorful colonial buildings, narrow cob
 {:.no_toc}
 ###  Catedral Basilica Menor de San Juan Bautista, Plaza de Armas
 
-![catedral](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211508747.MP.jpg?raw=true)
+<div style="float: left; margin-right: 20px;">
+    <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211508747.MP.jpg?raw=true" alt="ponce" width="300">
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 {:.no_toc}

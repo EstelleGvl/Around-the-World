@@ -86,7 +86,7 @@
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
-    width: 60vw;
+    width: 80vw;
   }
 }
 @media (max-width: $tablet-width) {
@@ -107,4 +107,53 @@
   content: "";
   clear: both;
   display: table;
+}
+
+
+
+/*
+  Related Posts for places where I lived
+*/
+
+.lived {
+  padding-bottom: 1rem;
+}
+.lived ul, ol, dl {
+  margin: 0px;
+}
+.lived-posts {
+  padding: 10px 0px 10px;
+  list-style: none;
+  display: inline-block;
+}
+.lived-thumbnail {
+  position: relative;
+  width: 600px;
+  height: 200px;
+  overflow: hidden;
+}
+.lived img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: auto;
+  width: 800px;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+.lived-title {
+  float: right;
+  padding-bottom: .5rem;
+  font-family: $base-font-family;
+}
+@media (max-width: $container-width) {
+  .lived-thumbnail{
+    width: 60vw;
+  }
+}
+@media (max-width: $tablet-width) {
+  .lived-thumbnail{
+    width: 95vw;
+  }
 }
