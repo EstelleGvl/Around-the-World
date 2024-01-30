@@ -18,7 +18,7 @@ image: puertorico.jpg
 | Currency: Dollar $ | [Price category](https://estellegvl.github.io/Around-the-World/price): 4 |
 
 
-XXX
+Going to Puerto Rico started as a surprise gift idea for my partner's 30th birthday. There are not that many destinations relatively close to Connecticut in the US that are warm and accessible in early January. A quick look at google [flights](https://www.google.com/travel/explore?tfs=CBwQAxoOagwIAhIIL20vMGYybmYaDnIMCAISCC9tLzBmMm5mQAFIAXACggELCP___________wGYAQE&tfu=GgA&tcfs=UgRgAXgB) and I knew I wanted to fo somewhere in the Carribeans. I spoke with a friend from Costa Rica who told me that I would need more than a week to explore his country but recommended Cuba or Puerto Rico instead. Because my partner is a US citizen (and I'm on a visa), I realised quickly that Cuba would be a more difficult destination. Puerto Rico it would be!
 
 <br>
 
@@ -33,6 +33,8 @@ XXX
 <br>
 
 # Puerto Rico. An Overview
+
+## History
 Puerto Rico is an archipelago located in the northeastern Caribbean, southeast of Florida. As a territory of the United States, Puerto Rico is an unincorporated territory with a unique political status that has implications for its history, politics, economy, and culture.
 
 The indigenous Taíno people inhabited Puerto Rico before the arrival of Christopher Columbus in 1493. Spanish colonization began in the early 16th century, and the island became a strategic outpost in the Spanish Empire. Puerto Rico remained under Spanish rule for centuries. The island's culture is deeply influenced by its Spanish heritage, seen in its language, religion, and architecture. Following the Spanish-American War in 1898, Puerto Rico was ceded to the United States under the Treaty of Paris. The Foraker Act of 1900 established a civilian government, and the Jones–Shafroth Act of 1917 granted U.S. citizenship to Puerto Ricans. In 1952, Puerto Rico adopted a Commonwealth status, establishing a local constitution. However, Puerto Rico remains an unincorporated territory, and its political status remains a complex and debated issue.
@@ -51,8 +53,10 @@ Puerto Rican culture is a vibrant blend of Spanish, Taíno, African, and U.S. in
 
 <br>
 
-# How Safe Is It?
-## General Observations
+## How Safe Is It?
+
+{:.no_toc}
+### General Observations
 Given that Puerto Rico is a US territory, I was not sure what to expect: would the island be as unsafe as the rest of the mainland? However, until our last day, I felt quite safe. Locals were very welcoming and helpful and we had overall a great time. But on our last evening, our uber driver scared us by announcing that he had a gun in the car "for his and our safety". Needless to say, that did not reassure us at all. Only Americans think that guns bring safey!
 
 Other than that, we did not have to worry about other types of criminality. In Rio Abajo, we even made the mistake of not closing the door properly but nothing happened. 
@@ -61,15 +65,18 @@ There was barely any language barrier: almost everyone speaks English and our me
 
 <br>
 
-## Traveling as a Woman and a LGBTQ person
+{:.no_toc}
+### Traveling as a Woman and a LGBTQ person
 In Puerto Rico, homosexuality is legal and San Juan even has a quite lively gay scene with many gay bars and clubs, such as [La Sombrilla Rosa](https://maps.app.goo.gl/ni6HidNCkHvm86C3A) in Old San Juan.
 
 It's a touristy country and we felt safe as LGTBQ people. People are very friendly and helpful and we definitely liked that! This is definitely a gay-destination.
 
 <br>
 
-# Main challenges
+## Main challenges
+To be honest, Puerto Rico is a relatively easy destination, especially if you rent a car. If you do not, moving around (and out of San Juan) will probably be your biggest challenge.
 
+Finding reasonably priced accomodations was probably my main challenge as Puerto Rico, a US territory, is really expensive. If you are on a budget, check airbnb and hostels rather than hotels. If you are willing (and able) to camp, this is also a solution to get cheaper accomodations. Accomodations in Vieques and Culebra are also a lot more expensive than the ones on the main island.
 
 <br>
 
@@ -106,6 +113,12 @@ The visit is quite expensive (18$ per person) but worth it. This is a very inter
 You can book on their website [here](). The park is opened Wednesday through Sunday from 8:00 a.m. through 3:00 p.m. AST. For more information, please contact the Department of Natural Resources by calling (787) 898-3100 / (787) 999-2200 ext. 3474 or emailing cavernasdecamuy@drna.pr.gov.
 
 ![camuy](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240107_193407628.jpg?raw=true)  
+
+{:.no_toc}
+### Unplanned expedition in the jungle
+When we got back to our [airbnb accomodation](), we decided we wanted to go to the stream and small waterfalls that cross the property. We dropped everything, including water, food and lights and followed signs. We realised quickly that this little trip was much more challenging than expected when  we had to use a few ropes to go down. It turned out we took the longest and most diffcult trail on the property. When we finally got to the river, there was almost no sun light anymore and we gave up on exploring the area and finding the waterfalls. We decided to play safe and go back up as quickly as we possibly could. 
+
+This little jungle trip was absolutely unplanned but we had so much fun and we still talk about it.
 
 {:.no_toc}
 ### Pro tips:

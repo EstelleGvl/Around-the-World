@@ -31,6 +31,8 @@ In April 2022, I decided to go to Kazakhstan. If you have read my [Kyrgyzstan](h
 <br>
 
 # Kazakhstan. An Overview
+
+## History
 Kazakhstan, once a member of the Soviet Union, occupies a strategic location at the crossroads of Central Asia and Eastern Europe. It stands as the largest landlocked country globally, sharing its borders with Russia to the north, China to the east, Kyrgyzstan, Uzbekistan, and Turkmenistan to the south, and being bordered by the Caspian Sea to the west. Kazakhstan's geographical diversity encompasses expansive steppes, arid deserts, towering mountain ranges, and a shoreline along the Caspian Sea.
 
 The history of Kazakhstan is a mosaic of diverse cultures and influences that span millennia. It has been inhabited since the Paleolithic era, hosting nomadic tribes such as the Turkic Khazars and experiencing the expansion of the Achaemenid Persian Empire in its southern regions. In the 13th century, it fell under the rule of the Mongol Empire led by Genghis Khan. The 15th century witnessed the establishment of the Kazakh Khanate, which later formed the core of modern Kazakhstan. By the 18th century, it became a part of the Russian Empire and later, a constituent republic of the Soviet Union. The path to independence commenced in 1991 with the dissolution of the USSR, culminating in Kazakhstan's emergence as an independent nation.
@@ -42,8 +44,10 @@ Economically and politically, Kazakhstan holds sway over Central Asia, contribut
 
 <br>
 
-# How Safe Is It?
-## General Observations
+## How Safe Is It?
+
+{:.no_toc}
+### General Observations
 Kazakhstan is generally considered a safe country for tourists. It has a relatively low crime rate compared to many other countries, and violent crimes against tourists are rare. 
 
 However, some precautions should be taken, such as:
@@ -55,7 +59,8 @@ However, some precautions should be taken, such as:
 
 <br>
 
-## Traveling as a Woman and a LGBTQ person
+{:.no_toc}
+### Traveling as a Woman and a LGBTQ person
 
 In Kazakhstan, Islam is the predominant religion, with Sunni Islam being the most widely practiced, coexisting harmoniously with other faiths. Religious tolerance is a cornerstone of Kazakh society, with freedom of religion guaranteed by the constitution. Russian Orthodox Christianity, Protestantism, Judaism, and other religious groups are also represented in the country. Kazakhstan is a secular state, but religion plays a significant role in its cultural fabric, observed through various religious holidays and traditions. The nation promotes interfaith dialogue and values its diverse religious heritage, which has left an indelible mark on its art, music, and architecture. Visitors are encouraged to respect local customs and appreciate the rich tapestry of religious diversity that defines Kazakhstan.
 
@@ -63,7 +68,7 @@ The situation for LGBTQ+ individuals in Kazakhstan is complex. Homosexuality is 
 
 <br>
 
-# Main challenges
+## Main challenges
 
 <br>
 
