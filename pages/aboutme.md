@@ -15,9 +15,9 @@ I had never imagined that I could accomplish so much on my own, and it not only 
 ![Estelle](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0085.jpg?raw=true)
 
 
-Today, as I am pursuing my PhD at Yale University, I continue to plan trips and I am eager to share what I have learnt with you. My goal is to inspire women to embrace solo travel and to show you that it is not just a fantastic experience but also an accessible and deeply fulfilling one. Not all my trips are solo-trips and I will also share with you how travelling, alone or not, is amazing.
+Today, as I am pursuing my PhD at Yale University, I continue to plan trips and I am eager to share what I have learnt with you. My goal is to inspire women to embrace solo travel and to show you that it is not just a fantastic experience but also an accessible and deeply fulfilling one. 
 
-As a lesbian woman, I also aim to address questions that members of the LGBTQ+ community may have when it comes to traveling the world.
+Not all my trips are solo-trips and I will also share with you how travelling, alone or not, is amazing. As a lesbian woman, I also aim to address questions that members of the LGBTQ+ community may have when it comes to traveling the world.
 
 I hope this blog becomes a valuable resource. Please don't hesitate to [connect with me](https://www.instagram.com/estelle_gvl/)!
 
