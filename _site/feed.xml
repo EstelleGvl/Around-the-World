@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-30T19:52:48-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-30T22:33:29-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<table>
   <thead>
     <tr>
       <th style="text-align: center">Puerto Rico</th>
@@ -141,6 +141,8 @@ Puerto Rico has faced economic challenges, including a high debt burden and fisc
 
 <video controls="" width="100%">
   <source src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4" type="video/mp4" />
+  
+  <a href="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4">WEBM</a>
   <a href="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4">MP4</a>
 </video>
 

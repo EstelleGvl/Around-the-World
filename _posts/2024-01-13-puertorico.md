@@ -118,6 +118,8 @@ When we got back to our [airbnb accomodation](), we decided we wanted to go to t
 
 <video controls width="100%">
   <source src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4" type="video/mp4" />
+  
+  <a href="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4">WEBM</a>
   <a href="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4">MP4</a>
 </video>
 
