@@ -307,8 +307,8 @@ So, instead of diving and snorkeling, we spent the morning doing laundry before 
 ![Trail1](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_185730472.jpg?raw=true)
 
 
-I had planned to hike the [El Yunque Peak Trail](https://maps.app.goo.gl/QuHGY3KaG6zDLBdb8) (8km) and the [La Coca trail](https://maps.app.goo.gl/3LoXB89D4in3JCHeA) (6km) but, because we spent the morning doing laundry (we underestimated how many clothes we would need - see below in section "What to pack") and eat lunch on the way, we arrived at El Yunque Visitor's center around 1pm. It was too late to enter the park and do the trails I wanted to do. The person at the visitor's center advised us to do the "Vereda Bisley trail", about 5 miles (8km). This trail is the other end of the La Coca trail, but starts outside the park. We toyed with the idea of doing "Vereda Bisley trail" + "La Coca trail" and going back to our car walking, but that would have been more than 10 miles (16km) of slippery and uphill/downhill hike and it was already close to 2pm. In the end, we turned back at 2.5 miles into 
-Vereda Visley trail.
+I had planned to hike [El Yunque Peak Trail](https://maps.app.goo.gl/QuHGY3KaG6zDLBdb8) (8km) and [La Coca trail](https://maps.app.goo.gl/3LoXB89D4in3JCHeA) (6km) but, because we spent the morning doing laundry (we underestimated how many clothes we would need - see below in section "What to pack") and eat lunch on the way, we arrived at El Yunque Visitor's center around 1pm. It was too late to enter the park and do the trails I wanted to do. The person at the visitor's center advised us to hike the "Vereda Bisley trail", about 5 miles (8km). This trail is the other end of La Coca trail, but starts outside the park. We toyed with the idea of doing "Vereda Bisley trail" + "La Coca trail" and going back to our car walking, but that would have been more than 10 miles (16km) of slippery and uphill/downhill hike and it was already close to 2pm. In the end, we turned back at 2.5 miles into 
+Vereda Visley trail and went back to the car. It was not extremely challenging but very slippery. You need good shoes!
 
 It was a beautiful trail in the jungle, totally empty. We did not see anyone else, perhaps because of the warning sign at the beginning of the trail.
 
@@ -323,7 +323,9 @@ It was a beautiful trail in the jungle, totally empty. We did not see anyone els
 
 {:.no_toc}
 ### [Angelito Trail Head](https://maps.app.goo.gl/BJbaK5hQidHBgZYD7)
-1.2km
+There still was some daylight and decided to stop quickly to hike the "Angelito Trail Head". It is a short (0.6km one way), easy trail that leads to a river where you can swim. Several people were enjoying the waters. With our hiking boots and pants, we were definitely standing out among the people in flip-flops and bathing suits.
+
+I recommend this trail for an easy but rewarding experience: the river is beautiful.
 
 ![trail2](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_210335260.jpg?raw=true)
 
