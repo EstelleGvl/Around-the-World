@@ -9,7 +9,12 @@ google-ID: 'UA-112060364-2'
 
 menu:
   - name: 'Where I lived'
-    url: 'whereilived'
+    sub:
+      - name: "United States of America"
+        url: '/us/'
+      - name: "France"
+        url: '/france/'
+#     url: 'whereilived'
   - name: 'America'
     url: 'america'
   - name: 'Asia'
