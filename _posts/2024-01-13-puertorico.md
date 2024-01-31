@@ -226,7 +226,7 @@ Media Luna Beach is a hidden gem with golden sands and turquoise waters. And bec
 {:.no_toc}
 ### [Sun Bay Beach](https://maps.app.goo.gl/BTQ2K1uf5AhsWXtM8)
 
-Beautiful beach but many more people (more easily accessible). It's also bigger. Definitely worth going if you don't have a car/golf cart. You can also stop there on the way back from Media Luna.
+Beautiful beach but many more people (more easily accessible). It's also bigger. Definitely worth going if you don't have a car/golf cart. You can also stop there on the way back from Media Luna, like we did.
 
 ![Sun Bay](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0031.jpg?raw=true)
 
@@ -256,8 +256,9 @@ However, the logistics were not handled well, but this is partly my fault. I fir
 
 {:.no_toc}
 ### Pro tips:
-- Ferry: book in advance and take an early morning ferry - these are less crowded. It will also give you more time on the island.
-- Ferry : Arrive at least 30 minutes in advance.
+- Ferry: 
+  - Book in advance and take an early morning ferry - these are less crowded. It will also give you more time on the island.
+  - Arrive at least 30 minutes in advance.
 - Book a golf cart and explore the island and its many beaches.
 - Spend at least an entire day on the island. Take a morning ferry, stay overnight (for the biobay tour) and take a ferry the day after.
 - Book the Biobay tour with JAK and pay cash to save 5$ per person. Additionally, when you call them to book, if you don't receive a confirmation email, call them again or email them to avoid what happened to us.
@@ -303,8 +304,10 @@ If you book with them and are lucky enough to have good weather, please let me k
 ### [Trail Vereda Bisley](https://maps.app.goo.gl/MCrtBs8TMcxHbhaC8)
 So, instead of diving and snorkeling, we spent the morning doing laundry before heading to el Yunque forest. El Yunque Forest, the only tropical rainforest in the US, is a UNESCO World Biosphere Reserve, known for its biodiversity and scenic trails.
 
-I had planned to hike the [El Yunque Peak Trail](https://maps.app.goo.gl/QuHGY3KaG6zDLBdb8) (8km) and the [La Coca trail](https://maps.app.goo.gl/3LoXB89D4in3JCHeA) (6km) but, because
-5 miles
+I had planned to hike the [El Yunque Peak Trail](https://maps.app.goo.gl/QuHGY3KaG6zDLBdb8) (8km) and the [La Coca trail](https://maps.app.goo.gl/3LoXB89D4in3JCHeA) (6km) but, because we spent the morning doing laundry (we underestimated how many clothes we would need - see below in section "What to pack") and eat lunch on the way, we arrived at El Yunque Visitor's center around 1pm. It was too late to enter the park and do the trails I wanted to do. The person at the visitor's center advised us to do the "Vereda Bisley trail", about 5 miles (8km). This trail is the other end of the La Coca trail, but starts outside the park. We toyed with the idea of doing "Vereda Bisley trail" + "La Coca trail" and going back to our car walking, but that would have been more than 10 miles (16km) of slippery and uphill/downhill hike and it was already close to 2pm. In the end, we turned back at 2.5 miles into 
+Vereda Visley trail.
+
+It was a beautiful trail in the jungle, totally empty. We did not see anyone else, perhaps because of the warning sign at the beginning of the trail.
 
 ![Trail1](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240111_185730472.jpg?raw=true)
 <div class="row">
