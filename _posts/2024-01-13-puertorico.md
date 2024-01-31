@@ -9,8 +9,6 @@ ref: puertorico
 image: puertorico.jpg
 ---
 
-<base target="_blank">
-
 | Puerto Rico | 9 days (6-14 January 2024)
 | :--------------------:   | :----------------------:|
 | From the [US](https://estellegvl.github.io/Around-the-World/us)       | Couple-trip           |
@@ -118,7 +116,12 @@ You can book on their website [here](). The park is opened Wednesday through Sun
 ### Unplanned expedition in the jungle
 When we got back to our [airbnb accomodation](), we decided we wanted to go to the stream and small waterfalls that cross the property. We dropped everything, including water, food and lights and followed signs. We realised quickly that this little trip was much more challenging than expected when  we had to use a few ropes to go down. It turned out we took the longest and most diffcult trail on the property. When we finally got to the river, there was almost no sun light anymore and we gave up on exploring the area and finding the waterfalls. We decided to play safe and go back up as quickly as we possibly could. 
 
-This little jungle trip was absolutely unplanned but we had so much fun and we still talk about it.
+<video controls width="100%">
+  <source src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4" type="video/mp4" />
+  <a href="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4">MP4</a>
+</video>
+
+This little jungle trip was absolutely unplanned but we had so much fun!!!
 
 {:.no_toc}
 ### Pro tips:

@@ -12,8 +12,26 @@
 					<dc:creator>Estelle Guéville</dc:creator>
 				
 				
-					<description>&lt;base target=&quot;_blank&quot; /&gt;
-
+					<description>&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Puerto Rico&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;9 days (6-14 January 2024)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;From the &lt;a href=&quot;https://estellegvl.github.io/Around-the-World/us&quot;&gt;US&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Couple-trip&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Currency: Dollar $&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://estellegvl.github.io/Around-the-World/price&quot;&gt;Price category&lt;/a&gt;: 4&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </description>
 				
 				<pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>

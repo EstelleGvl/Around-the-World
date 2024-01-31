@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-30T18:56:03-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<base target="_blank" />
-
-<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-30T19:52:48-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Beyond Borders</title><subtitle>Around the world</subtitle><author><name>Estelle Guéville</name></author><entry xml:lang="en"><title type="html">Puerto Rico | January 2024</title><link href="http://localhost:4000/america/puertorico/" rel="alternate" type="text/html" title="Puerto Rico | January 2024" /><published>2024-01-13T00:00:00-05:00</published><updated>2024-01-13T00:00:00-05:00</updated><id>http://localhost:4000/america/puertorico</id><content type="html" xml:base="http://localhost:4000/america/puertorico/"><![CDATA[<table>
   <thead>
     <tr>
       <th style="text-align: center">Puerto Rico</th>
@@ -141,7 +139,12 @@ Puerto Rico has faced economic challenges, including a high debt burden and fisc
 <h3 class="no_toc" id="unplanned-expedition-in-the-jungle">Unplanned expedition in the jungle</h3>
 <p>When we got back to our <a href="">airbnb accomodation</a>, we decided we wanted to go to the stream and small waterfalls that cross the property. We dropped everything, including water, food and lights and followed signs. We realised quickly that this little trip was much more challenging than expected when  we had to use a few ropes to go down. It turned out we took the longest and most diffcult trail on the property. When we finally got to the river, there was almost no sun light anymore and we gave up on exploring the area and finding the waterfalls. We decided to play safe and go back up as quickly as we possibly could.</p>
 
-<p>This little jungle trip was absolutely unplanned but we had so much fun and we still talk about it.</p>
+<video controls="" width="100%">
+  <source src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4" type="video/mp4" />
+  <a href="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/VID-20240107-WA0022.mp4">MP4</a>
+</video>
+
+<p>This little jungle trip was absolutely unplanned but we had so much fun!!!</p>
 
 <h3 class="no_toc" id="pro-tips-1">Pro tips:</h3>
 <ul>
@@ -630,7 +633,7 @@ You are now warned!</p>
 
 <p><strong>Creation date: 19 January 2024</strong></p>
 
-<p><strong>Last update: 19 January 2024</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="america" /><category term="america" /><category term="city trip" /><category term="Nature" /><category term="Hiking" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/puertorico.jpg" /><media:content medium="image" url="http://localhost:4000/puertorico.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cyprus | October 2021</title><link href="http://localhost:4000/europe/cyprus/" rel="alternate" type="text/html" title="Cyprus | October 2021" /><published>2023-09-20T00:00:00-04:00</published><updated>2023-09-20T00:00:00-04:00</updated><id>http://localhost:4000/europe/cyprus</id><content type="html" xml:base="http://localhost:4000/europe/cyprus/"><![CDATA[<table>
+<p><strong>Last update: 19 January 2024</strong></p>]]></content><author><name>Estelle Guéville</name></author><category term="america" /><category term="america" /><category term="city trip" /><category term="Nature" /><category term="Hiking" /><summary type="html"><![CDATA[Puerto Rico 9 days (6-14 January 2024) From the US Couple-trip Currency: Dollar $ Price category: 4]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/puertorico.jpg" /><media:content medium="image" url="http://localhost:4000/puertorico.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cyprus | October 2021</title><link href="http://localhost:4000/europe/cyprus/" rel="alternate" type="text/html" title="Cyprus | October 2021" /><published>2023-09-20T00:00:00-04:00</published><updated>2023-09-20T00:00:00-04:00</updated><id>http://localhost:4000/europe/cyprus</id><content type="html" xml:base="http://localhost:4000/europe/cyprus/"><![CDATA[<table>
   <thead>
     <tr>
       <th style="text-align: center">Cyprus</th>
