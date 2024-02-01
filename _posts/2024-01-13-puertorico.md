@@ -544,7 +544,7 @@ We stayed a long week and we wished we had a few more days. We would have loved 
 <br>
 
 ## When to Go?
-January is the best season to travel to 
+January is the best season to travel to Puerto Rico. The weather is perfect and it does not rain often. This would definitely be me recommendation.
 <br>
 
 ## Where to Stay?
@@ -553,10 +553,20 @@ We booked a guest house in Vieques because of the great reviews and fair price f
 
 - Utuado: At Adam's
 
+5 stars for the beautiful location and views. As the hosts mention on airbnb, it is rustic and not a luxury-type setting but the views and location are well worth it. The beds are not super comfortable, and the kitchen and bathroom are shared with others. **You HAVE to get up early in the morning to see the clouds covering the valley below.**
+
+The property is gigantice, with a river crossing it and several trails in the jungle. The longer hike downhill (35min) to the stream is fairly rigorous and quite fun with the right footwear! Make sure to start the hike well before sundown so you have plenty of light to get back up.
+
+On the way there, be cautious on the road as it is mountain roads. However, it is worth it, and the locals know how to get around you.
+
 <div class="airbnb-embed-frame" data-id="27434620" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/27434620?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/27434620?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Guesthouse in Utuado · ★4.77 · 1 bedroom · 5 beds · 1 shared bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
 
 
 - Ponce: At Evelyn's
+
+This is probably where we had our best night of sleep. Immaculately clean space, very comfortable king bed, nice bathroom with cute decor. The space is quite small but has all the amenities necessary. There's a very lovely walkway into the unit with lots of plants and even a mini library! *
+It is not a super centrally located neighborhood, but not far either with a car - 10 min drive to downtown and 5 min drive to the beach (you need a car to move around Ponce anyway). Overall, it is very quiet and clean and we had a great time.
+
 
 <div class="airbnb-embed-frame" data-id="43782671" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/43782671?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/43782671?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Rental unit in Ponce · ★4.91 · Studio · 1 bed · 1 bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
 
@@ -579,6 +589,9 @@ Go up on the rooftop at night for a beautiful view of the stars. We loved our st
 
 As for the one we do not particularly recommend, some of you might still find it interesting so we decided to post it here nonetheless:
 - Rio Abajo;
+
+It is a cute apartment with a good amount of space with a washing machine, which was a plus! However, the washing machine can only be uses from 9-11 am - and bring your own detergent (we picked some up from [supermercados agranel](https://maps.app.goo.gl/8fztqniKL8GbFGuM7) in Ceiba). It is a solar- powered location so there are a few things you cannot do i.e. turn AC down super low, **plug in a hair dryer**. It is quite humid so if you are drying clothes indoors, it may take a while. The parking lot is right in front of the place. It is overall a good place to stay but not our top recommendation.
+
 
 <div class="airbnb-embed-frame" data-id="50116875" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/50116875?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/50116875?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Rental unit in Río Abajo · ★4.84 · 1 bedroom · 1 bed · 1 bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
 
