@@ -343,7 +343,9 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 ###  Reserva Natural Cueva del Indio
 Before going back to San Juan, we decided to go to the eserva Natural Cueva del Indio, which we were not able to visit on our first day. It features ancient petroglyphs, caves and coastal views and it is STUNNING!
 
-The access can be a bit tricky, but is absolutely worth it! 
+The access can be a bit tricky, but is absolutely worth it! The GPS took us to a large parking with signs announcing the Reserve. It seems to be legitimate but it is actually a scam: a local resident asks you for money (10$ per person, as of January 2024) to park and access the Reserve. Instead, check our pro-tips below for where to park and how to access the Reserve. 
+
+Make sure you don't skip this as it is really a natural marvel.
 
 <video controls width="100%">
   <source src="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/PXL_20240112_181130183.TS.mp4" type="video/mp4" />
@@ -368,14 +370,16 @@ The access can be a bit tricky, but is absolutely worth it!
 {:.no_toc}
 ###  [Manantial Tortuguero Spring](https://maps.app.goo.gl/bQi5mm7XKopsdfZo7)
 
-We had some time ahead of us and decided to check the map for things to do. We founds this places with a short detour. To be honest, it was very disappointing and I would not get into the water if I were you. You can definitly skip that place without looking back.
+We had some time before we could check in and we decided to look at the map for things to do. We found this place with a short detour. To be honest, it was very disappointing and I would not get into the water if I were you. You can definitly skip that place without looking back.
 
 ![](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_194028162.jpg?raw=true)
 
 
 {:.no_toc}
 ### Santurce and La Placita in San Juan
-Santurce is a vibrant urban neighborhood, pulsating with art, music, and nightlife in the well-known "La Placita".
+Santurce is a vibrant urban neighborhood, pulsating with art, music, and nightlife in the well-known "La Placita". Our AirBnb, in Santurce, was fairly close to La Placita and we decided to walk there. We chose a random restaurant, [Sea Señor La Placita](https://maps.app.goo.gl/yW37QqW5wVG4Cj25A), that was very nice (and had decent drinks and food). 
+
+This was not our favourite If you stay in S
 
 ![placita](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_235833279.MP.jpg?raw=true)
 
@@ -383,7 +387,7 @@ Santurce is a vibrant urban neighborhood, pulsating with art, music, and nightli
 {:.no_toc}
 ### Pro tips:
 - Reserva Natural Cueva del Indio
-  - Do not park at the ["main"]() parking. This is a tourist scam and not an official or governmental parking. It is just a local resident who make people pay to use the parking and access the Reserve. 
+  - Do not park at the ["main"]() parking. This is a tourist scam and not an official or governmental parking. It is just a local resident who make people pay to use the parking and access the Reserve, which is officially free. Rather, go [there]() to park. There is a little hidden path between the trees that brings you to the beach. From there, you can explore to the left and the right, for free.
   - Get good shoes and explore the coast past the main area.
 - Manantial Tortuguero Spring: Just skip it!
 - La Placita:
