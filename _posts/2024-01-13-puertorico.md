@@ -113,8 +113,6 @@ You can book on their website [here](). The park is opened Wednesday through Sun
 
 {:.no_toc}
 ### Unplanned expedition in the jungle
-When we got back to our [airbnb accomodation](), we decided we wanted to go to the stream and small waterfalls that cross the property. We dropped everything, including water, food and lights and followed signs. We realised quickly that this little trip was much more challenging than expected when  we had to use a few ropes to go down. It turned out we took the longest and most diffcult trail on the property. When we finally got to the river, there was almost no sun light anymore and we gave up on exploring the area and finding the waterfalls. We decided to play safe and go back up as quickly as we possibly could. 
-
 <div style="float: right; margin-left: 20px;">
 <video controls width="40%">
   <source src="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/VID-20240107-WA0022.mp4" type="video/mp4" />
@@ -124,7 +122,10 @@ When we got back to our [airbnb accomodation](), we decided we wanted to go to t
 </video>
 </div>
 
+When we got back to our [airbnb accomodation](), we decided we wanted to go to the stream and small waterfalls that cross the property. We dropped everything, including water, food and lights and followed signs. We realised quickly that this little trip was much more challenging than expected when  we had to use a few ropes to go down. It turned out we took the longest and most diffcult trail on the property. When we finally got to the river, there was almost no sun light anymore and we gave up on exploring the area and finding the waterfalls. We decided to play safe and go back up as quickly as we possibly could. 
+
 This little jungle trip was absolutely unplanned but we had so much fun!!!
+
 
 {:.no_toc}
 ### Pro tips:
@@ -339,7 +340,7 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 
 <br>
 
-## Day 7 -  
+## Day 7 - On the way to San Juan
 
 {:.no_toc}
 ###  Reserva Natural Cueva del Indio
