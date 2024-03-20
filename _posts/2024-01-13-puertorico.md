@@ -113,8 +113,8 @@ You can book on their website [here](). The park is opened Wednesday through Sun
 
 {:.no_toc}
 ### Unplanned expedition in the jungle
-<div style="float: right; margin-left: 20px;">
-<video controls width="40%">
+<div>
+<video controls width="40%" style="float: right; margin-left: 20px;">
   <source src="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/VID-20240107-WA0022.mp4" type="video/mp4" />
   
   <a href="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/VID-20240107-WA0022.mp4">WEBM</a>
@@ -477,7 +477,6 @@ Old San Juan is a historic district with colorful colonial buildings, narrow cob
 <br>
 
 ## What Else?  
-
 
 {:.no_toc}
 ### In San Juan
