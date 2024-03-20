@@ -16,7 +16,7 @@ image: puertorico.jpg
 | Currency: Dollar $ | [Price category](https://estellegvl.github.io/Around-the-World/price): 4 |
 
 
-Going to Puerto Rico started as a surprise gift idea for my partner's 30th birthday. There are not that many destinations relatively close to Connecticut in the US that are warm and accessible in early January. A quick look at google [flights](https://www.google.com/travel/explore?tfs=CBwQAxoOagwIAhIIL20vMGYybmYaDnIMCAISCC9tLzBmMm5mQAFIAXACggELCP___________wGYAQE&tfu=GgA&tcfs=UgRgAXgB) and I knew I wanted to fo somewhere in the Carribeans. I spoke with a friend from Costa Rica who told me that I would need more than a week to explore his country but recommended Cuba or Puerto Rico instead. Because my partner is a US citizen (and I'm on a visa), I realised quickly that Cuba would be a more difficult destination. Puerto Rico it would be!
+Going to Puerto Rico started as a surprise gift idea for my partner's 30th birthday. There are not that many destinations relatively close to Connecticut (US) that are warm and accessible in early January. A quick look at google [flights](https://www.google.com/travel/explore?tfs=CBwQAxoOagwIAhIIL20vMGYybmYaDnIMCAISCC9tLzBmMm5mQAFIAXACggELCP___________wGYAQE&tfu=GgA&tcfs=UgRgAXgB) and I knew I wanted to fly somewhere in the Carribeans. I spoke with a friend from Costa Rica who told me that I would need more than a week to explore his country but recommended Cuba or Puerto Rico instead. Because my partner is a US citizen (and I'm on a visa), I realised quickly that Cuba would be a more difficult destination. Puerto Rico it would be!
 
 <br>
 
@@ -43,8 +43,7 @@ Puerto Rico has a locally elected government with its own constitution. The Gove
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/IMG-20240109-WA0025.jpg?raw=true" alt="Your Image" width="450">
 </div>
 
-The economy of Puerto Rico has undergone various shifts. Historically, agriculture played a significant role, particularly in sugarcane and coffee production. In recent decades, the economy has diversified, with a focus on manufacturing, pharmaceuticals, services and tourism.
-Puerto Rico has faced economic challenges, including a high debt burden and fiscal crises as well as natural disasters such as hurricane Maria in 2017.
+The economy of Puerto Rico has undergone various shifts. Historically, agriculture played a significant role, particularly in sugarcane and coffee production. In recent decades, the economy has diversified, with a focus on manufacturing, pharmaceuticals, services and tourism. Puerto Rico has faced economic challenges, including a high debt burden and fiscal crises as well as natural disasters such as hurricane Maria in 2017.
 
 Puerto Rican culture is a vibrant blend of Spanish, Taíno, African, and U.S. influences. The island is known for its music, dance, and festivals, including salsa, merengue, and bomba. Most people speak Spanish and Catholicism is the predominant religion. The arts, literature, and cuisine reflect the island's rich cultural tapestry.
 
@@ -55,7 +54,7 @@ Puerto Rican culture is a vibrant blend of Spanish, Taíno, African, and U.S. in
 
 {:.no_toc}
 ### General Observations
-Given that Puerto Rico is a US territory, I was not sure what to expect: would the island be as unsafe as the rest of the mainland? However, until our last day, I felt quite safe. Locals were very welcoming and helpful and we had overall a great time. But on our last evening, our uber driver scared us by announcing that he had a gun in the car "for his and our safety". Needless to say, that did not reassure us at all. Only Americans think that guns bring safey!
+Given that Puerto Rico is a US territory, I was not sure what to expect: would the island be as unsafe as the mainland? However, until our last day, I felt quite safe. Locals were very welcoming and helpful and we had overall a great time. But on our last evening, our uber driver scared us by announcing that he had a gun in the car "for his and our safety". Needless to say, that did not reassure us at all. Only Americans think that guns bring safey!
 
 Other than that, we did not have to worry about other types of criminality. In Rio Abajo, we even made the mistake of not closing the door properly but nothing happened. 
 
@@ -342,7 +341,9 @@ Do not stop at the Visitors' center. They make you pay at the entrance but it is
 
 {:.no_toc}
 ###  Reserva Natural Cueva del Indio
-Reserva Natural Cueva del Indio features ancient petroglyphs and stunning coastal views. 
+Before going back to San Juan, we decided to go to the eserva Natural Cueva del Indio, which we were not able to visit on our first day. It features ancient petroglyphs, caves and coastal views and it is STUNNING!
+
+The access can be a bit tricky, but is absolutely worth it! 
 
 <video controls width="100%">
   <source src="https://github.com/EstelleGvl/Around-the-World/raw/main/assets/img/puertorico/PXL_20240112_181130183.TS.mp4" type="video/mp4" />
@@ -367,6 +368,8 @@ Reserva Natural Cueva del Indio features ancient petroglyphs and stunning coasta
 {:.no_toc}
 ###  [Manantial Tortuguero Spring](https://maps.app.goo.gl/bQi5mm7XKopsdfZo7)
 
+We had some time ahead of us and decided to check the map for things to do. We founds this places with a short detour. To be honest, it was very disappointing and I would not get into the water if I were you. You can definitly skip that place without looking back.
+
 ![](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_194028162.jpg?raw=true)
 
 
@@ -375,6 +378,17 @@ Reserva Natural Cueva del Indio features ancient petroglyphs and stunning coasta
 Santurce is a vibrant urban neighborhood, pulsating with art, music, and nightlife in the well-known "La Placita".
 
 ![placita](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_235833279.MP.jpg?raw=true)
+
+
+{:.no_toc}
+### Pro tips:
+- Reserva Natural Cueva del Indio
+  - Do not park at the ["main"]() parking. This is a tourist scam and not an official or governmental parking. It is just a local resident who make people pay to use the parking and access the Reserve. 
+  - Get good shoes and explore the coast past the main area.
+- Manantial Tortuguero Spring: Just skip it!
+- La Placita:
+  - 
+
 
 ## Day 8 - Old San Juan
 
