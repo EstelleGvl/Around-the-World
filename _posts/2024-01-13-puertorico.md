@@ -493,14 +493,12 @@ Old San Juan is a historic district with colorful colonial buildings, narrow cob
 ### Islands
 - Culebra
 - Isla Caja de Muertos - Coffin Island
-- 
 
 
 <br>
 
 ## My Budget
 Puerto Rico is an expensive island and our budget for this trip was quite important.
-Our budget for this trip.
 - Flight: Frontier airlines from Hartford to San Juan: **395.92$** for two people plus **107$** for one checked-in luggage (up to 40 pounds/18kg)
 
 - Accomodations
@@ -670,4 +668,4 @@ You are now warned!
 
 **Creation date: 19 January 2024**
 
-**Last update: 19 January 2024** 
+**Last update: 21 March 2024** 
