@@ -658,8 +658,6 @@ We do not really have good recommendations in Ponce. We stayed only one night an
 ## What to Pack?
 Everything!
 We understimated how many clothes we would need and were lucky to be able to do some laundry in Rio Abajo, in the middle of our trip. Puerto Rico is a hot and humid island. This fact added to all the activities we did, we wore much more than one outfit a day (and you can't reuse anything because you sweat!). You will need hiking equipment (both for hiking trails and if you want to do some river adventures), swimming equipment (canoe, snorkeling, diving, beach time, etc.), shorts and tee-shirts and dresses for city days and evenings and maybe a pair of pants for evenings and/or flights. Take more socks and underwear than the number of days you are staying, you will need them! And this advice also applies to shoes: hiking shoes, flip-flops, water shoes, city shoes, etc. I am usually an efficient packer and traveler and I really did not expect to use that many things.
-You are now warned!
-
 
 <br>
 
