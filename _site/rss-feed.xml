@@ -34,7 +34,7 @@
 &lt;/table&gt;
 </description>
 				
-				<pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
+				<pubDate>Sat, 13 Jan 2024 00:00:00 +0400</pubDate>
 				<link>http://localhost:4000/america/puertorico/</link>
 				<guid isPermaLink="true">http://localhost:4000/america/puertorico/</guid>
 			</item>
@@ -67,7 +67,7 @@
 &lt;/table&gt;
 </description>
 				
-				<pubDate>Wed, 20 Sep 2023 00:00:00 -0400</pubDate>
+				<pubDate>Wed, 20 Sep 2023 00:00:00 +0400</pubDate>
 				<link>http://localhost:4000/asia/kazakhstan/</link>
 				<guid isPermaLink="true">http://localhost:4000/asia/kazakhstan/</guid>
 			</item>
@@ -101,7 +101,7 @@
 
 </description>
 				
-				<pubDate>Wed, 20 Sep 2023 00:00:00 -0400</pubDate>
+				<pubDate>Wed, 20 Sep 2023 00:00:00 +0400</pubDate>
 				<link>http://localhost:4000/europe/cyprus/</link>
 				<guid isPermaLink="true">http://localhost:4000/europe/cyprus/</guid>
 			</item>
@@ -140,7 +140,7 @@
 &lt;/table&gt;
 </description>
 				
-				<pubDate>Tue, 19 Sep 2023 00:00:00 -0400</pubDate>
+				<pubDate>Tue, 19 Sep 2023 00:00:00 +0400</pubDate>
 				<link>http://localhost:4000/middleeast/qatar/</link>
 				<guid isPermaLink="true">http://localhost:4000/middleeast/qatar/</guid>
 			</item>
@@ -155,7 +155,7 @@
 
 </description>
 				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<pubDate>Fri, 06 Jan 2023 00:00:00 +0400</pubDate>
 				<link>http://localhost:4000/lived/america/usa/</link>
 				<guid isPermaLink="true">http://localhost:4000/lived/america/usa/</guid>
 			</item>
@@ -166,27 +166,13 @@
 					<dc:creator>Estelle Guéville</dc:creator>
 				
 				
-					<description>&lt;p&gt;XXX&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/lived/middleeast/uae/</link>
-				<guid isPermaLink="true">http://localhost:4000/lived/middleeast/uae/</guid>
-			</item>
-		
-			<item>
-				<title>Paris Public Transportation</title>
-				
-					<dc:creator>Estelle Guéville</dc:creator>
-				
-				
 					<description>&lt;base target=&quot;_blank&quot; /&gt;
 
 </description>
 				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/parispublictransportation/</link>
-				<guid isPermaLink="true">http://localhost:4000/parispublictransportation/</guid>
+				<pubDate>Fri, 06 Jan 2023 00:00:00 +0400</pubDate>
+				<link>http://localhost:4000/lived/middleeast/uae/</link>
+				<guid isPermaLink="true">http://localhost:4000/lived/middleeast/uae/</guid>
 			</item>
 		
 			<item>
@@ -199,7 +185,7 @@
 
 </description>
 				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<pubDate>Fri, 06 Jan 2023 00:00:00 +0400</pubDate>
 				<link>http://localhost:4000/lived/europe/france/</link>
 				<guid isPermaLink="true">http://localhost:4000/lived/europe/france/</guid>
 			</item>
@@ -214,7 +200,7 @@
 
 </description>
 				
-				<pubDate>Fri, 06 Jan 2023 00:00:00 -0500</pubDate>
+				<pubDate>Fri, 06 Jan 2023 00:00:00 +0400</pubDate>
 				<link>http://localhost:4000/lived/america/canada/</link>
 				<guid isPermaLink="true">http://localhost:4000/lived/america/canada/</guid>
 			</item>

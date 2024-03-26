@@ -2,8 +2,8 @@
 layout: post
 title: "Paris Public Transportation"
 author: "Estelle Guéville"
-categories:
-tags:
+categories: [lived, europe]
+tags: [Europe, lived]
 image: xxx.jpg
 ---
 

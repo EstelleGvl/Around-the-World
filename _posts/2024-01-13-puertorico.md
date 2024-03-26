@@ -380,9 +380,12 @@ We had some time before we could check in and we decided to look at the map for 
 
 {:.no_toc}
 ### Santurce and La Placita in San Juan
-Santurce is a vibrant urban neighborhood, pulsating with art, music, and nightlife in the well-known "La Placita". Our AirBnb, in Santurce, was fairly close to La Placita and we decided to walk there. We chose a random restaurant, [Sea Señor La Placita](https://maps.app.goo.gl/yW37QqW5wVG4Cj25A), that was very nice (and had decent drinks and food). 
+Santurce is a vibrant urban neighborhood, pulsating with art, music, and nightlife in the well-known "La Placita". Our AirBnb, in Santurce, was fairly close to La Placita and we decided to walk there. We chose a random restaurant, [Sea Señor La Placita](https://maps.app.goo.gl/yW37QqW5wVG4Cj25A), that was very nice (and had decent drinks and food).
 
-This was not our favourite If you stay in S
+We are not party girls, so this place was fun but we could not have partied all night like some do. However, it was a nice evening and we recommend you chek the place for the atmosphere.
+
+We were glad our airbnb was far enough from La Placita so the noise would not bother us.
+
 
 ![placita](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240112_235833279.MP.jpg?raw=true)
 
@@ -393,11 +396,10 @@ This was not our favourite If you stay in S
   - Do not park at the ["main"]() parking. This is a tourist scam and not an official or governmental parking. It is just a local resident who make people pay to use the parking and access the Reserve, which is officially free. Rather, go [there]() to park. There is a little hidden path between the trees that brings you to the beach. From there, you can explore to the left and the right, for free.
   - Get good shoes and explore the coast past the main area.
 - Manantial Tortuguero Spring: Just skip it!
-- La Placita:
-  - 
 
 
 ## Day 8 - Old San Juan
+On that day, we enjoyed a chill morning with a late breakfast (one could call that a brunch) at Café Comunión before bringin back the car. We then ubered to Old San Juan to visit the old town and its historical landmarks.
 
 {:.no_toc}
 ###  Castillo San Cristobal
@@ -420,10 +422,11 @@ This was not our favourite If you stay in S
 
 {:.no_toc}
 ###  Parque de Los Gatos
+Close to he Fort Sant Felipe del Morro, there is the "Parque de los Gatos", the park of the cats. Sarah loves cats and we had to stop by. This is not a park per say, but a place where dozens of cats find refuge and are fed. There are very approacable (not wild at all) and if you love cats, you should definitely go, even for 10 minutes.
 
 {:.no_toc}
 ###  Old San Juan
-Old San Juan is a historic district with colorful colonial buildings, narrow cobblestone streets, and historic sites. 
+From the Parque de los Gatos, we walked towards Old San Juan, the historic district with colorful colonial buildings, narrow cobblestone streets, and historic sites. We walked in the streets for some time and visited the Cathedral and another park, "Los Paraguas de la Fortaleza". There are many bars, restaurants and rooftops to choose from. We got drunken cookies (that we inadvertedly smuggled back to New Haven), had a drink at a lesbian bar (La Sombrilla Rosa) and had dinner at Bacaro, a very good Italian restaurant that we recommend.
 
 <div class="row">
   <div class="column">
@@ -471,8 +474,8 @@ Old San Juan is a historic district with colorful colonial buildings, narrow cob
 
 {:.no_toc}
 ###  Brunch at Abracadabra
-
-
+On our last day, we decided to enjoy the airbnb and check out as late as possible (11am). Because we had our luggages and only a couple of hours before needing to go to the airport. We decided to enjoy a brunch at Abracadabra. It was an excellent choice, the food was amazing and the place really cute. We do recommend it.
+We then took a uber to go to the airport.
 
 <br>
 
