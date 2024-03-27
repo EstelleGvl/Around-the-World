@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Transportation in the UAE"
-author: "Estelle Guéville"
-categories: [lived, middleeast]
-tags: [Middle East, lived]
 permalink: /uaetransportation
 ---
 
