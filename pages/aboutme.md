@@ -6,7 +6,7 @@ permalink: /aboutme
 
 I am a French woman who embarked on her travel journey in adulthood. In 2013, I got my first passport to move to Canada to pursue a master's degree in Medieval History. I spent 9 months in Quebec City, and this is when I truly fell in love with travelling. 
 
-I was 21. 
+I was 20. 
 
 Fast forward a decade, and I've since called two more countries home while exploring over 30 others. Throughout my travels, I've had the pleasure of travelling with friends and partners, but in 2018, I took my very first solo trip, and it was nothing short of a transformative experience. This solo expedition to [Georgia]() was a **game-changer**! 
 
