@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Where to Eat and Drink in Abu Dhabi"
 author: "Estelle Guéville"
 categories: [lived, middleeast]
