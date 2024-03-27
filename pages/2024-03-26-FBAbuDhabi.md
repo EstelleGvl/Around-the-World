@@ -1,9 +1,6 @@
 ---
 layout: page
-title: "Where to Eat and Drink in Abu Dhabi"
-author: "Estelle Guéville"
-categories: [lived, middleeast]
-tags: [Middle East, lived]
+title: Where to Eat and Drink in Abu Dhabi
 permalink: /fbabudhabi
 ---
 

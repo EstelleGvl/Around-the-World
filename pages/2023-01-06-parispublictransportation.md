@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "Paris Public Transportation"
-author: "Estelle Guéville"
-categories: [lived, europe]
-tags: [Europe, lived]
-image: xxx.jpg
+layout: page
+title: Paris Public Transportation
+permalink: /price
 ---
 
 <base target="_blank">
