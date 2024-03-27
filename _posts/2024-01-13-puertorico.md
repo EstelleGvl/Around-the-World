@@ -402,14 +402,21 @@ We were glad our airbnb was far enough from La Placita so the noise would not bo
 On that day, we enjoyed a chill morning with a late breakfast (one could call that a brunch) at Café Comunión before bringin back the car. We then ubered to Old San Juan to visit the old town and its historical landmarks.
 
 {:.no_toc}
-###  Castillo San Cristobal
+###  Castillo San Cristóbal
+FInished in 1783, Castillo San Cristóbal is the largest fortification built by the Spanish in the New World. It was built to protect against land-based attacks on the historic city of Old San Juan. It is now part of San Juan National Historic Site.
+
+Castillo San Cristóbal contains five cisterns that were used for the storage of water during the ages of the Spanish Colony. They are extremely large (24 ft tall, 17 ft wide, and 57 ft long) and were used as bomb shelters during World War II.
+
+Castillo San Cristóbal is absolutely worth a visit, for the viewpoints as well as the knowledge you will learn about San Juan's and Puerto Rico's history.
+
+The ticket to Castillo San Cristóbal also includes Fort San Felipe del Morro (same day) so make sure to have enought to visit both!
 
 ![sancristobal](https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_192555921.MP.jpg?raw=true)
 
 
 {:.no_toc}
 ###  Fort San Felipe del Morro
-
+We next headed Fort San Felipe del Morro. It is a large fortress and citadel in the historic district of Old San Juan. Commissioned by Charles I of Spain in 1539, it was first built as a fortified tower in honor of Philip II, who oversaw its expansion into a hornwork fort by 1595. Over the next 200 years, especially in the reign of Charles III, El Morro continued to be developed to reach its current form in 1787. Rising 140 ft from the Atlantic shoreline with 18 to 25 ft thick walls, it stands on a steep, rocky headland promontory on San Juan Islet guarding the entry to San Juan Bay, the harbor of Old San Juan. El Morro, alongside other forts part of the Walls of Old San Juan, protected strategically and militarily the city from invasion by competing world powers.
 
 <div class="row">
   <div class="column">
@@ -441,6 +448,10 @@ From the Parque de los Gatos, we walked towards Old San Juan, the historic distr
 {:.no_toc}
 ###  Catedral Basilica Menor de San Juan Bautista, Plaza de Armas
 
+When walking in old San Juan, we came across the cathedral. It is the Catholic cathedral for the Archdiocese of San Juan de Puerto Rico. It is one of the oldest buildings in San Juan and the oldest cathedral in the United States. It is also the second-oldest cathedral in the Americas. San Juan, then known as the City of Puerto Rico, was the first diocese of the New World, with Bishop Don Alonso Manso appointed in 1511.
+
+The original cathedral in what was the city of Puerto Rico (changed to San Juan Bautista in 1521) was constructed from wood in 1521. It was destroyed by a hurricane and the current church construction began in 1535 and was practically completed in 1802. In 1905 an upper portion to the facade was added.
+
 <div style="float: left; margin-right: 20px;">
     <img src="https://github.com/EstelleGvl/Around-the-World/blob/main/assets/img/puertorico/PXL_20240113_211508747.MP.jpg?raw=true" alt="ponce" width="300">
 </div>
@@ -466,6 +477,24 @@ From the Parque de los Gatos, we walked towards Old San Juan, the historic distr
 
 {:.no_toc}
 ###  Los Paraguas de la Fortaleza
+
+Take a look at the Calle de la Fortaleza, where you can find los Paraguas de la Fortaleza, "The Umbrellas of the Fortress". It is one of the most iconic and historically significant streets in town. It is renowned for its  cobblestone pavement, colonial buildings, and the colorful umbrellas.
+
+The umbrellas were originally installed in 2018 as part of an art project, hundreds of colorful umbrellas suspended over a section of Calle Fortaleza, aimed at revitalizing the street and attracting tourists. However, they quickly took on a deeper significance during the summer of 2019 amid widespread protests on the island.
+
+The protests erupted in response to a political scandal involving leaked private messages between then-Governor Ricardo Rosselló and his inner circle. The messages revealed profanity-laced, homophobic, and misogynistic remarks, as well as evidence of corruption and political manipulation. Anger and frustration over these revelations led to mass demonstrations calling for Rosselló's resignation and systemic change in Puerto Rico's government.
+
+During the height of the protests, "Los Paraguas de la Fortaleza" became a powerful symbol of unity and defiance. The colorful umbrellas, which provided shade and shelter from the sun during the day, transformed into a striking display of solidarity as protesters gathered beneath them, waving flags and chanting slogans demanding accountability and change. Ultimately, the protests led to Governor Rosselló's resignation, marking a significant moment in Puerto Rico's history.
+
+Definitely go check it, it's beautiful and meaningful!
+
+### El Parque de las Palomas
+Nearby, you can visit the Parque de las Palomas, "Park of the Pigeons" in English,. It is a public park well-known for its large population of pigeons: people have been feeding them in this park since the 18th century. On the wall, pigeons find refuge in square holes that were created in the 18th century, at a time when the heavily fortified city of San Juan erected a wall for cannon placement overlooking the southeastern coast of Puerto Rico. After the cannons were removed or ceased to be used, pigeons began to settle in the sockets left behind. 
+
+It also offers beautiful views of the city and the San Juan Bay.
+
+The park is opened Tuesday through Sunday, 9 a.m. to 6 pm. On Mondays the park is closed for maintenance. 
+
 
 ![paraguas]()
 
