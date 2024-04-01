@@ -416,7 +416,9 @@ The ticket to Castillo San Cristóbal also includes Fort San Felipe del Morro (s
 
 {:.no_toc}
 ###  Fort San Felipe del Morro
-We next headed Fort San Felipe del Morro. It is a large fortress and citadel in the historic district of Old San Juan. Commissioned by Charles I of Spain in 1539, it was first built as a fortified tower in honor of Philip II, who oversaw its expansion into a hornwork fort by 1595. Over the next 200 years, especially in the reign of Charles III, El Morro continued to be developed to reach its current form in 1787. Rising 140 ft from the Atlantic shoreline with 18 to 25 ft thick walls, it stands on a steep, rocky headland promontory on San Juan Islet guarding the entry to San Juan Bay, the harbor of Old San Juan. El Morro, alongside other forts part of the Walls of Old San Juan, protected strategically and militarily the city from invasion by competing world powers.
+We next headed Fort San Felipe del Morro. It is a large fortress and citadel in the historic district of Old San Juan. Commissioned by Charles I of Spain in 1539, it was first built as a fortified tower in honor of Philip II, who oversaw its expansion into a hornwork fort by 1595. Over the next 200 years, especially in the reign of Charles III, El Morro continued to be developed to reach its current form in 1787. Rising 140 ft from the Atlantic shoreline with 18 to 25 ft thick walls, it stands on a steep, rocky  promontory guarding the entry to San Juan Bay, the harbor of Old San Juan. 
+
+El Morro, alongside other forts part of the Walls of Old San Juan, protected strategically and militarily the city from invasion by competing world powers.
 
 <div class="row">
   <div class="column">
@@ -512,7 +514,12 @@ We then took a uber to go to the airport.
 
 {:.no_toc}
 ### In San Juan
-- Museum of Arts
+- Museo de Arte de Puerto Rico
+- Museo de Arte Contemporáneo de Puerto Rico
+- Museo de las Américas
+- Museo de Arte de Ponce
+- Casa Blanca
+
 
 
 {:.no_toc}
@@ -547,15 +554,11 @@ Puerto Rico is an expensive island and our budget for this trip was quite import
     - Diving and snorkeling with [Sea Ventures Pro Dive Center](https://divepuertorico.com/): **358.38$** for 2 people, one diver (2 dives) and one snorkeler. This also included lunch and equipment rental. Because of the weather, we unfortunately had to cancel the dives and snorkeling that day.
     - San Juan forts: **10$ per person**. The ticket includes entrance to both forts.
 
-- Food and drinks: **xxx$** for 2 people (only restaurants and cafes).
-    - Groceries:
-    - 
-
 - Transportation (taxis/ubers): 
     - Car Rental with Charlie Rental Car for 7 days: **302$** includive of the toll option. We did not have to pay for insurance since we were able to use our US insurance. All non-US travelers have to purchase the mendatory insurance.
-    - Golf Cart with UTV for 1 day: **xxx**
-    - Lyft from New Haven to Hartford for 2 people (round-trip): **XXX$**
-    - Ubers in San Juan:
+    - Golf Cart with UTV for 1 day: **90**
+    - Lyft from New Haven to Hartford for 2 people (round-trip): **120$**
+    - Ubers in San Juan
 
 - Communication: 0$ since Puerto Rico is a US territory and we were able to use our sim cards.
 
